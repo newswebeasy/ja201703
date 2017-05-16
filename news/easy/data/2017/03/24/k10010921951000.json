@@ -1,0 +1,76 @@
+{
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ミャンマーに「もみ<ruby>殻<rt>がら</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>って<ruby>電気<rt>でんき</rt></ruby>をつくる<ruby>発電所<rt>はつでんしょ</rt></ruby>", 
+  "news_easy_image_uri": "''", 
+  "news_easy_voice_uri": "k10010921951000.mp3", 
+  "news_prearranged_time": "2017-03-24 16:50:00", 
+  "outline": "ミャンマーでは６０%の人が農業をしていて、電気がある所は３０%ぐらいです。", 
+  "title": "ミャンマーに「もみ殻」を使って電気をつくる発電所", 
+  "words": [
+    {
+      "word": "発電所", 
+      "descriptions": [
+        "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "農業", 
+      "descriptions": [
+        "<ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。"
+      ]
+    }, 
+    {
+      "word": "首都", 
+      "descriptions": [
+        "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "皮", 
+      "descriptions": [
+        "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などの<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。", 
+        "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>をおおって<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。"
+      ]
+    }, 
+    {
+      "word": "動かす", 
+      "descriptions": [
+        "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。", 
+        "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。", 
+        "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。"
+      ]
+    }, 
+    {
+      "word": "農家", 
+      "descriptions": [
+        "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "量", 
+      "descriptions": [
+        "かさ。ますめ。", 
+        "ものをはかる。", 
+        "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。"
+      ]
+    }, 
+    {
+      "word": "協力", 
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。"
+      ]
+    }
+  ], 
+  "content": "ミャンマーでは６０%の人が農業をしていて、電気がある所は３０%ぐらいです。\nミャンマーの首都のネピドーに、米の皮の「もみ殻」を使って電気をつくる発電所ができました。この発電所は、米からもみ殻を取る工場の中にできました。この工場は電気が足りなくて困っていましたが、これからはいつでも工場を動かすことができます。\nこの発電所は、１５００軒の農家が使う量の電気をつくることができるため、これから多くの村に同じような発電所をつくる計画があります。発電所に協力している日本の会社の人は「今まで捨てていたもみ殻から電気をつくることができます」と話しています。", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p>ミャンマーでは６０%の<ruby>人<rt>ひと</rt></ruby>が<span class=\"newWord\"><ruby>農業<rt>のうぎょう</rt></ruby></span>をしていて、<ruby>電気<rt>でんき</rt></ruby>がある<ruby>所<rt>ところ</rt></ruby>は３０%ぐらいです。", 
+  "has_news_easy_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170323/k10010921951000.html?utm_int=nsearch_contents_search-items_001", 
+  "content_with_ruby": "<p>ミャンマーでは６０%の<ruby>人<rt>ひと</rt></ruby>が<span class=\"newWord\"><ruby>農業<rt>のうぎょう</rt></ruby></span>をしていて、<ruby>電気<rt>でんき</rt></ruby>がある<ruby>所<rt>ところ</rt></ruby>は３０%ぐらいです。</p>\n<p>ミャンマーの<span class=\"newWord\"><ruby>首都<rt>しゅと</rt></ruby></span>のネピドーに、<ruby>米<rt>こめ</rt></ruby>の<span class=\"newWord\"><ruby>皮<rt>かわ</rt></ruby></span>の「もみ<ruby>殻<rt>がら</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>って<ruby>電気<rt>でんき</rt></ruby>をつくる<span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>ができました。この<span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>は、<ruby>米<rt>こめ</rt></ruby>からもみ<ruby>殻<rt>がら</rt></ruby>を<ruby>取<rt>と</rt></ruby>る<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にできました。この<ruby>工場<rt>こうじょう</rt></ruby>は<ruby>電気<rt>でんき</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っていましたが、これからはいつでも<ruby>工場<rt>こうじょう</rt></ruby>を<span class=\"newWord\"><ruby>動<rt>うご</rt></ruby>かす</span>ことができます。</p>\n<p>この<span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>は、１５００<ruby>軒<rt>けん</rt></ruby>の<span class=\"newWord\"><ruby>農家<rt>のうか</rt></ruby></span>が<ruby>使<rt>つか</rt></ruby>う<span class=\"newWord\"><ruby>量<rt>りょう</rt></ruby></span>の<ruby>電気<rt>でんき</rt></ruby>をつくることができるため、これから<ruby>多<rt>おお</rt></ruby>くの<ruby>村<rt>むら</rt></ruby>に<ruby>同<rt>おな</rt></ruby>じような<span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>をつくる<ruby>計画<rt>けいかく</rt></ruby>があります。<span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>に<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>している<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>今<rt>いま</rt></ruby>まで<ruby>捨<rt>す</rt></ruby>てていたもみ<ruby>殻<rt>がら</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby>をつくることができます」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p></p>\n<p></p>", 
+  "news_easy_movie_uri": "''", 
+  "news_id": "k10010921951000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170323/../20170323/K10010921951_1703231848_1703232225_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "has_news_web_movie": false, 
+  "has_news_web_image": true
+}

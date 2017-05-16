@@ -1,0 +1,48 @@
+{
+  "news_web_movie_uri": "k10010921091_201703230729_201703230730.mp4", 
+  "title_with_ruby": "イギリスの<ruby>雑誌<rt>ざっし</rt></ruby>「<ruby>最近<rt>さいきん</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいない」", 
+  "news_easy_image_uri": "''", 
+  "news_easy_voice_uri": "k10010921091000.mp3", 
+  "news_prearranged_time": "2017-03-24 11:30:00", 
+  "outline": "イギリスの雑誌「ネイチャー」が、最近の日本の科学の研究について発表しました。", 
+  "title": "イギリスの雑誌「最近の日本は科学の研究が進んでいない」", 
+  "words": [
+    {
+      "word": "発表", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。"
+      ]
+    }, 
+    {
+      "word": "レベル", 
+      "descriptions": [
+        "<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "論文", 
+      "descriptions": [
+        "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "割合", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。", 
+        "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。"
+      ]
+    }
+  ], 
+  "content": "イギリスの雑誌「ネイチャー」が、最近の日本の科学の研究について発表しました。\nネイチャーによると、日本は２０１２年、レベルが高い世界の６８の科学雑誌に５２１２の論文を出しました。全部の論文の中の９．２％が日本の論文でした。しかし、２０１６年に出した論文は４７７９で、４００以上少なくなりました。割合は８．６％に下がりました。\nネイチャーは「レベルが高かった日本の研究は、最近は前のように進んでいません」と言っています。\nネイチャーによると、ドイツや中国、韓国などは科学の研究のために国がたくさんのお金を出しています。しかし、日本は大学のために使うお金を少なくしています。このため、若い人が時間をかけて十分に研究することが難しくなっているとネイチャーは言っています。", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p>イギリスの<ruby>雑誌<rt>ざっし</rt></ruby>「ネイチャー」が、<ruby>最近<rt>さいきん</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>について<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。", 
+  "has_news_easy_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170323/k10010921091000.html", 
+  "content_with_ruby": "<p>イギリスの<ruby>雑誌<rt>ざっし</rt></ruby>「ネイチャー」が、<ruby>最近<rt>さいきん</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>について<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>ネイチャーによると、<ruby>日本<rt>にっぽん</rt></ruby>は２０１２<ruby>年<rt>ねん</rt></ruby>、<span class=\"newWord\">レベル</span>が<ruby>高<rt>たか</rt></ruby>い<ruby>世界<rt>せかい</rt></ruby>の６８の<ruby>科学<rt>かがく</rt></ruby><ruby>雑誌<rt>ざっし</rt></ruby>に５２１２の<span class=\"newWord\"><ruby>論文<rt>ろんぶん</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>全部<rt>ぜんぶ</rt></ruby>の<span class=\"newWord\"><ruby>論文<rt>ろんぶん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>の９．２％が<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>論文<rt>ろんぶん</rt></ruby></span>でした。しかし、２０１６<ruby>年<rt>ねん</rt></ruby>に<ruby>出<rt>だ</rt></ruby>した<span class=\"newWord\"><ruby>論文<rt>ろんぶん</rt></ruby></span>は４７７９で、４００<ruby>以上<rt>いじょう</rt></ruby><ruby>少<rt>すく</rt></ruby>なくなりました。<span class=\"newWord\"><ruby>割合<rt>わりあい</rt></ruby></span>は８．６％に<ruby>下<rt>さ</rt></ruby>がりました。</p>\n<p>ネイチャーは「<span class=\"newWord\">レベル</span>が<ruby>高<rt>たか</rt></ruby>かった<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>のように<ruby>進<rt>すす</rt></ruby>んでいません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>ネイチャーによると、ドイツや<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>などは<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>のために<ruby>国<rt>くに</rt></ruby>がたくさんのお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しています。しかし、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>のために<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしています。このため、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>時間<rt>じかん</rt></ruby>をかけて<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>研究<rt>けんきゅう</rt></ruby>することが<ruby>難<rt>むずか</rt></ruby>しくなっているとネイチャーは<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "news_easy_movie_uri": "''", 
+  "news_id": "k10010921091000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170323/../20170323/K10010921091_1703230729_1703230730_01_03.jpg", 
+  "has_news_web_movie": true, 
+  "has_news_web_image": true
+}

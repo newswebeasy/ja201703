@@ -1,0 +1,107 @@
+{
+  "outline_with_ruby": "<p>ＮＨＫは<ruby>早稲田大学<rt>わせだだいがく</rt></ruby>などと<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>の<span class=\"newWord\"><ruby>原子力<rt>げんしりょく</rt></ruby></span><span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>で<ruby>事故<rt>じこ</rt></ruby>があった<ruby>福島県<rt>ふくしまけん</rt></ruby>からほかの<ruby>県<rt>けん</rt></ruby>などに<span class=\"newWord\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちに<span class=\"newWord\">アンケート</span>を<ruby>行<rt>おこな</rt></ruby>いました。", 
+  "title": "福島県から避難した大勢の人が「嫌なことを言われた」", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010903891000.html", 
+  "has_news_easy_image": false, 
+  "news_web_movie_uri": "k10010903891_201703090529_201703090529.mp4", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010903891_1703090529_1703090529_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "避難", 
+      "descriptions": [
+        "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。"
+      ]
+    }, 
+    {
+      "word": "原子力", 
+      "descriptions": [
+        "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。"
+      ]
+    }, 
+    {
+      "word": "発電所", 
+      "descriptions": [
+        "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "アンケート", 
+      "descriptions": [
+        "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "給料", 
+      "descriptions": [
+        "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。"
+      ]
+    }, 
+    {
+      "word": "傷", 
+      "descriptions": [
+        "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。", 
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。", 
+        "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "付ける", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。", 
+        "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。", 
+        "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。", 
+        "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。", 
+        "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。", 
+        "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。", 
+        "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。", 
+        "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。", 
+        "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。"
+      ]
+    }, 
+    {
+      "word": "団地", 
+      "descriptions": [
+        "<ruby><rb>住宅</rb><rt>じゅうたく</rt></ruby>を<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めたものにもいう。"
+      ]
+    }, 
+    {
+      "word": "行事", 
+      "descriptions": [
+        "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。"
+      ]
+    }, 
+    {
+      "word": "教授", 
+      "descriptions": [
+        "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ふるさと", 
+      "descriptions": [
+        "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "つらい", 
+      "descriptions": [
+        "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。"
+      ]
+    }
+  ], 
+  "news_prearranged_time": "2017-03-09 16:40:00", 
+  "has_news_web_image": true, 
+  "news_easy_voice_uri": "k10010903891000.mp3", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_movie": true, 
+  "content": "ＮＨＫは早稲田大学などと一緒に、東京電力の原子力発電所で事故があった福島県からほかの県などに避難した人たちにアンケートを行いました。アンケートに答えた７４１人のうち、半分ぐらいの３３４人が、避難したあと、周りの人から嫌なことを言われたり、されたりしたことがあると答えました。\nこの中でいちばん多かったのは、避難した人が東京電力からもらったお金のことでした。「東京電力からお金をもらっているから給料を上げる必要がないと言われた」と答えた人がいました。そのほか、「車に傷をつけられた」や、「住んでいる団地の行事に出ることができなかった」と答えた人もいました。\n会社で嫌なことを言われた男性は「２人の子どももいじめられたので、福島県から来たことは言わないようにしています」と話していました。\n早稲田大学の教授は「避難した人たちは家やふるさとをなくして、今もつらい生活をしていることを忘れないでほしいです」と話しています。", 
+  "title_with_ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby>から<ruby>避難<rt>ひなん</rt></ruby>した<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>嫌<rt>いや</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>われた」", 
+  "news_id": "k10010903891000", 
+  "outline": "ＮＨＫは早稲田大学などと一緒に、東京電力の原子力発電所で事故があった福島県からほかの県などに避難した人たちにアンケートを行いました。", 
+  "content_with_ruby": "<p>ＮＨＫは<ruby>早稲田大学<rt>わせだだいがく</rt></ruby>などと<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>の<span class=\"newWord\"><ruby>原子力<rt>げんしりょく</rt></ruby></span><span class=\"newWord\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>で<ruby>事故<rt>じこ</rt></ruby>があった<ruby>福島県<rt>ふくしまけん</rt></ruby>からほかの<ruby>県<rt>けん</rt></ruby>などに<span class=\"newWord\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちに<span class=\"newWord\">アンケート</span>を<ruby>行<rt>おこな</rt></ruby>いました。<span class=\"newWord\">アンケート</span>に<ruby>答<rt>こた</rt></ruby>えた７４１<ruby>人<rt>にん</rt></ruby>のうち、<ruby>半分<rt>はんぶん</rt></ruby>ぐらいの３３４<ruby>人<rt>にん</rt></ruby>が、<span class=\"newWord\"><ruby>避難<rt>ひなん</rt></ruby></span>したあと、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>から<ruby>嫌<rt>いや</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>われたり、されたりしたことがあると<ruby>答<rt>こた</rt></ruby>えました。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かったのは、<span class=\"newWord\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>が<ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>からもらったお<ruby>金<rt>かね</rt></ruby>のことでした。「<ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>をもらっているから<span class=\"newWord\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げる<ruby>必要<rt>ひつよう</rt></ruby>がないと<ruby>言<rt>い</rt></ruby>われた」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>がいました。そのほか、「<ruby>車<rt>くるま</rt></ruby>に<span class=\"newWord\"><ruby>傷<rt>きず</rt></ruby></span>を<span class=\"newWord\">つけ</span>られた」や、「<ruby>住<rt>す</rt></ruby>んでいる<span class=\"newWord\"><ruby>団地<rt>だんち</rt></ruby></span>の<span class=\"newWord\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ることができなかった」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>嫌<rt>いや</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>われた<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>２人<rt>ふたり</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どももいじめられたので、<ruby>福島県<rt>ふくしまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>たことは<ruby>言<rt>い</rt></ruby>わないようにしています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p><ruby>早稲田大学<rt>わせだだいがく</rt></ruby>の<span class=\"newWord\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は「<span class=\"newWord\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは<ruby>家<rt>いえ</rt></ruby>や<span class=\"newWord\">ふるさと</span>をなくして、<ruby>今<rt>いま</rt></ruby>も<span class=\"newWord\">つらい</span><ruby>生活<rt>せいかつ</rt></ruby>をしていることを<ruby>忘<rt>わす</rt></ruby>れないでほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p></p>\n<p></p>\n<p></p>", 
+  "has_news_easy_movie": false
+}

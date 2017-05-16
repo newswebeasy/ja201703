@@ -1,0 +1,47 @@
+{
+  "news_easy_image_uri": "''", 
+  "has_news_web_movie": true, 
+  "title": "名古屋城の天守閣を昔のように木で建てることが決まる", 
+  "news_prearranged_time": "2017-03-27 11:30:00", 
+  "news_web_movie_uri": "k10010921801_201703232144_201703232149.mp4", 
+  "outline": "名古屋市には有名な城の名古屋城があります。", 
+  "has_news_easy_voice": true, 
+  "has_news_easy_movie": false, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170323/../20170323/K10010921801_1703232144_1703232150_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "outline_with_ruby": "<p><ruby>名古屋市<rt>なごやし</rt></ruby>には<ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"newWord\"><ruby>城<rt>しろ</rt></ruby></span>の<ruby>名古屋城<rt>なごやじょう</rt></ruby>があります。", 
+  "has_news_easy_image": false, 
+  "news_easy_movie_uri": "''", 
+  "content": "名古屋市には有名な城の名古屋城があります。城でいちばん立派な建物の天守閣は１６１２年にできました。天守閣は戦争で焼けてしまったため、１９５９年に鉄筋コンクリートでもう１度建てました。しかし、最近、この建物が古くなってきました。\n名古屋市は、天守閣をもう１度建てることについて議会で相談していました。そして、昔のように木で建てることを決めました。工事には５００億円以上かかります。\n名古屋市は、２０１９年の秋ごろに今の天守閣を壊して、２０２２年に新しい天守閣ができるようにしたいと考えています。", 
+  "content_with_ruby": "<p><ruby>名古屋市<rt>なごやし</rt></ruby>には<ruby>有名<rt>ゆうめい</rt></ruby>な<span class=\"newWord\"><ruby>城<rt>しろ</rt></ruby></span>の<ruby>名古屋城<rt>なごやじょう</rt></ruby>があります。<span class=\"newWord\"><ruby>城<rt>しろ</rt></ruby></span>でいちばん<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>天守閣<rt>てんしゅかく</rt></ruby>は１６１２<ruby>年<rt>ねん</rt></ruby>にできました。<ruby>天守閣<rt>てんしゅかく</rt></ruby>は<ruby>戦争<rt>せんそう</rt></ruby>で<ruby>焼<rt>や</rt></ruby>けてしまったため、１９５９<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\"><ruby>鉄筋<rt>てっきん</rt></ruby>コンクリート</span>でもう１<ruby>度<rt>ど</rt></ruby><ruby>建<rt>た</rt></ruby>てました。しかし、<ruby>最近<rt>さいきん</rt></ruby>、この<ruby>建物<rt>たてもの</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>くなってきました。</p>\n<p><ruby>名古屋市<rt>なごやし</rt></ruby>は、<ruby>天守閣<rt>てんしゅかく</rt></ruby>をもう１<ruby>度<rt>ど</rt></ruby><ruby>建<rt>た</rt></ruby>てることについて<span class=\"newWord\"><ruby>議会<rt>ぎかい</rt></ruby></span>で<ruby>相談<rt>そうだん</rt></ruby>していました。そして、<ruby>昔<rt>むかし</rt></ruby>のように<ruby>木<rt>き</rt></ruby>で<ruby>建<rt>た</rt></ruby>てることを<ruby>決<rt>き</rt></ruby>めました。<span class=\"newWord\"><ruby>工事<rt>こうじ</rt></ruby></span>には５００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかります。</p>\n<p><ruby>名古屋市<rt>なごやし</rt></ruby>は、２０１９<ruby>年<rt>ねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>ごろに<ruby>今<rt>いま</rt></ruby>の<ruby>天守閣<rt>てんしゅかく</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>して、２０２２<ruby>年<rt>ねん</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>天守閣<rt>てんしゅかく</rt></ruby>ができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n<p></p>", 
+  "words": [
+    {
+      "word": "城", 
+      "descriptions": [
+        "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "鉄筋コンクリート", 
+      "descriptions": [
+        "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>の<ruby><rb>棒</rb><rt>ぼう</rt></ruby>を<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、コンクリートで<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>造</rb><rt>つく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。"
+      ]
+    }, 
+    {
+      "word": "議会", 
+      "descriptions": [
+        "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。"
+      ]
+    }, 
+    {
+      "word": "工事", 
+      "descriptions": [
+        "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。"
+      ]
+    }
+  ], 
+  "news_id": "k10010921801000", 
+  "news_easy_voice_uri": "k10010921801000.mp3", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170323/k10010921801000.html?utm_int=nsearch_contents_search-items_001", 
+  "title_with_ruby": "<ruby>名古屋城<rt>なごやじょう</rt></ruby>の<ruby>天守閣<rt>てんしゅかく</rt></ruby>を<ruby>昔<rt>むかし</rt></ruby>のように<ruby>木<rt>き</rt></ruby>で<ruby>建<rt>た</rt></ruby>てることが<ruby>決<rt>き</rt></ruby>まる", 
+  "has_news_web_image": true
+}

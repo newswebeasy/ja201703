@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "考え"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "デパートや<ruby><rb>商店</rb><rt>しょうてん</rt></ruby>が、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じように<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、<ruby><rb>金額</rb><rt>きんがく</rt></ruby>を<ruby><rb>記</rb><rt>しる</rt></ruby>して<ruby><rb>発行</rb><rt>はっこう</rt></ruby>する<ruby><rb>券</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "商品券"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ]
+    }
+  }
+}

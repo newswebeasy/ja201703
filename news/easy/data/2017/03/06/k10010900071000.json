@@ -1,0 +1,73 @@
+{
+  "title_with_ruby": "<ruby>訓練<rt>くんれん</rt></ruby>で<ruby>飛<rt>と</rt></ruby>んでいたヘリコプターが<ruby>山<rt>やま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて９<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる", 
+  "has_news_web_movie": false, 
+  "has_news_easy_movie": false, 
+  "news_id": "k10010900071000", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170306/k10010900071000.html", 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170306/../20170306/K10010900071_1703061043_1703061045_01_02.jpg", 
+  "title": "訓練で飛んでいたヘリコプターが山に落ちて９人亡くなる", 
+  "outline": "５日午後、長野県のヘリコプターが松本市にある鉢伏山に落ちました。", 
+  "news_web_movie_uri": "", 
+  "outline_with_ruby": "<p><ruby>５日<rt>いつか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>、<ruby>長野県<rt>ながのけん</rt></ruby>の<span class=\"newWord\">ヘリコプター</span>が<ruby>松本市<rt>まつもとし</rt></ruby>にある<ruby>鉢伏山<rt>はちぶせやま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちました。", 
+  "content": "５日午後、長野県のヘリコプターが松本市にある鉢伏山に落ちました。ヘリコプターには長野県の職員９人が乗って、山で事故にあった人などを助ける訓練をしていました。\n５日夜、９人のうち３人が亡くなったことがわかりました。そして６日、ヘリコプターの中から見つかったほかの６人も亡くなったことがわかりました。\n長野県によると、このヘリコプターは山で人を助けたり、山の火事を消したりするときに使っていました。２月に点検をしましたが、ヘリコプターに異常はありませんでした。警察などは落ちた原因を調べています。", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。"
+      ], 
+      "word": "訓練"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。"
+      ], 
+      "word": "ヘリコプター"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "職員"
+    }, 
+    {
+      "descriptions": [
+        "（<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。"
+      ], 
+      "word": "遭う"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。", 
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。"
+      ], 
+      "word": "助ける"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。", 
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。"
+      ], 
+      "word": "助ける"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つよく<ruby><rb>調</rb><rt>しら</rt></ruby>べること。"
+      ], 
+      "word": "点検"
+    }, 
+    {
+      "descriptions": [
+        "ふつうとちがう<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なようす。"
+      ], 
+      "word": "異常"
+    }
+  ], 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_voice_uri": "k10010900071000.mp3", 
+  "content_with_ruby": "<p><ruby>５日<rt>いつか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>、<ruby>長野県<rt>ながのけん</rt></ruby>の<span class=\"newWord\">ヘリコプター</span>が<ruby>松本市<rt>まつもとし</rt></ruby>にある<ruby>鉢伏山<rt>はちぶせやま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちました。<span class=\"newWord\">ヘリコプター</span>には<ruby>長野県<rt>ながのけん</rt></ruby>の<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>９<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>って、<ruby>山<rt>やま</rt></ruby>で<ruby>事故<rt>じこ</rt></ruby>に<span class=\"newWord\">あっ</span>た<ruby>人<rt>ひと</rt></ruby>などを<span class=\"newWord\"><ruby>助<rt>たす</rt></ruby>ける</span><span class=\"newWord\"><ruby>訓練<rt>くんれん</rt></ruby></span>をしていました。</p>\n<p><ruby>５日<rt>いつか</rt></ruby><ruby>夜<rt>よる</rt></ruby>、９<ruby>人<rt>にん</rt></ruby>のうち３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったことがわかりました。そして<ruby>６日<rt>むいか</rt></ruby>、<span class=\"newWord\">ヘリコプター</span>の<ruby>中<rt>なか</rt></ruby>から<ruby>見<rt>み</rt></ruby>つかったほかの６<ruby>人<rt>にん</rt></ruby>も<ruby>亡<rt>な</rt></ruby>くなったことがわかりました。</p>\n<p><ruby>長野県<rt>ながのけん</rt></ruby>によると、この<span class=\"newWord\">ヘリコプター</span>は<ruby>山<rt>やま</rt></ruby>で<ruby>人<rt>ひと</rt></ruby>を<span class=\"newWord\"><ruby>助<rt>たす</rt></ruby>け</span>たり、<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>を<ruby>消<rt>け</rt></ruby>したりするときに<ruby>使<rt>つか</rt></ruby>っていました。２<ruby>月<rt>がつ</rt></ruby>に<span class=\"newWord\"><ruby>点検<rt>てんけん</rt></ruby></span>をしましたが、<span class=\"newWord\">ヘリコプター</span>に<span class=\"newWord\"><ruby>異常<rt>いじょう</rt></ruby></span>はありませんでした。<ruby>警察<rt>けいさつ</rt></ruby>などは<ruby>落<rt>お</rt></ruby>ちた<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>", 
+  "has_news_easy_image": false, 
+  "news_prearranged_time": "2017-03-06 16:55:00", 
+  "news_easy_image_uri": "''"
+}

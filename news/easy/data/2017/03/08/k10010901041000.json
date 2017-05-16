@@ -1,0 +1,70 @@
+{
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span class=\"newWord\">オリンピック</span>と<span class=\"newWord\">パラリンピック</span>があります。", 
+  "news_prearranged_time": "2017-03-08 11:30:00", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。"
+      ], 
+      "word": "オリンピック"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。"
+      ], 
+      "word": "パラリンピック"
+    }, 
+    {
+      "descriptions": [
+        "ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。", 
+        "もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。"
+      ], 
+      "word": "利益"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。", 
+        "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。"
+      ], 
+      "word": "兆"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。", 
+        "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。"
+      ], 
+      "word": "大会"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。", 
+        "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。", 
+        "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。"
+      ], 
+      "word": "計算"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>入</rb><rt>い</rt></ruby>れないこと。じか。"
+      ], 
+      "word": "直接"
+    }
+  ], 
+  "has_news_easy_voice": true, 
+  "news_id": "k10010901041000", 
+  "has_news_web_image": true, 
+  "outline": "２０２０年に東京でオリンピックとパラリンピックがあります。", 
+  "has_news_easy_image": false, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170307/../20170307/K10010901041_1703070442_1703070444_01_03.jpg", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170307/k10010901041000.html", 
+  "title": "東京オリンピックとパラリンピック　経済の利益は３２兆円", 
+  "content_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span class=\"newWord\">オリンピック</span>と<span class=\"newWord\">パラリンピック</span>があります。<ruby>東京都<rt>とうきょうと</rt></ruby>は、この２つの<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>を<ruby>開<rt>ひら</rt></ruby>くことが<ruby>決<rt>き</rt></ruby>まった２０１３<ruby>年<rt>ねん</rt></ruby>から２０３０<ruby>年<rt>ねん</rt></ruby>までに、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>にどのくらい<span class=\"newWord\"><ruby>利益<rt>りえき</rt></ruby></span>があるか<span class=\"newWord\"><ruby>計算<rt>けいさん</rt></ruby></span>しました。</p>\n<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>試合<rt>しあい</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることや<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことなど、<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>に<span class=\"newWord\"><ruby>直接<rt>ちょくせつ</rt></ruby></span><ruby>関係<rt>かんけい</rt></ruby>があることでは５<span class=\"newWord\"><ruby>兆<rt>ちょう</rt></ruby></span>２１００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>の<span class=\"newWord\"><ruby>利益<rt>りえき</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>このほか、<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>には<span class=\"newWord\"><ruby>直接<rt>ちょくせつ</rt></ruby></span><ruby>関係<rt>かんけい</rt></ruby>がなくても、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などが<ruby>建物<rt>たてもの</rt></ruby>や<ruby>交通<rt>こうつう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>しやすくすることなどで２７<span class=\"newWord\"><ruby>兆<rt>ちょう</rt></ruby></span>１０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>の<span class=\"newWord\"><ruby>利益<rt>りえき</rt></ruby></span>になると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p><ruby>全部<rt>ぜんぶ</rt></ruby>の<span class=\"newWord\"><ruby>利益<rt>りえき</rt></ruby></span>を<ruby>足<rt>た</rt></ruby>すと、<span class=\"newWord\">オリンピック</span>と<span class=\"newWord\">パラリンピック</span>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>に３２<span class=\"newWord\"><ruby>兆<rt>ちょう</rt></ruby></span>３０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span class=\"newWord\"><ruby>利益<rt>りえき</rt></ruby></span>があることになります。</p>\n<p></p>\n<p></p>", 
+  "news_web_movie_uri": "k10010901041_201703070442_201703070443.mp4", 
+  "has_news_easy_movie": false, 
+  "content": "２０２０年に東京でオリンピックとパラリンピックがあります。東京都は、この２つの大会を開くことが決まった２０１３年から２０３０年までに、日本の経済にどのくらい利益があるか計算しました。\n東京都は、試合の会場を作ることや試合を見に来る人がお金を使うことなど、大会に直接関係があることでは５兆２１００億円の利益があると言っています。\nこのほか、大会には直接関係がなくても、市や町などが建物や交通を利用しやすくすることなどで２７兆１０００億円の利益になると言っています。\n全部の利益を足すと、オリンピックとパラリンピックで日本の経済に３２兆３０００億円以上の利益があることになります。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピック　<ruby>経済<rt>けいざい</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>は３２<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>", 
+  "news_easy_image_uri": "''", 
+  "news_easy_voice_uri": "k10010901041000.mp3"
+}

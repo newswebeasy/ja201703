@@ -1,0 +1,75 @@
+{
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-17 15:45:00", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170317/k10010914511000.html", 
+  "words": [
+    {
+      "word": "国会", 
+      "descriptions": [
+        "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。"
+      ]
+    }, 
+    {
+      "word": "土地", 
+      "descriptions": [
+        "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。", 
+        "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。", 
+        "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "議員", 
+      "descriptions": [
+        "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。"
+      ]
+    }, 
+    {
+      "word": "総理大臣", 
+      "descriptions": [
+        "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "寄付", 
+      "descriptions": [
+        "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "協力", 
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。"
+      ]
+    }, 
+    {
+      "word": "証人", 
+      "descriptions": [
+        "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>などで、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりした<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>述</rb><rt>の</rt></ruby>べる<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "罪", 
+      "descriptions": [
+        "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や、<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことに、そむいた<ruby><rb>行</rb><rt>おこな</rt></ruby>い。<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>。", 
+        "ばつ。", 
+        "<ruby><rb>思</rb><rt>おも</rt></ruby>いやりがなく、<ruby><rb>意地悪</rb><rt>いじわる</rt></ruby>なようす。"
+      ]
+    }
+  ], 
+  "has_news_web_movie": true, 
+  "content_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>」は、<ruby>国<rt>くに</rt></ruby>から<ruby>買<rt>か</rt></ruby>った<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>でした。しかし、<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>が<ruby>買<rt>か</rt></ruby>った<ruby>値段<rt>ねだん</rt></ruby>がとても<ruby>安<rt>やす</rt></ruby>かったことなどがわかって、<ruby>問題<rt>もんだい</rt></ruby>になりました。<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>から<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めようとしていましたが、やめました。</p>\n<p>１６<ruby>日<rt>にち</rt></ruby>、<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>の<span class=\"newWord\"><ruby>議員<rt>ぎいん</rt></ruby></span>たちが<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>だった<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>の<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>は<span class=\"newWord\"><ruby>議員<rt>ぎいん</rt></ruby></span>たちに、おととし９<ruby>月<rt>がつ</rt></ruby>に<ruby>安倍<rt>あべ</rt></ruby><span class=\"newWord\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>妻<rt>つま</rt></ruby>から<span class=\"newWord\"><ruby>寄付<rt>きふ</rt></ruby></span>を１００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>もらったと<ruby>話<rt>はな</rt></ruby>しました。しかし、<ruby>安倍<rt>あべ</rt></ruby><span class=\"newWord\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は<ruby>自分<rt>じぶん</rt></ruby>も<ruby>妻<rt>つま</rt></ruby>も<span class=\"newWord\"><ruby>寄付<rt>きふ</rt></ruby></span>をしたことはないと<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p>このため、<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>は２３<ruby>日<rt>にち</rt></ruby>に<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んで<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことになりました。<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>では、<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>が<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>ったときに<ruby>政治家<rt>せいじか</rt></ruby>に<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してもらったかどうかも<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きます。</p>\n<p><ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>は<span class=\"newWord\"><ruby>証人<rt>しょうにん</rt></ruby></span>になります。<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>で<span class=\"newWord\"><ruby>証人<rt>しょうにん</rt></ruby></span>がうそを<ruby>言<rt>い</rt></ruby>うと<span class=\"newWord\"><ruby>罪<rt>つみ</rt></ruby></span>になります。</p>\n<p></p>\n<p></p>", 
+  "outline_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>」は、<ruby>国<rt>くに</rt></ruby>から<ruby>買<rt>か</rt></ruby>った<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>でした。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_easy_voice": true, 
+  "outline": "大阪の「森友学園」は、国から買った土地に新しい小学校を作る予定でした。", 
+  "title": "国会が２３日に森友学園の籠池理事長を呼んで話を聞く", 
+  "news_web_movie_uri": "k10010914511_201703170521_201703170523.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_image": true, 
+  "content": "大阪の「森友学園」は、国から買った土地に新しい小学校を作る予定でした。しかし、森友学園が買った値段がとても安かったことなどがわかって、問題になりました。森友学園は今年の４月から小学校を始めようとしていましたが、やめました。\n１６日、国会の議員たちが小学校を作る予定だった場所を見に行きました。森友学園の籠池理事長は議員たちに、おととし９月に安倍総理大臣の妻から寄付を１００万円もらったと話しました。しかし、安倍総理大臣は自分も妻も寄付をしたことはないと話しています。\nこのため、国会は２３日に籠池理事長を呼んで話を聞くことになりました。国会では、森友学園が土地を買ったときに政治家に協力してもらったかどうかも籠池理事長に聞きます。\n籠池理事長は証人になります。国会で証人がうそを言うと罪になります。", 
+  "news_easy_voice_uri": "k10010914511000.mp3", 
+  "title_with_ruby": "<ruby>国会<rt>こっかい</rt></ruby>が２３<ruby>日<rt>にち</rt></ruby>に<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>の<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んで<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く", 
+  "news_id": "k10010914511000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170317/../20170317/K10010914511_1703170017_1703170403_01_02.jpg"
+}

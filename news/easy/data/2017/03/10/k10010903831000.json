@@ -1,0 +1,60 @@
+{
+  "outline": "５月５日の子どもの日、日本では男の子が元気に育つことを祈って、家の庭などに「こいのぼり」を飾ります。", 
+  "title": "宮崎県　１００匹の「こいのぼり」が空を泳ぐ", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010903831000.html", 
+  "outline_with_ruby": "<p>５<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>日<rt>ひ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>に<span class=\"newWord\"><ruby>育<rt>そだ</rt></ruby>つ</span>ことを<ruby>祈<rt>いの</rt></ruby>って、<ruby>家<rt>いえ</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などに「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>ります。", 
+  "news_web_movie_uri": "k10010903831_201703090011_201703090012.mp4", 
+  "news_id": "k10010903831000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "<ruby>宮崎県<rt>みやざきけん</rt></ruby>　１００<ruby>匹<rt>ぴき</rt></ruby>の「こいのぼり」が<ruby>空<rt>そら</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>ぐ", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010903831_1703090011_1703090013_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "content_with_ruby": "<p>５<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>日<rt>ひ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>に<span class=\"newWord\"><ruby>育<rt>そだ</rt></ruby>つ</span>ことを<ruby>祈<rt>いの</rt></ruby>って、<ruby>家<rt>いえ</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などに「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>ります。「こいのぼり」は、<span class=\"newWord\">こい</span>という<ruby>魚<rt>さかな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をしていて、<span class=\"newWord\"><ruby>布<rt>ぬの</rt></ruby></span>や<ruby>紙<rt>かみ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ります。</p>\n<p><ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>美郷町<rt>みさとちょう</rt></ruby>の<ruby>和田地区<rt>わだちく</rt></ruby>では２<ruby>月<rt>がつ</rt></ruby>から５<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>まで、<span class=\"newWord\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちが<span class=\"newWord\"><ruby>田<rt>た</rt></ruby>んぼ</span>に「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>っています。<span class=\"newWord\"><ruby>田<rt>た</rt></ruby>んぼ</span>には「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>るために<ruby>高<rt>たか</rt></ruby>さ１０ｍぐらいの<span class=\"newWord\"><ruby>竹<rt>たけ</rt></ruby></span>を２４<ruby>本<rt>ほん</rt></ruby><ruby>立<rt>た</rt></ruby>てました。<ruby>赤<rt>あか</rt></ruby>や<ruby>青<rt>あお</rt></ruby>や<ruby>緑<rt>みどり</rt></ruby>の１００<ruby>匹<rt>ぴき</rt></ruby>ぐらいの「こいのぼり」が<ruby>空<rt>そら</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>いでいます。</p>\n<p><ruby>和田地区<rt>わだちく</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１０<ruby>年<rt>ねん</rt></ruby>で２０％ぐらい<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>今<rt>いま</rt></ruby>３２０<ruby>人<rt>にん</rt></ruby>ぐらいです。<span class=\"newWord\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「たくさんの<ruby>人<rt>ひと</rt></ruby>に『こいのぼり』を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらって、<ruby>町<rt>まち</rt></ruby>を<ruby>元気<rt>げんき</rt></ruby>にしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p></p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010903831000.mp3", 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-10 11:30:00", 
+  "has_news_easy_image": false, 
+  "words": [
+    {
+      "word": "育つ", 
+      "descriptions": [
+        "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。", 
+        "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。"
+      ]
+    }, 
+    {
+      "word": "鯉", 
+      "descriptions": [
+        "<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>池</rb><rt>いけ</rt></ruby>などにすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>口</rb><rt>くち</rt></ruby>に<ruby><rb>四本</rb><rt>よんほん</rt></ruby>のひげがある。<ruby><rb>見</rb><rt>み</rt></ruby>て<ruby><rb>楽</rb><rt>たの</rt></ruby>しむヒゴイ・ニシキゴイや、<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にするマゴイなどがいる。"
+      ]
+    }, 
+    {
+      "word": "布", 
+      "descriptions": [
+        "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。"
+      ]
+    }, 
+    {
+      "word": "農家", 
+      "descriptions": [
+        "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "田んぼ", 
+      "descriptions": [
+        "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "竹", 
+      "descriptions": [
+        "<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。"
+      ]
+    }
+  ], 
+  "content": "５月５日の子どもの日、日本では男の子が元気に育つことを祈って、家の庭などに「こいのぼり」を飾ります。「こいのぼり」は、こいという魚の形をしていて、布や紙で作ります。\n宮崎県美郷町の和田地区では２月から５月５日まで、農家の人たちが田んぼに「こいのぼり」を飾っています。田んぼには「こいのぼり」を飾るために高さ１０ｍぐらいの竹を２４本立てました。赤や青や緑の１００匹ぐらいの「こいのぼり」が空を泳いでいます。\n和田地区の人口は１０年で２０％ぐらい少なくなって、今３２０人ぐらいです。農家の人は「たくさんの人に『こいのぼり』を見に来てもらって、町を元気にしたいです」と話しています。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_image": true
+}

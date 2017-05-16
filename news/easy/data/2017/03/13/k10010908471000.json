@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "word": "山車", 
+      "descriptions": [
+        "<ruby><rb>祭</rb><rt>まつ</rt></ruby>りのとき、いろいろなかざり<ruby><rb>物</rb><rt>もの</rt></ruby>をつけて<ruby><rb>引</rb><rt>ひ</rt></ruby>いて<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>車</rb><rt>くるま</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "健康", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。", 
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。"
+      ]
+    }, 
+    {
+      "word": "梅", 
+      "descriptions": [
+        "<ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。"
+      ]
+    }, 
+    {
+      "word": "桜", 
+      "descriptions": [
+        "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。"
+      ]
+    }, 
+    {
+      "word": "飾り", 
+      "descriptions": [
+        "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。"
+      ]
+    }, 
+    {
+      "word": "竜", 
+      "descriptions": [
+        "<ruby><rb>想像上</rb><rt>そうぞうじょう</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>はヘビに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>と<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>空</rb><rt>そら</rt></ruby>にのぼり、<ruby><rb>雲</rb><rt>くも</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こし、<ruby><rb>雨</rb><rt>あめ</rt></ruby>を<ruby><rb>降</rb><rt>ふ</rt></ruby>らせるといわれる。たつ。", 
+        "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の、<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>爬虫類</rb><rt>はちゅうるい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "彫刻", 
+      "descriptions": [
+        "<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などを、ほったりけずったりして、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>をつくること。また、その<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "太鼓", 
+      "descriptions": [
+        "<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>胴</rb><rt>どう</rt></ruby>に<ruby><rb>皮</rb><rt>かわ</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らすもの。"
+      ]
+    }, 
+    {
+      "word": "喜び", 
+      "descriptions": [
+        "<ruby><rb>喜</rb><rt>よろこ</rt></ruby>ぶこと。うれしい<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。", 
+        "お<ruby><rb>祝</rb><rt>いわ</rt></ruby>いのことば。"
+      ]
+    }, 
+    {
+      "word": "感じる", 
+      "descriptions": [
+        "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。", 
+        "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。", 
+        "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。"
+      ]
+    }
+  ], 
+  "news_easy_voice_uri": "k10010908471000.mp3", 
+  "has_news_web_movie": true, 
+  "news_id": "k10010908471000", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>、みんなの<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>や<ruby>米<rt>こめ</rt></ruby>などがよくできることを<ruby>祈<rt>いの</rt></ruby>ってお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>っています。", 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170312/k10010908471000.html", 
+  "title_with_ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>で<ruby>春<rt>はる</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>り　きれいな<ruby>山車<rt>だし</rt></ruby>が<ruby>町<rt>まち</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>る", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "title": "埼玉県秩父市で春のお祭り　きれいな山車が町を回る", 
+  "content_with_ruby": "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>、みんなの<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>や<ruby>米<rt>こめ</rt></ruby>などがよくできることを<ruby>祈<rt>いの</rt></ruby>ってお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>っています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>にお<ruby>祭<rt>まつ</rt></ruby>りがあって、<span class=\"newWord\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いている<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を３<ruby>台<rt>だい</rt></ruby>の<span class=\"newWord\"><ruby>山車<rt>だし</rt></ruby></span>が<ruby>回<rt>まわ</rt></ruby>りました。<span class=\"newWord\"><ruby>山車<rt>だし</rt></ruby></span>は<ruby>高<rt>たか</rt></ruby>さが６ｍぐらいで、<span class=\"newWord\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>のような<span class=\"newWord\"><ruby>飾<rt>かざ</rt></ruby>り</span>やきれいな<ruby>色<rt>いろ</rt></ruby>の<span class=\"newWord\"><ruby>竜<rt>りゅう</rt></ruby></span>の<span class=\"newWord\"><ruby>彫刻<rt>ちょうこく</rt></ruby></span>などがあります。１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>使<rt>つか</rt></ruby>っていて、<ruby>市<rt>し</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>にすると<ruby>決<rt>き</rt></ruby>めています。</p>\n<p>お<ruby>祭<rt>まつ</rt></ruby>りの<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<span class=\"newWord\"><ruby>山車<rt>だし</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>っている<ruby>男<rt>おとこ</rt></ruby>たちが、<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で「ホーリャイ、ホーリャイ」と<ruby>言<rt>い</rt></ruby>うと、<span class=\"newWord\"><ruby>山車<rt>だし</rt></ruby></span>はゆっくり<ruby>進<rt>すす</rt></ruby>んでいました。<span class=\"newWord\"><ruby>太鼓<rt>たいこ</rt></ruby></span>などのにぎやかな<ruby>音<rt>おと</rt></ruby>も<ruby>聞<rt>き</rt></ruby>こえました。</p>\n<p>１２<ruby>日<rt>にち</rt></ruby>の<ruby>秩父市<rt>ちちぶし</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>くなりましたが、たくさんの<ruby>人<rt>ひと</rt></ruby>がお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ていました。<ruby>見<rt>み</rt></ruby>ていた<ruby>男性<rt>だんせい</rt></ruby>は「みなさんの<ruby>顔<rt>かお</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<span class=\"newWord\"><ruby>喜<rt>よろこ</rt></ruby>び</span>を<span class=\"newWord\"><ruby>感<rt>かん</rt></ruby>じ</span>ます」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p></p>\n<p></p>\n<p></p>", 
+  "outline": "埼玉県秩父市では毎年３月、みんなの健康や米などがよくできることを祈ってお祭りを行っています。", 
+  "content": "埼玉県秩父市では毎年３月、みんなの健康や米などがよくできることを祈ってお祭りを行っています。\n今年は１２日にお祭りがあって、梅の花が咲いている町の中を３台の山車が回りました。山車は高さが６ｍぐらいで、桜の花のような飾りやきれいな色の竜の彫刻などがあります。１００年以上前から使っていて、市が大事にすると決めています。\nお祭りの着物を着て山車の上に立っている男たちが、大きな声で「ホーリャイ、ホーリャイ」と言うと、山車はゆっくり進んでいました。太鼓などのにぎやかな音も聞こえました。\n１２日の秩父市は寒くなりましたが、たくさんの人がお祭りを見に来ていました。見ていた男性は「みなさんの顔を見て、春が来る喜びを感じます」と話していました。", 
+  "news_web_movie_uri": "k10010908471_201703121856_201703121858.mp4", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170312/../20170312/K10010908471_1703121814_1703121818_01_02.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_prearranged_time": "2017-03-13 16:05:00"
+}

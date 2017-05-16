@@ -1,0 +1,80 @@
+{
+  "news_web_movie_uri": "k10010922401_201703240508_201703240510.mp4", 
+  "title_with_ruby": "<ruby>国会<rt>こっかい</rt></ruby>で<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>の<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>に<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く", 
+  "news_easy_image_uri": "''", 
+  "news_easy_voice_uri": "k10010922401000.mp3", 
+  "news_prearranged_time": "2017-03-24 16:50:00", 
+  "outline": "大阪の森友学園は、国から買った土地に小学校をつくる予定でした。", 
+  "title": "国会で森友学園の籠池理事長に話を聞く", 
+  "words": [
+    {
+      "word": "国会", 
+      "descriptions": [
+        "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。"
+      ]
+    }, 
+    {
+      "word": "土地", 
+      "descriptions": [
+        "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。", 
+        "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。", 
+        "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "総理大臣", 
+      "descriptions": [
+        "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "寄付", 
+      "descriptions": [
+        "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "協力", 
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。"
+      ]
+    }, 
+    {
+      "word": "職員", 
+      "descriptions": [
+        "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ファクシミリ", 
+      "descriptions": [
+        "<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>図面</rb><rt>ずめん</rt></ruby>などを、<ruby><rb>電話線</rb><rt>でんわせん</rt></ruby>や<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>送</rb><rt>おく</rt></ruby>ったり、<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>ったりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。ファックス。"
+      ]
+    }, 
+    {
+      "word": "記者", 
+      "descriptions": [
+        "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }
+  ], 
+  "content": "大阪の森友学園は、国から買った土地に小学校をつくる予定でした。しかし、とても安い値段で買っていたことなどがわかって問題になっています。国会は２３日、森友学園の籠池理事長を呼んで話を聞きました。\n籠池理事長は、おととしの９月に安倍総理大臣の妻の昭恵さんから１００万円の寄付をもらったことをはっきり覚えていると言いました。ほかにも、国から土地を買うときに昭恵さんに協力してほしいと連絡して、昭恵さんを手伝っている職員からＦＡＸで返事をもらったと言いました。\n籠池理事長は国会のあと、ＦＡＸをもらってから、国と土地を買う話がしやすくなったと考えていると記者たちに話しました。\n昭恵さんは２３日の夜、インターネットのフェイスブックに、籠池理事長に寄付のお金を渡していないと書きました。政府も、職員が送ったＦＡＸは籠池理事長に協力できないという返事だったと説明しました。", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>の<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>から<ruby>買<rt>か</rt></ruby>った<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>に<ruby>小学校<rt>しょうがっこう</rt></ruby>をつくる<ruby>予定<rt>よてい</rt></ruby>でした。", 
+  "has_news_easy_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170324/k10010922401000.html?utm_int=word_contents_list-items_004&word_result=%E6%A3%AE%E5%8F%8B%E5%AD%A6%E5%9C%92%E5%95%8F%E9%A1%8C", 
+  "content_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>の<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>から<ruby>買<rt>か</rt></ruby>った<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>に<ruby>小学校<rt>しょうがっこう</rt></ruby>をつくる<ruby>予定<rt>よてい</rt></ruby>でした。しかし、とても<ruby>安<rt>やす</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>で<ruby>買<rt>か</rt></ruby>っていたことなどがわかって<ruby>問題<rt>もんだい</rt></ruby>になっています。<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>は２３<ruby>日<rt>にち</rt></ruby>、<ruby>森友<rt>もりとも</rt></ruby><ruby>学園<rt>がくえん</rt></ruby>の<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んで<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。</p>\n<p><ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>は、おととしの９<ruby>月<rt>がつ</rt></ruby>に<ruby>安倍<rt>あべ</rt></ruby><span class=\"newWord\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>妻<rt>つま</rt></ruby>の<ruby>昭恵<rt>あきえ</rt></ruby>さんから１００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<span class=\"newWord\"><ruby>寄付<rt>きふ</rt></ruby></span>をもらったことをはっきり<ruby>覚<rt>おぼ</rt></ruby>えていると<ruby>言<rt>い</rt></ruby>いました。ほかにも、<ruby>国<rt>くに</rt></ruby>から<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>うときに<ruby>昭恵<rt>あきえ</rt></ruby>さんに<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>連絡<rt>れんらく</rt></ruby>して、<ruby>昭恵<rt>あきえ</rt></ruby>さんを<ruby>手伝<rt>てつだ</rt></ruby>っている<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>から<span class=\"newWord\">ＦＡＸ</span>で<ruby>返事<rt>へんじ</rt></ruby>をもらったと<ruby>言<rt>い</rt></ruby>いました。</p>\n<p><ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>は<span class=\"newWord\"><ruby>国会<rt>こっかい</rt></ruby></span>のあと、<span class=\"newWord\">ＦＡＸ</span>をもらってから、<ruby>国<rt>くに</rt></ruby>と<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>う<ruby>話<rt>はなし</rt></ruby>がしやすくなったと<ruby>考<rt>かんが</rt></ruby>えていると<span class=\"newWord\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p><ruby>昭恵<rt>あきえ</rt></ruby>さんは２３<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、インターネットのフェイスブックに、<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>に<span class=\"newWord\"><ruby>寄付<rt>きふ</rt></ruby></span>のお<ruby>金<rt>かね</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>していないと<ruby>書<rt>か</rt></ruby>きました。<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>も、<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>が<ruby>送<rt>おく</rt></ruby>った<span class=\"newWord\">ＦＡＸ</span>は<ruby>籠池<rt>かごいけ</rt></ruby><ruby>理事長<rt>りじちょう</rt></ruby>に<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>できないという<ruby>返事<rt>へんじ</rt></ruby>だったと<ruby>説明<rt>せつめい</rt></ruby>しました。</p>\n<p></p>\n<p></p>", 
+  "news_easy_movie_uri": "''", 
+  "news_id": "k10010922401000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170324/../20170324/K10010922401_1703240508_1703240512_01_03.jpg?utm_int=word_contents_list-items_004&word_result=%E6%A3%AE%E5%8F%8B%E5%AD%A6%E5%9C%92%E5%95%8F%E9%A1%8C", 
+  "has_news_web_movie": true, 
+  "has_news_web_image": true
+}

@@ -1,0 +1,77 @@
+{
+  "outline_with_ruby": "<p>１２<ruby>日<rt>にち</rt></ruby>から<ruby>道路交通法<rt>どうろこうつうほう</rt></ruby>という<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わります。", 
+  "news_prearranged_time": "2017-03-08 16:55:00", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>をしらべて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のぐあいを<ruby><rb>判断</rb><rt>はんだん</rt></ruby>すること。", 
+        "ものごとのようすについて<ruby><rb>判断</rb><rt>はんだん</rt></ruby>すること。"
+      ], 
+      "word": "診断"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>新</rb><rt>あたら</rt></ruby>しいものにかえること。または、かわること。"
+      ], 
+      "word": "更新"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。"
+      ], 
+      "word": "検査"
+    }, 
+    {
+      "descriptions": [
+        "ものごとを<ruby><rb>認知</rb><rt>にんち</rt></ruby>できなくなる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。"
+      ], 
+      "word": "認知症"
+    }, 
+    {
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ], 
+      "word": "可能性"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。", 
+        "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "年寄り"
+    }, 
+    {
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ], 
+      "word": "起こす"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。"
+      ], 
+      "word": "協力"
+    }
+  ], 
+  "has_news_easy_voice": true, 
+  "news_id": "k10010901491000", 
+  "has_news_web_image": true, 
+  "outline": "１２日から道路交通法という法律が変わります。", 
+  "has_news_easy_image": false, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170307/../20170307/K10010901491_1703071507_1703071947_01_03.jpg?utm_int=nsearch_contents_search-items_005", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170307/k10010901491000.html?utm_int=nsearch_contents_search-items_005", 
+  "title": "車を運転する７５歳以上の５万人が医者の診断が必要になる", 
+  "content_with_ruby": "<p>１２<ruby>日<rt>にち</rt></ruby>から<ruby>道路交通法<rt>どうろこうつうほう</rt></ruby>という<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わります。<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>運転免許証<rt>うんてんめんきょしょう</rt></ruby>を<span class=\"newWord\"><ruby>更新<rt>こうしん</rt></ruby></span>するときの<span class=\"newWord\"><ruby>検査<rt>けんさ</rt></ruby></span>で<span class=\"newWord\"><ruby>認知症<rt>にんちしょう</rt></ruby></span>の<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>われたら、<ruby>医者<rt>いしゃ</rt></ruby>に<span class=\"newWord\"><ruby>診断<rt>しんだん</rt></ruby></span>してもらわなければなりません。お<span class=\"newWord\"><ruby>年寄<rt>としよ</rt></ruby>り</span>が<ruby>交通事故<rt>こうつうじこ</rt></ruby>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こさ</span>ないようにするためです。</p>\n<p>ＮＨＫが<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>聞<rt>き</rt></ruby>くと、<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わったあと<ruby>医者<rt>いしゃ</rt></ruby>が<span class=\"newWord\"><ruby>認知症<rt>にんちしょう</rt></ruby></span>の<span class=\"newWord\"><ruby>診断<rt>しんだん</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>は１<ruby>年<rt>ねん</rt></ruby>に５<ruby>万<rt>まん</rt></ruby>２７００<ruby>人<rt>にん</rt></ruby>ぐらいになりそうだとわかりました。おととしの１３<ruby>倍<rt>ばい</rt></ruby>ぐらいです。</p>\n<p><ruby>専門家<rt>せんもんか</rt></ruby>は、これから<span class=\"newWord\"><ruby>認知症<rt>にんちしょう</rt></ruby></span>の<span class=\"newWord\"><ruby>診断<rt>しんだん</rt></ruby></span>をする<ruby>医者<rt>いしゃ</rt></ruby>がもっと<ruby>必要<rt>ひつよう</rt></ruby>になるため、<ruby>警察<rt>けいさつ</rt></ruby>と<ruby>医者<rt>いしゃ</rt></ruby>が<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>しなければならないと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "news_web_movie_uri": "k10010901491_201703071700_201703071714.mp4", 
+  "has_news_easy_movie": false, 
+  "content": "１２日から道路交通法という法律が変わります。車を運転する７５歳以上の人は、運転免許証を更新するときの検査で認知症の可能性があると言われたら、医者に診断してもらわなければなりません。お年寄りが交通事故を起こさないようにするためです。\nＮＨＫが警察に聞くと、法律が変わったあと医者が認知症の診断をする人は１年に５万２７００人ぐらいになりそうだとわかりました。おととしの１３倍ぐらいです。\n専門家は、これから認知症の診断をする医者がもっと必要になるため、警察と医者が協力しなければならないと言っています。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>医者<rt>いしゃ</rt></ruby>の<ruby>診断<rt>しんだん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になる", 
+  "news_easy_image_uri": "''", 
+  "news_easy_voice_uri": "k10010901491000.mp3"
+}

@@ -1,0 +1,123 @@
+{
+  "has_news_easy_movie": false, 
+  "news_id": "k10010913181000", 
+  "has_news_web_movie": true, 
+  "news_easy_voice_uri": "k10010913181000.mp3", 
+  "content": "アメリカのトランプ大統領は３月６日、中東とアフリカの６つの国の人をアメリカに入れない命令を出しました。ビザを持っていない６つの国の人を１６日から９０日間、アメリカに入れないことにしました。\nハワイ州は、地方裁判所にこの命令を止めるように訴えました。ハワイ州は「この命令はイスラム教の人がアメリカに入るのを禁止しています。宗教は自由だと言っている憲法に違反しています」と訴えました。\n地方裁判所はハワイ州とアメリカの政府から話を聞いて、１５日、大統領の命令をアメリカ全部で止めると決めました。\nトランプ大統領は今年１月、中東など７つの国の人をアメリカに入れない命令を出しましたが、裁判で命令が止まりました。\nトランプ大統領は、アメリカでテロが起こらないようにするために必要な命令なので、裁判を続けると言っています。", 
+  "has_news_easy_voice": true, 
+  "outline_with_ruby": "<p>アメリカのトランプ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は３<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<span class=\"newWord\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>とアフリカの６つの<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>をアメリカに<ruby>入<rt>い</rt></ruby>れない<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。", 
+  "title_with_ruby": "<ruby>裁判所<rt>さいばんしょ</rt></ruby>がトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>出<rt>だ</rt></ruby>した<ruby>命令<rt>めいれい</rt></ruby>をまた<ruby>止<rt>と</rt></ruby>める", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170316/k10010913181000.html?utm_int=news_contents_news-main_001&nnw_opt=news-main_a", 
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "outline": "アメリカのトランプ大統領は３月６日、中東とアフリカの６つの国の人をアメリカに入れない命令を出しました。", 
+  "content_with_ruby": "<p>アメリカのトランプ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は３<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<span class=\"newWord\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>とアフリカの６つの<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>をアメリカに<ruby>入<rt>い</rt></ruby>れない<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。<span class=\"newWord\">ビザ</span>を<ruby>持<rt>も</rt></ruby>っていない６つの<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を１６<ruby>日<rt>にち</rt></ruby>から９０<ruby>日<rt>にち</rt></ruby><span class=\"newWord\"><ruby>間<rt>かん</rt></ruby></span>、アメリカに<ruby>入<rt>い</rt></ruby>れないことにしました。</p>\n<p>ハワイ<ruby>州<rt>しゅう</rt></ruby>は、<ruby>地方<rt>ちほう</rt></ruby><ruby>裁判所<rt>さいばんしょ</rt></ruby>にこの<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>止<rt>と</rt></ruby>めるように<span class=\"newWord\"><ruby>訴<rt>うった</rt></ruby>え</span>ました。ハワイ<ruby>州<rt>しゅう</rt></ruby>は「この<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>は<span class=\"newWord\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>がアメリカに<ruby>入<rt>はい</rt></ruby>るのを<span class=\"newWord\"><ruby>禁止<rt>きんし</rt></ruby></span>しています。<span class=\"newWord\"><ruby>宗教<rt>しゅうきょう</rt></ruby></span>は<ruby>自由<rt>じゆう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っている<span class=\"newWord\"><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span class=\"newWord\"><ruby>違反<rt>いはん</rt></ruby></span>しています」と<span class=\"newWord\"><ruby>訴<rt>うった</rt></ruby>え</span>ました。</p>\n<p><ruby>地方<rt>ちほう</rt></ruby><ruby>裁判所<rt>さいばんしょ</rt></ruby>はハワイ<ruby>州<rt>しゅう</rt></ruby>とアメリカの<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、１５<ruby>日<rt>にち</rt></ruby>、<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>をアメリカ<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>止<rt>と</rt></ruby>めると<ruby>決<rt>き</rt></ruby>めました。</p>\n<p>トランプ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>、<span class=\"newWord\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>など７つの<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>をアメリカに<ruby>入<rt>い</rt></ruby>れない<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しましたが、<span class=\"newWord\"><ruby>裁判<rt>さいばん</rt></ruby></span>で<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>止<rt>と</rt></ruby>まりました。</p>\n<p>トランプ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、アメリカで<span class=\"newWord\">テロ</span>が<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こら</span>ないようにするために<ruby>必要<rt>ひつよう</rt></ruby>な<span class=\"newWord\"><ruby>命令<rt>めいれい</rt></ruby></span>なので、<span class=\"newWord\"><ruby>裁判<rt>さいばん</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "title": "裁判所がトランプ大統領が出した命令をまた止める", 
+  "has_news_web_image": true, 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "大統領"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。"
+      ], 
+      "word": "命令"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。"
+      ], 
+      "word": "中東"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。"
+      ], 
+      "word": "ビザ"
+    }, 
+    {
+      "descriptions": [
+        "あいだ。へだたり。", 
+        "ひろがり。", 
+        "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。", 
+        "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。", 
+        "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。", 
+        "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。"
+      ], 
+      "word": "間"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。", 
+        "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。", 
+        "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。"
+      ], 
+      "word": "訴える"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。"
+      ], 
+      "word": "イスラム教"
+    }, 
+    {
+      "descriptions": [
+        "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。"
+      ], 
+      "word": "禁止"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信</rb><rt>しん</rt></ruby>じること。また、<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>え。"
+      ], 
+      "word": "宗教"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。"
+      ], 
+      "word": "憲法"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。"
+      ], 
+      "word": "違反"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ], 
+      "word": "政府"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。"
+      ], 
+      "word": "裁判"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。"
+      ], 
+      "word": "テロ"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。"
+      ], 
+      "word": "起こる"
+    }
+  ], 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170316/../20170316/K10010913181_1703160905_1703160905_01_03.jpg?utm_int=news_contents_news-main_001&nnw_opt=news-main_a", 
+  "news_web_movie_uri": "k10010913181_201703161210_201703161213.mp4", 
+  "news_prearranged_time": "2017-03-16 16:00:00", 
+  "news_easy_movie_uri": "''"
+}

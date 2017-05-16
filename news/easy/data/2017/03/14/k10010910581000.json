@@ -1,0 +1,74 @@
+{
+  "words": [
+    {
+      "word": "新幹線", 
+      "descriptions": [
+        "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。"
+      ]
+    }, 
+    {
+      "word": "イベント", 
+      "descriptions": [
+        "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。", 
+        "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "幼稚園", 
+      "descriptions": [
+        "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "飾り", 
+      "descriptions": [
+        "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。"
+      ]
+    }, 
+    {
+      "word": "ろうそく", 
+      "descriptions": [
+        "<ruby><rb>糸</rb><rt>いと</rt></ruby>やこよりをしんにして、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りをろうで<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。しんに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて<ruby><rb>明</rb><rt>あ</rt></ruby>かりにする。"
+      ]
+    }, 
+    {
+      "word": "明かり", 
+      "descriptions": [
+        "<ruby><rb>暗</rb><rt>くら</rt></ruby>い<ruby><rb>中</rb><rt>なか</rt></ruby>での<ruby><rb>明</rb><rt>あか</rt></ruby>るい<ruby><rb>光</rb><rt>ひかり</rt></ruby>。", 
+        "<ruby><rb>明</rb><rt>あか</rt></ruby>るく<ruby><rb>照</rb><rt>て</rt></ruby>らす<ruby><rb>電灯</rb><rt>でんとう</rt></ruby>やろうそくなどの<ruby><rb>光</rb><rt>ひかり</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "観光", 
+      "descriptions": [
+        "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "減る", 
+      "descriptions": [
+        "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。", 
+        "すく。"
+      ]
+    }
+  ], 
+  "news_web_image_uri": "", 
+  "has_news_web_movie": true, 
+  "content": "石川県の金沢と東京の間を走る北陸新幹線ができてから１４日で２年になりました。金沢駅では新幹線の２歳の誕生日をお祝いするイベントがありました。幼稚園の子どもたちがケーキの形をした飾りにある２本のろうそくの明かりを消してお祝いしました。\n石川県には新幹線ができてからたくさんの人が観光に来ています。金沢市ではレストランなどの新しい店が増えています。\nＪＲ西日本によると、去年の３月１４日から今年の２月２８日までに北陸新幹線に乗った人は８２９万５０００人でした。最初の年より８％ぐらい少なくなりましたが、あまり減らなくてよかったとＪＲ西日本は言っています。", 
+  "has_news_web_image": false, 
+  "content_with_ruby": "<p><ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>金沢<rt>かなざわ</rt></ruby>と<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>北陸<rt>ほくりく</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>ができてから<ruby>１４日<rt>じゅうよっか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby>になりました。<ruby>金沢<rt>かなざわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>では<span class=\"newWord\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の２<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>いする<span class=\"newWord\">イベント</span>がありました。<span class=\"newWord\"><ruby>幼稚園<rt>ようちえん</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもたちがケーキの<ruby>形<rt>かたち</rt></ruby>をした<span class=\"newWord\"><ruby>飾<rt>かざ</rt></ruby>り</span>にある２<ruby>本<rt>ほん</rt></ruby>の<span class=\"newWord\">ろうそく</span>の<span class=\"newWord\"><ruby>明<rt>あ</rt></ruby>かり</span>を<ruby>消<rt>け</rt></ruby>してお<ruby>祝<rt>いわ</rt></ruby>いしました。</p>\n<p><ruby>石川県<rt>いしかわけん</rt></ruby>には<span class=\"newWord\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>ができてからたくさんの<ruby>人<rt>ひと</rt></ruby>が<span class=\"newWord\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>ています。<ruby>金沢市<rt>かなざわし</rt></ruby>ではレストランなどの<ruby>新<rt>あたら</rt></ruby>しい<ruby>店<rt>みせ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n<p>ＪＲ<ruby>西<rt>にし</rt></ruby><ruby>日本<rt>にほん</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby><ruby>１４日<rt>じゅうよっか</rt></ruby>から<ruby>今年<rt>ことし</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>までに<ruby>北陸<rt>ほくりく</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>は８２９<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>でした。<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より８％ぐらい<ruby>少<rt>すく</rt></ruby>なくなりましたが、あまり<span class=\"newWord\"><ruby>減<rt>へ</rt></ruby>ら</span>なくてよかったとＪＲ<ruby>西<rt>にし</rt></ruby><ruby>日本<rt>にほん</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "title_with_ruby": "<ruby>北陸<rt>ほくりく</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>の２<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>い", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170314/k10010910581000.html?utm_int=news-business_contents_list-items_006", 
+  "has_news_easy_voice": true, 
+  "news_prearranged_time": "2017-03-14 16:30:00", 
+  "news_web_movie_uri": "k10010910581_201703141310_201703141311.mp4", 
+  "outline": "石川県の金沢と東京の間を走る北陸新幹線ができてから１４日で２年になりました。", 
+  "news_id": "k10010910581000", 
+  "news_easy_voice_uri": "k10010910581000.mp3", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "k10010910581000.jpg", 
+  "outline_with_ruby": "<p><ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>金沢<rt>かなざわ</rt></ruby>と<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>北陸<rt>ほくりく</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>ができてから<ruby>１４日<rt>じゅうよっか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby>になりました。", 
+  "has_news_easy_image": true, 
+  "title": "北陸新幹線の２歳の誕生日をお祝い"
+}

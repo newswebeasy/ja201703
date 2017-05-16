@@ -1,0 +1,61 @@
+{
+  "has_news_easy_movie": false, 
+  "news_id": "k10010911661000", 
+  "has_news_web_movie": true, 
+  "news_easy_voice_uri": "k10010911661000.mp3", 
+  "content": "タイのバンコクの空港に１０日、アフリカのエチオピアから来た飛行機の荷物を、タイ人の２人の女が取りに来ました。２人は別の飛行機で来たため、空港の職員がおかしいと思って荷物の中をチェックすると、サイの角が２１本見つかりました。\n世界ではサイの数が少なくなって、将来いなくなる可能性が高いため、輸出や輸入は禁止されています。しかし、ベトナムや中国ではサイの角が薬になるため、高い値段で売ったり買ったりしています。タイの空港で見つかったサイの角を売ると５億円ぐらいになります。\n警察は、荷物を取りに来て逃げた２人の女をさがしています。", 
+  "has_news_easy_voice": true, 
+  "outline_with_ruby": "<p>タイのバンコクの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>１０日<rt>とおか</rt></ruby>、アフリカのエチオピアから<ruby>来<rt>き</rt></ruby>た<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を、タイ<ruby>人<rt>じん</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>が<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>き</rt></ruby>ました。", 
+  "title_with_ruby": "<ruby>輸入<rt>ゆにゅう</rt></ruby>が<ruby>禁止<rt>きんし</rt></ruby>のサイの<ruby>角<rt>つの</rt></ruby>２１<ruby>本<rt>ぽん</rt></ruby>がタイの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170315/k10010911661000.html", 
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "outline": "タイのバンコクの空港に１０日、アフリカのエチオピアから来た飛行機の荷物を、タイ人の２人の女が取りに来ました。", 
+  "content_with_ruby": "<p>タイのバンコクの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>１０日<rt>とおか</rt></ruby>、アフリカのエチオピアから<ruby>来<rt>き</rt></ruby>た<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を、タイ<ruby>人<rt>じん</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>が<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>き</rt></ruby>ました。<ruby>２人<rt>ふたり</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>来<rt>き</rt></ruby>たため、<ruby>空港<rt>くうこう</rt></ruby>の<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>がおかしいと<ruby>思<rt>おも</rt></ruby>って<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をチェックすると、<span class=\"newWord\">サイ</span>の<span class=\"newWord\"><ruby>角<rt>つの</rt></ruby></span>が２１<ruby>本<rt>ぽん</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。</p>\n<p><ruby>世界<rt>せかい</rt></ruby>では<span class=\"newWord\">サイ</span>の<span class=\"newWord\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>将来<rt>しょうらい</rt></ruby>いなくなる<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いため、<ruby>輸出<rt>ゆしゅつ</rt></ruby>や<ruby>輸入<rt>ゆにゅう</rt></ruby>は<span class=\"newWord\"><ruby>禁止<rt>きんし</rt></ruby></span>されています。しかし、ベトナムや<ruby>中国<rt>ちゅうごく</rt></ruby>では<span class=\"newWord\">サイ</span>の<span class=\"newWord\"><ruby>角<rt>つの</rt></ruby></span>が<ruby>薬<rt>くすり</rt></ruby>になるため、<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>で<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりしています。タイの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<span class=\"newWord\">サイ</span>の<span class=\"newWord\"><ruby>角<rt>つの</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>ると５<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいになります。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>き</rt></ruby>て<ruby>逃<rt>に</rt></ruby>げた<ruby>２人<rt>ふたり</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>をさがしています。</p>\n<p></p>\n<p></p>", 
+  "title": "輸入が禁止のサイの角２１本がタイの空港で見つかる", 
+  "has_news_web_image": true, 
+  "words": [
+    {
+      "descriptions": [
+        "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。"
+      ], 
+      "word": "禁止"
+    }, 
+    {
+      "descriptions": [
+        "インドやアフリカなど、<ruby><rb>熱帯</rb><rt>ねったい</rt></ruby><ruby><rb>地方</rb><rt>ちほう</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ゾウに<ruby><rb>次</rb><rt>つ</rt></ruby>いで<ruby><rb>大</rb><rt>おお</rt></ruby>きく、<ruby><rb>鼻</rb><rt>はな</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>か<ruby><rb>額</rb><rt>ひたい</rt></ruby>に<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>または<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>がある。"
+      ], 
+      "word": "犀"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>頭</rb><rt>あたま</rt></ruby>につき<ruby><rb>出</rb><rt>で</rt></ruby>ているかたいとがったもの。"
+      ], 
+      "word": "角"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "職員"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。", 
+        "いくつもあること。たくさん。", 
+        "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。"
+      ], 
+      "word": "数"
+    }, 
+    {
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ], 
+      "word": "可能性"
+    }
+  ], 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170315/../20170315/K10010911661_1703150700_1703150701_01_02.jpg", 
+  "news_web_movie_uri": "k10010911661_201703150907_201703150911.mp4", 
+  "news_prearranged_time": "2017-03-16 11:30:00", 
+  "news_easy_movie_uri": "''"
+}

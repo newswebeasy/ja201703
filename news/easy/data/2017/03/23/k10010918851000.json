@@ -1,0 +1,86 @@
+{
+  "has_news_easy_voice": true, 
+  "has_news_easy_image": false, 
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がどのくらい<span class=\"newWord\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>かを<ruby>調<rt>しら</rt></ruby>べて、<span class=\"newWord\">ランキング</span>を<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。<ruby>今年<rt>ことし</rt></ruby>は１５５の<ruby>国<rt>くに</rt></ruby>の<span class=\"newWord\"><ruby>福祉<rt>ふくし</rt></ruby></span>、<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>、<ruby>自由<rt>じゆう</rt></ruby>などについて<ruby>調<rt>しら</rt></ruby>べました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>は、「ほかの<ruby>人<rt>ひと</rt></ruby>のことを<span class=\"newWord\"><ruby>理解<rt>りかい</rt></ruby></span>して<ruby>優<rt>やさ</rt></ruby>しくすること」の<span class=\"newWord\"><ruby>結果<rt>けっか</rt></ruby></span>などが<ruby>悪<rt>わる</rt></ruby>くて、５１<ruby>番<rt>ばん</rt></ruby>でした。</p>\n<p>１<ruby>番<rt>ばん</rt></ruby>はノルウェーで、２<ruby>番<rt>ばん</rt></ruby>はデンマーク、３<ruby>番<rt>ばん</rt></ruby>はアイスランドでした。<span class=\"newWord\"><ruby>国連<rt>こくれん</rt></ruby></span>は、「<ruby>最<rt>もっと</rt></ruby>も<span class=\"newWord\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>な<ruby>国<rt>くに</rt></ruby>」のノルウェーは、<ruby>国<rt>くに</rt></ruby>などが<ruby>将来<rt>しょうらい</rt></ruby>のためにお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていて、<ruby>政治<rt>せいじ</rt></ruby>についても<ruby>問題<rt>もんだい</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p><ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span class=\"newWord\"><ruby>戦<rt>たたか</rt></ruby>い</span>などが<ruby>続<rt>つづ</rt></ruby>いているアフリカや<span class=\"newWord\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>の<ruby>国<rt>くに</rt></ruby>は、<span class=\"newWord\">ランキング</span>が<ruby>低<rt>ひく</rt></ruby>くなっています。</p>\n<p></p>\n<p></p>", 
+  "news_web_movie_uri": "k10010918851_201703211722_201703211723.mp4", 
+  "has_news_easy_movie": false, 
+  "words": [
+    {
+      "word": "幸せ", 
+      "descriptions": [
+        "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "国際連合", 
+      "descriptions": [
+        "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ランキング", 
+      "descriptions": [
+        "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "発表", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。"
+      ]
+    }, 
+    {
+      "word": "社会福祉", 
+      "descriptions": [
+        "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby><ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、めぐまれない<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けること。"
+      ]
+    }, 
+    {
+      "word": "健康", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。", 
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。"
+      ]
+    }, 
+    {
+      "word": "理解", 
+      "descriptions": [
+        "ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "結果", 
+      "descriptions": [
+        "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。"
+      ]
+    }, 
+    {
+      "word": "戦い", 
+      "descriptions": [
+        "<ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。", 
+        "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "中東", 
+      "descriptions": [
+        "<ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。"
+      ]
+    }
+  ], 
+  "title_with_ruby": "「<ruby>最<rt>もっと</rt></ruby>も<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>国<rt>くに</rt></ruby>」はノルウェー　<ruby>日本<rt>にっぽん</rt></ruby>は５１<ruby>番<rt>ばん</rt></ruby>", 
+  "news_easy_voice_uri": "k10010918851000.mp3", 
+  "outline": "国連は、世界の国の人がどのくらい幸せかを調べて、ランキングを発表しています。", 
+  "news_prearranged_time": "2017-03-23 11:30:00", 
+  "news_id": "k10010918851000", 
+  "title": "「最も幸せな国」はノルウェー　日本は５１番", 
+  "has_news_web_movie": true, 
+  "content": "国連は、世界の国の人がどのくらい幸せかを調べて、ランキングを発表しています。今年は１５５の国の福祉、健康、自由などについて調べました。\n日本は、「ほかの人のことを理解して優しくすること」の結果などが悪くて、５１番でした。\n１番はノルウェーで、２番はデンマーク、３番はアイスランドでした。国連は、「最も幸せな国」のノルウェーは、国などが将来のためにお金を使っていて、政治についても問題が少ないと言っています。\n国の中で戦いなどが続いているアフリカや中東の国は、ランキングが低くなっています。", 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がどのくらい<span class=\"newWord\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>かを<ruby>調<rt>しら</rt></ruby>べて、<span class=\"newWord\">ランキング</span>を<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170321/../20170321/K10010918851_1703211121_1703211122_01_02.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170321/k10010918851000.html"
+}

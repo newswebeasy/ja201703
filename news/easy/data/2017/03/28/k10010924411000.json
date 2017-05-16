@@ -1,0 +1,146 @@
+{
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p>アメリカのサンフランシスコで、<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\">ビジネス</span>の<span class=\"newWord\">アイデア</span>の<ruby>中<rt>なか</rt></ruby>から１<ruby>番<rt>ばん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>がありました。", 
+  "title": "新しいビジネスのアイデアの大会で日本が１番になる", 
+  "outline": "アメリカのサンフランシスコで、新しいビジネスのアイデアの中から１番を決める大会がありました。", 
+  "has_news_web_movie": false, 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "ビジネス", 
+      "descriptions": [
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "アイデア", 
+      "descriptions": [
+        "<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>思</rb><rt>おも</rt></ruby>いつき。<ruby><rb>工夫</rb><rt>くふう</rt></ruby>。アイディア。"
+      ]
+    }, 
+    {
+      "word": "大会", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。", 
+        "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "参加", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "投資", 
+      "descriptions": [
+        "もうけるために、<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>に、<ruby><rb>元手</rb><rt>もとで</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "審査", 
+      "descriptions": [
+        "くわしく<ruby><rb>調</rb><rt>しら</rt></ruby>べて、よいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかや、<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>などを<ruby><rb>決</rb><rt>き</rt></ruby>めること。"
+      ]
+    }, 
+    {
+      "word": "センサー", 
+      "descriptions": [
+        "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "付く", 
+      "descriptions": [
+        "ものがくっつく。", 
+        "つきそう。", 
+        "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。", 
+        "<ruby><rb>決</rb><rt>き</rt></ruby>まる。", 
+        "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。", 
+        "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。", 
+        "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。"
+      ]
+    }, 
+    {
+      "word": "ロボット", 
+      "descriptions": [
+        "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。", 
+        "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。", 
+        "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "幼稚園", 
+      "descriptions": [
+        "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "体温", 
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ヘルメット", 
+      "descriptions": [
+        "<ruby><rb>危険</rb><rt>きけん</rt></ruby>や<ruby><rb>暑</rb><rt>あつ</rt></ruby>さから<ruby><rb>頭</rb><rt>あたま</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るためにかぶる、かたいぼうし。プラスチックなどでできている。"
+      ]
+    }, 
+    {
+      "word": "底", 
+      "descriptions": [
+        "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。", 
+        "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。", 
+        "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。"
+      ]
+    }, 
+    {
+      "word": "バッテリー", 
+      "descriptions": [
+        "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールの、ピッチャーとキャッチャー。", 
+        "<ruby><rb>充電</rb><rt>じゅうでん</rt></ruby>して、くり<ruby><rb>返</rb><rt>かえ</rt></ruby>し<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>電池</rb><rt>でんち</rt></ruby>。<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "結果", 
+      "descriptions": [
+        "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。"
+      ]
+    }, 
+    {
+      "word": "売れる", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。", 
+        "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。"
+      ]
+    }, 
+    {
+      "word": "可能性", 
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ]
+    }, 
+    {
+      "word": "約", 
+      "descriptions": [
+        "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。", 
+        "おおよそ。ほぼ。だいたい。"
+      ]
+    }
+  ], 
+  "news_easy_image_uri": "''", 
+  "title_with_ruby": "<ruby>新<rt>あたら</rt></ruby>しいビジネスのアイデアの<ruby>大会<rt>たいかい</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby>になる", 
+  "news_easy_voice_uri": "k10010924411000.mp3", 
+  "content": "アメリカのサンフランシスコで、新しいビジネスのアイデアの中から１番を決める大会がありました。１２の国などから選ばれた会社が参加して、投資の専門家が審査しました。\n日本からは名古屋にある会社が、センサーやカメラが付いているロボットを紹介しました。このロボットは、幼稚園の子どもの体温をチェックしたり、遊んでいる子どもの写真を撮って両親に送ったりすることができます。\n台湾の会社は、オートバイのヘルメットをかぶったまま電話ができる技術を紹介しました。ルクセンブルクの会社は、靴の底に入れたバッテリーで温かくなる靴を紹介しました。\n審査の結果、これからたくさん売れる可能性があるという理由で、日本の会社のロボットが１番になりました。そして、アメリカの会社が、ビジネスのためのお金を約１億１１００万円出すことになりました。", 
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170325/../20170325/K10010924411_1703251707_1703251714_01_02.jpg", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170325/k10010924411000.html", 
+  "has_news_easy_image": false, 
+  "news_prearranged_time": "2017-03-28 11:30:00", 
+  "has_news_easy_movie": false, 
+  "news_id": "k10010924411000", 
+  "news_web_movie_uri": "", 
+  "content_with_ruby": "<p>アメリカのサンフランシスコで、<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\">ビジネス</span>の<span class=\"newWord\">アイデア</span>の<ruby>中<rt>なか</rt></ruby>から１<ruby>番<rt>ばん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>がありました。１２の<ruby>国<rt>くに</rt></ruby>などから<ruby>選<rt>えら</rt></ruby>ばれた<ruby>会社<rt>かいしゃ</rt></ruby>が<span class=\"newWord\"><ruby>参加<rt>さんか</rt></ruby></span>して、<span class=\"newWord\"><ruby>投資<rt>とうし</rt></ruby></span>の<ruby>専門家<rt>せんもんか</rt></ruby>が<span class=\"newWord\"><ruby>審査<rt>しんさ</rt></ruby></span>しました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>からは<ruby>名古屋<rt>なごや</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>が、<span class=\"newWord\">センサー</span>やカメラが<span class=\"newWord\"><ruby>付<rt>つ</rt></ruby>い</span>ている<span class=\"newWord\">ロボット</span>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。この<span class=\"newWord\">ロボット</span>は、<span class=\"newWord\"><ruby>幼稚園<rt>ようちえん</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもの<span class=\"newWord\"><ruby>体温<rt>たいおん</rt></ruby></span>をチェックしたり、<ruby>遊<rt>あそ</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ったりすることができます。</p>\n<p><ruby>台湾<rt>たいわん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、オートバイの<span class=\"newWord\">ヘルメット</span>をかぶったまま<ruby>電話<rt>でんわ</rt></ruby>ができる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。ルクセンブルクの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>靴<rt>くつ</rt></ruby>の<span class=\"newWord\"><ruby>底<rt>そこ</rt></ruby></span>に<ruby>入<rt>い</rt></ruby>れた<span class=\"newWord\">バッテリー</span>で<ruby>温<rt>あたた</rt></ruby>かくなる<ruby>靴<rt>くつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。</p>\n<p><span class=\"newWord\"><ruby>審査<rt>しんさ</rt></ruby></span>の<span class=\"newWord\"><ruby>結果<rt>けっか</rt></ruby></span>、これからたくさん<span class=\"newWord\"><ruby>売<rt>う</rt></ruby>れる</span><span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるという<ruby>理由<rt>りゆう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"newWord\">ロボット</span>が１<ruby>番<rt>ばん</rt></ruby>になりました。そして、アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>が、<span class=\"newWord\">ビジネス</span>のためのお<ruby>金<rt>かね</rt></ruby>を<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>億<rt>おく</rt></ruby>１１００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>出<rt>だ</rt></ruby>すことになりました。</p>\n<p></p>\n<p></p>"
+}

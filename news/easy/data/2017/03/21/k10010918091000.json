@@ -1,0 +1,56 @@
+{
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170320/../20170320/K10010918091_1703201431_1703201432_01_02.jpg?utm_int=word_contents_list-items_002&word_result=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%E5%95%8F%E9%A1%8C", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170320/k10010918091000.html?utm_int=word_contents_list-items_002&word_result=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%E5%95%8F%E9%A1%8C", 
+  "news_easy_voice_uri": "k10010918091000.mp3", 
+  "news_easy_image_uri": "''", 
+  "title": "豊洲市場の問題　知事だった石原さんに話を聞く", 
+  "has_news_web_movie": true, 
+  "news_id": "k10010918091000", 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>議会<rt>ぎかい</rt></ruby>は「<ruby>百<rt>ひゃく</rt></ruby><ruby>条<rt>じょう</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>」を<ruby>開<rt>ひら</rt></ruby>いて、<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>作<rt>つく</rt></ruby>った<span class=\"newWord\"><ruby>市場<rt>しじょう</rt></ruby></span>の<span class=\"newWord\"><ruby>地下<rt>ちか</rt></ruby></span>から<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<span class=\"newWord\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかった<ruby>問題<rt>もんだい</rt></ruby>などについて、<ruby>東京都<rt>とうきょうと</rt></ruby>の<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>だった<ruby>人<rt>ひと</rt></ruby>などから<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いています。", 
+  "content": "東京都議会は「百条委員会」を開いて、豊洲につくった市場の地下から体に悪い物質が見つかった問題などについて、東京都の職員だった人などから話を聞いています。\n２０日、築地から豊洲に市場を引っ越すことが決まったときに知事だった石原慎太郎さんから話を聞きました。石原さんは、豊洲に決めたのは自分だと言いました。しかし、豊洲に引っ越すことは前の知事のときからの計画だったと言いました。\n石原さんは、職員に全部やらせていたので、地下の問題をどうするかなど細かいことは覚えていないと言いました。しかし、職員だった人は、大事なことを決めるときには石原さんに説明していたと話しています。\n石原さんは体の具合があまりよくないため、話をしたのは１時間だけでした。まだわからないことがたくさんあるため、石原さんからもう一度話を聞きたいという意見が出ています。", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "知事"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。", 
+        "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。"
+      ], 
+      "word": "市場"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。", 
+        "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。", 
+        "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。"
+      ], 
+      "word": "地下"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。"
+      ], 
+      "word": "物質"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "職員"
+    }
+  ], 
+  "outline": "東京都議会は「百条委員会」を開いて、豊洲に作った市場の地下から体に悪い物質が見つかった問題などについて、東京都の職員だった人などから話を聞いています。", 
+  "news_prearranged_time": "2017-03-21 16:40:00", 
+  "title_with_ruby": "<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>　<ruby>知事<rt>ちじ</rt></ruby>だった<ruby>石原<rt>いしはら</rt></ruby>さんに<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く", 
+  "content_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>議会<rt>ぎかい</rt></ruby>は「<ruby>百<rt>ひゃく</rt></ruby><ruby>条<rt>じょう</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>」を<ruby>開<rt>ひら</rt></ruby>いて、<ruby>豊洲<rt>とよす</rt></ruby>につくった<span class=\"newWord\"><ruby>市場<rt>しじょう</rt></ruby></span>の<span class=\"newWord\"><ruby>地下<rt>ちか</rt></ruby></span>から<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<span class=\"newWord\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかった<ruby>問題<rt>もんだい</rt></ruby>などについて、<ruby>東京都<rt>とうきょうと</rt></ruby>の<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>だった<ruby>人<rt>ひと</rt></ruby>などから<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いています。</p>\n<p><ruby>２０日<rt>はつか</rt></ruby>、<ruby>築地<rt>つきじ</rt></ruby>から<ruby>豊洲<rt>とよす</rt></ruby>に<span class=\"newWord\"><ruby>市場<rt>しじょう</rt></ruby></span>を<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことが<ruby>決<rt>き</rt></ruby>まったときに<span class=\"newWord\"><ruby>知事<rt>ちじ</rt></ruby></span>だった<ruby>石原<rt>いしはら</rt></ruby><ruby>慎太郎<rt>しんたろう</rt></ruby>さんから<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。<ruby>石原<rt>いしはら</rt></ruby>さんは、<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>決<rt>き</rt></ruby>めたのは<ruby>自分<rt>じぶん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。しかし、<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことは<ruby>前<rt>まえ</rt></ruby>の<span class=\"newWord\"><ruby>知事<rt>ちじ</rt></ruby></span>のときからの<ruby>計画<rt>けいかく</rt></ruby>だったと<ruby>言<rt>い</rt></ruby>いました。</p>\n<p><ruby>石原<rt>いしはら</rt></ruby>さんは、<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>に<ruby>全部<rt>ぜんぶ</rt></ruby>やらせていたので、<span class=\"newWord\"><ruby>地下<rt>ちか</rt></ruby></span>の<ruby>問題<rt>もんだい</rt></ruby>をどうするかなど<ruby>細<rt>こま</rt></ruby>かいことは<ruby>覚<rt>おぼ</rt></ruby>えていないと<ruby>言<rt>い</rt></ruby>いました。しかし、<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>だった<ruby>人<rt>ひと</rt></ruby>は、<ruby>大事<rt>だいじ</rt></ruby>なことを<ruby>決<rt>き</rt></ruby>めるときには<ruby>石原<rt>いしはら</rt></ruby>さんに<ruby>説明<rt>せつめい</rt></ruby>していたと<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p><ruby>石原<rt>いしはら</rt></ruby>さんは<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>があまりよくないため、<ruby>話<rt>はなし</rt></ruby>をしたのは１<ruby>時間<rt>じかん</rt></ruby>だけでした。まだわからないことがたくさんあるため、<ruby>石原<rt>いしはら</rt></ruby>さんからもう<ruby>一度<rt>いちど</rt></ruby><ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きたいという<ruby>意見<rt>いけん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。</p>\n<p></p>\n<p></p>", 
+  "has_news_easy_voice": true, 
+  "has_news_easy_image": false, 
+  "news_easy_movie_uri": "''", 
+  "news_web_movie_uri": "k10010918091_201703201934_201703201934.mp4", 
+  "has_news_easy_movie": false
+}

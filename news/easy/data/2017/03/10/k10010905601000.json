@@ -1,0 +1,102 @@
+{
+  "outline": "韓国で１０日、パク・クネ大統領をやめさせるかどうか決める裁判がありました。", 
+  "title": "韓国のパク大統領をやめさせることが決まる", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170310/k10010905601000.html", 
+  "outline_with_ruby": "<p><ruby>韓国<rt>かんこく</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>、パク・クネ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span class=\"newWord\">やめ</span>させるかどうか<ruby>決<rt>き</rt></ruby>める<span class=\"newWord\"><ruby>裁判<rt>さいばん</rt></ruby></span>がありました。", 
+  "news_web_movie_uri": "k10010905601_201703101310_201703101314.mp4", 
+  "news_id": "k10010905601000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "<ruby>韓国<rt>かんこく</rt></ruby>のパク<ruby>大統領<rt>だいとうりょう</rt></ruby>をやめさせることが<ruby>決<rt>き</rt></ruby>まる", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170310/../20170310/K10010905601_1703101123_1703101124_01_02.jpg", 
+  "has_news_easy_voice": true, 
+  "content_with_ruby": "<p><ruby>韓国<rt>かんこく</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>、パク・クネ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span class=\"newWord\">やめ</span>させるかどうか<ruby>決<rt>き</rt></ruby>める<span class=\"newWord\"><ruby>裁判<rt>さいばん</rt></ruby></span>がありました。その<span class=\"newWord\"><ruby>結果<rt>けっか</rt></ruby></span>、<span class=\"newWord\">やめ</span>させることが<ruby>決<rt>き</rt></ruby>まって、パク<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>ではなくなりました。<ruby>韓国<rt>かんこく</rt></ruby>で<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span class=\"newWord\">やめ</span>させたのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n<p>パク<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>友達<rt>ともだち</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>は、<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くにいることを<ruby>利用<rt>りよう</rt></ruby>して<ruby>悪<rt>わる</rt></ruby>いことをしていた<span class=\"newWord\"><ruby>疑<rt>うたが</rt></ruby>い</span>があります。<span class=\"newWord\"><ruby>裁判<rt>さいばん</rt></ruby></span>をした<ruby>憲法裁判所<rt>けんぽうさいばんしょ</rt></ruby>は「<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はこの<ruby>女<rt>おんな</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<span class=\"newWord\">もうける</span>ことに<span class=\"newWord\"><ruby>協力<rt>きょうりょく</rt></ruby></span>した」と<ruby>言<rt>い</rt></ruby>いました。</p>\n<p>そして「パク<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、この<ruby>女<rt>おんな</rt></ruby>が<ruby>政治<rt>せいじ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>していたことを<span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>などに<ruby>言<rt>い</rt></ruby>わなかった。パク<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<span class=\"newWord\"><ruby>憲法<rt>けんぽう</rt></ruby></span>を<span class=\"newWord\"><ruby>守<rt>まも</rt></ruby>ろ</span>うとしなかった」などと<ruby>言<rt>い</rt></ruby>いました。</p>\n<p>８<ruby>人<rt>にん</rt></ruby>の<span class=\"newWord\"><ruby>裁判官<rt>さいばんかん</rt></ruby></span>がみんな<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span class=\"newWord\">やめ</span>させることに<span class=\"newWord\"><ruby>賛成<rt>さんせい</rt></ruby></span>しました。</p>\n<p><ruby>韓国<rt>かんこく</rt></ruby>では、６０<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span class=\"newWord\"><ruby>選挙<rt>せんきょ</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>うことになりました。</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010905601000.mp3", 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-10 16:05:00", 
+  "has_news_easy_image": false, 
+  "words": [
+    {
+      "word": "大統領", 
+      "descriptions": [
+        "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "辞める", 
+      "descriptions": [
+        "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。"
+      ]
+    }, 
+    {
+      "word": "裁判", 
+      "descriptions": [
+        "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。"
+      ]
+    }, 
+    {
+      "word": "結果", 
+      "descriptions": [
+        "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。"
+      ]
+    }, 
+    {
+      "word": "疑い", 
+      "descriptions": [
+        "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。"
+      ]
+    }, 
+    {
+      "word": "もうける", 
+      "descriptions": [
+        "<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。<ruby><rb>得</rb><rt>とく</rt></ruby>をする。"
+      ]
+    }, 
+    {
+      "word": "協力", 
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。"
+      ]
+    }, 
+    {
+      "word": "検察庁", 
+      "descriptions": [
+        "<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。"
+      ]
+    }, 
+    {
+      "word": "憲法", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "守る", 
+      "descriptions": [
+        "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。", 
+        "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。"
+      ]
+    }, 
+    {
+      "word": "裁判官", 
+      "descriptions": [
+        "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>で、<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>公務員</rb><rt>こうむいん</rt></ruby>。<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>自由</rb><rt>じゆう</rt></ruby>や<ruby><rb>権利</rb><rt>けんり</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めたり、<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>裁</rb><rt>さば</rt></ruby>いたりする。"
+      ]
+    }, 
+    {
+      "word": "賛成", 
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。"
+      ]
+    }, 
+    {
+      "word": "選挙", 
+      "descriptions": [
+        "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。"
+      ]
+    }
+  ], 
+  "content": "韓国で１０日、パク・クネ大統領をやめさせるかどうか決める裁判がありました。その結果、やめさせることが決まって、パク大統領は大統領ではなくなりました。韓国で大統領をやめさせたのは初めてです。\nパク大統領の友達の女は、大統領の近くにいることを利用して悪いことをしていた疑いがあります。裁判をした憲法裁判所は「大統領はこの女がお金をもうけることに協力した」と言いました。\nそして「パク大統領は、この女が政治に関係していたことを検察庁などに言わなかった。パク大統領は憲法を守ろうとしなかった」などと言いました。\n８人の裁判官がみんな大統領をやめさせることに賛成しました。\n韓国では、６０日以内に新しい大統領を選ぶ選挙を行うことになりました。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_image": true
+}

@@ -1,0 +1,72 @@
+{
+  "news_easy_image_uri": "''", 
+  "has_news_web_movie": true, 
+  "title": "スマートフォンだけでＡＴＭからお金を出す", 
+  "news_prearranged_time": "2017-03-27 11:30:00", 
+  "news_web_movie_uri": "k10010921611_201703241342_201703241345.mp4", 
+  "outline": "インターネットの銀行の「じぶん銀行」が、キャッシュカードがなくてもスマートフォンだけでＡＴＭからお金を出したりできるサービスを２７日から始めました。", 
+  "has_news_easy_voice": true, 
+  "has_news_easy_movie": false, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170323/../20170323/K10010921611_1703231427_1703231428_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "outline_with_ruby": "<p>インターネットの<ruby>銀行<rt>ぎんこう</rt></ruby>の「じぶん<ruby>銀行<rt>ぎんこう</rt></ruby>」が、<span class=\"newWord\">キャッシュカード</span>がなくてもスマートフォンだけで<span class=\"newWord\">ＡＴＭ</span>からお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したりできる<span class=\"newWord\">サービス</span>を２７<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。", 
+  "has_news_easy_image": false, 
+  "news_easy_movie_uri": "''", 
+  "content": "インターネットの銀行の「じぶん銀行」が、キャッシュカードがなくてもスマートフォンだけでＡＴＭからお金を出したりできるサービスを２７日から始めました。このサービスは、じぶん銀行の口座を持っている人が利用できます。コンビニのセブンーイレブンなどにある「セブン銀行」のＡＴＭを使います。\nお金を出すときは、サービスを利用するための「アプリ」を入れたスマートフォンに、いくら出したいか入力します。そして、ＡＴＭの画面のＱＲコードをカメラで写すと、スマートフォンの画面に番号が出ます。その番号と口座のパスワードをＡＴＭに入力すると、お金を出すことができます。自分の口座にお金を入れることもできます。\nスマートフォンだけでＡＴＭを使うことができるサービスは、日本の銀行で初めてです。", 
+  "content_with_ruby": "<p>インターネットの<ruby>銀行<rt>ぎんこう</rt></ruby>の「じぶん<ruby>銀行<rt>ぎんこう</rt></ruby>」が、<span class=\"newWord\">キャッシュカード</span>がなくてもスマートフォンだけで<span class=\"newWord\">ＡＴＭ</span>からお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したりできる<span class=\"newWord\">サービス</span>を２７<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。この<span class=\"newWord\">サービス</span>は、じぶん<ruby>銀行<rt>ぎんこう</rt></ruby>の<span class=\"newWord\"><ruby>口座<rt>こうざ</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>できます。<span class=\"newWord\">コンビニ</span>のセブンーイレブンなどにある「セブン<ruby>銀行<rt>ぎんこう</rt></ruby>」の<span class=\"newWord\">ＡＴＭ</span>を<ruby>使<rt>つか</rt></ruby>います。</p>\n<p>お<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すときは、<span class=\"newWord\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>するための「アプリ」を<ruby>入<rt>い</rt></ruby>れたスマートフォンに、いくら<ruby>出<rt>だ</rt></ruby>したいか<span class=\"newWord\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>します。そして、<span class=\"newWord\">ＡＴＭ</span>の<span class=\"newWord\"><ruby>画面<rt>がめん</rt></ruby></span>のＱＲコードをカメラで<ruby>写<rt>うつ</rt></ruby>すと、スマートフォンの<span class=\"newWord\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。その<ruby>番号<rt>ばんごう</rt></ruby>と<span class=\"newWord\"><ruby>口座<rt>こうざ</rt></ruby></span>の<span class=\"newWord\">パスワード</span>を<span class=\"newWord\">ＡＴＭ</span>に<span class=\"newWord\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>すると、お<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことができます。<ruby>自分<rt>じぶん</rt></ruby>の<span class=\"newWord\"><ruby>口座<rt>こうざ</rt></ruby></span>にお<ruby>金<rt>かね</rt></ruby>を<ruby>入<rt>い</rt></ruby>れることもできます。</p>\n<p>スマートフォンだけで<span class=\"newWord\">ＡＴＭ</span>を<ruby>使<rt>つか</rt></ruby>うことができる<span class=\"newWord\">サービス</span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n<p></p>\n<p></p>", 
+  "words": [
+    {
+      "word": "ATM", 
+      "descriptions": [
+        "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などにある、<ruby><rb>現金自動預</rb><rt>げんきんじどうあず</rt></ruby>け<ruby><rb>払</rb><rt>ばら</rt></ruby>い<ruby><rb>機</rb><rt>き</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "キャッシュカード", 
+      "descriptions": [
+        "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などで、<ruby><rb>機械</rb><rt>きかい</rt></ruby>にさしこんで、お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>したりできるカード。"
+      ]
+    }, 
+    {
+      "word": "サービス", 
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。", 
+        "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "口座", 
+      "descriptions": [
+        "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "コンビニ", 
+      "descriptions": [
+        "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。"
+      ]
+    }, 
+    {
+      "word": "入力", 
+      "descriptions": [
+        "コンピューターなどに、<ruby><rb>用意</rb><rt>ようい</rt></ruby>した<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れること。インプット。"
+      ]
+    }, 
+    {
+      "word": "画面", 
+      "descriptions": [
+        "<ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "パスワード", 
+      "descriptions": [
+        "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。"
+      ]
+    }
+  ], 
+  "news_id": "k10010921611000", 
+  "news_easy_voice_uri": "k10010921611000.mp3", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170323/k10010921611000.html?utm_int=nsearch_contents_search-items_001", 
+  "title_with_ruby": "スマートフォンだけでＡＴＭからお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す", 
+  "has_news_web_image": true
+}

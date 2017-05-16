@@ -1,0 +1,56 @@
+{
+  "content_with_ruby": "<p>「リカちゃん」は、<ruby>洋服<rt>ようふく</rt></ruby>をいろいろ<ruby>変<rt>か</rt></ruby>えて<ruby>遊<rt>あそ</rt></ruby>ぶことができる<ruby>人形<rt>にんぎょう</rt></ruby>です。５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<span class=\"newWord\"><ruby>発売<rt>はつばい</rt></ruby></span>になってからずっと<span class=\"newWord\"><ruby>人気<rt>にんき</rt></ruby></span>があります。</p>\n<p><ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>にある<ruby>松屋銀座<rt>まつやぎんざ</rt></ruby>というデパートが、リカちゃんの５０<ruby>年<rt>ねん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。<ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>今<rt>いま</rt></ruby>までのリカちゃんの<ruby>人形<rt>にんぎょう</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>などを７００ぐらい<ruby>見<rt>み</rt></ruby>ることができます。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>には、<ruby>短<rt>みじか</rt></ruby>いスカートなど、その<ruby>時代<rt>じだい</rt></ruby>に<span class=\"newWord\"><ruby>人気<rt>にんき</rt></ruby></span>があった<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ているリカちゃんもあります。２０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>のリカちゃんは、<span class=\"newWord\"><ruby>女子<rt>じょし</rt></ruby></span><ruby>高校生<rt>こうこうせい</rt></ruby>に<span class=\"newWord\"><ruby>人気<rt>にんき</rt></ruby></span>があった「ルーズソックス」という<ruby>靴下<rt>くつした</rt></ruby>を<ruby>履<rt>は</rt></ruby>いていたり、<span class=\"newWord\"><ruby>肌<rt>はだ</rt></ruby></span>が<span class=\"newWord\"><ruby>日焼<rt>ひや</rt></ruby>け</span>したりしています。</p>\n<p>３<ruby>歳<rt>さい</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>と<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ころ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>んだリカちゃんもあって、<ruby>昔<rt>むかし</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p>この<ruby>展覧会<rt>てんらんかい</rt></ruby>は４<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>までです。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170329/k10010929321000.html", 
+  "news_prearranged_time": "2017-03-31 11:30:00", 
+  "news_easy_image_uri": "k10010929321000.jpg", 
+  "news_web_movie_uri": "", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "words": [
+    {
+      "word": "人気", 
+      "descriptions": [
+        "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "発売", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "女子", 
+      "descriptions": [
+        "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。", 
+        "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "肌", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。", 
+        "<ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。", 
+        "<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "日焼け", 
+      "descriptions": [
+        "<ruby><rb>日</rb><rt>ひ</rt></ruby>に<ruby><rb>当</rb><rt>あ</rt></ruby>たって、<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>黒</rb><rt>くろ</rt></ruby>くなること。"
+      ]
+    }
+  ], 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "outline": "「リカちゃん」は、洋服をいろいろ変えて遊ぶことができる人形です。", 
+  "content": "「リカちゃん」は、洋服をいろいろ変えて遊ぶことができる人形です。５０年前に発売になってからずっと人気があります。\n今、東京にある松屋銀座というデパートが、リカちゃんの５０年の歴史を紹介する展覧会を行っています。会場では、今までのリカちゃんの人形や家などを７００ぐらい見ることができます。\nこの中には、短いスカートなど、その時代に人気があった服を着ているリカちゃんもあります。２０年ぐらい前のリカちゃんは、女子高校生に人気があった「ルーズソックス」という靴下を履いていたり、肌が日焼けしたりしています。\n３歳の娘と見に来た女性は「子どもの頃に遊んだリカちゃんもあって、昔を思い出しました」と話していました。\nこの展覧会は４月３日までです。", 
+  "news_easy_voice_uri": "k10010929321000.mp3", 
+  "title": "５０年前から人気の人形「リカちゃん」の展覧会", 
+  "has_news_easy_image": true, 
+  "outline_with_ruby": "<p>「リカちゃん」は、<ruby>洋服<rt>ようふく</rt></ruby>をいろいろ<ruby>変<rt>か</rt></ruby>えて<ruby>遊<rt>あそ</rt></ruby>ぶことができる<ruby>人形<rt>にんぎょう</rt></ruby>です。", 
+  "news_id": "k10010929321000", 
+  "title_with_ruby": "５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>人気<rt>にんき</rt></ruby>の<ruby>人形<rt>にんぎょう</rt></ruby>「リカちゃん」の<ruby>展覧会<rt>てんらんかい</rt></ruby>", 
+  "news_easy_movie_uri": "''"
+}

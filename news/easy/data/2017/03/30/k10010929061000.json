@@ -1,0 +1,30 @@
+{
+  "outline": "熊本県立図書館は、去年４月の大きな地震で建物が壊れました。", 
+  "title": "熊本県　地震で壊れた図書館が全部利用できるようになる", 
+  "outline_with_ruby": "<p><ruby>熊本県立図書館<rt>くまもとけんりつとしょかん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_easy_movie_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170329/k10010929061000.html", 
+  "content": "熊本県立図書館は、去年４月の大きな地震で建物が壊れました。１階は去年６月に利用できるようになりましたが、２階と３階は天井などを直していて利用できませんでした。\n２９日、１階から３階まで全部利用できるようになった図書館が開きました。１階には子どものための本、２階には普通の本、３階には熊本県などについて書いた本が地震の前と同じように並んでいます。\n来た女性は「ここで本を読むのを楽しみにしていました」と話していました。\n図書館の人は「長い間お待たせしました。前と同じように利用してほしいと思います」と話しています。", 
+  "has_news_easy_movie": false, 
+  "news_easy_voice_uri": "k10010929061000.mp3", 
+  "news_web_movie_uri": "k10010929061_201703291508_201703291511.mp4", 
+  "news_id": "k10010929061000", 
+  "news_prearranged_time": "2017-03-30 16:40:00", 
+  "has_news_easy_voice": true, 
+  "content_with_ruby": "<p><ruby>熊本県立図書館<rt>くまもとけんりつとしょかん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。１<ruby>階<rt>かい</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>できるようになりましたが、２<ruby>階<rt>かい</rt></ruby>と３<ruby>階<rt>がい</rt></ruby>は<span class=\"newWord\"><ruby>天井<rt>てんじょう</rt></ruby></span>などを<ruby>直<rt>なお</rt></ruby>していて<ruby>利用<rt>りよう</rt></ruby>できませんでした。</p>\n<p>２９<ruby>日<rt>にち</rt></ruby>、１<ruby>階<rt>かい</rt></ruby>から３<ruby>階<rt>がい</rt></ruby>まで<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できるようになった<ruby>図書館<rt>としょかん</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きました。１<ruby>階<rt>かい</rt></ruby>には<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>、２<ruby>階<rt>かい</rt></ruby>には<ruby>普通<rt>ふつう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>、３<ruby>階<rt>がい</rt></ruby>には<ruby>熊本県<rt>くまもとけん</rt></ruby>などについて<ruby>書<rt>か</rt></ruby>いた<ruby>本<rt>ほん</rt></ruby>が<ruby>地震<rt>じしん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>並<rt>なら</rt></ruby>んでいます。</p>\n<p><ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「ここで<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むのを<ruby>楽<rt>たの</rt></ruby>しみにしていました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p><ruby>図書館<rt>としょかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>お<ruby>待<rt>ま</rt></ruby>たせしました。<ruby>前<rt>まえ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>利用<rt>りよう</rt></ruby>してほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p></p>\n<p></p>", 
+  "title_with_ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>　<ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>図書館<rt>としょかん</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できるようになる", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170329/../20170329/K10010929061_1703291508_1703291511_01_03.jpg", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。", 
+        "ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。"
+      ], 
+      "word": "天井"
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_web_movie": true
+}

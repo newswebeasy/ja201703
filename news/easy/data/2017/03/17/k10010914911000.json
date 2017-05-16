@@ -1,0 +1,109 @@
+{
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-17 15:45:00", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170317/k10010914911000.html", 
+  "words": [
+    {
+      "word": "情報", 
+      "descriptions": [
+        "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。"
+      ]
+    }, 
+    {
+      "word": "人工衛星", 
+      "descriptions": [
+        "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。"
+      ]
+    }, 
+    {
+      "word": "打ち上げる", 
+      "descriptions": [
+        "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "打ち上げる", 
+      "descriptions": [
+        "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。"
+      ]
+    }, 
+    {
+      "word": "地球", 
+      "descriptions": [
+        "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。"
+      ]
+    }, 
+    {
+      "word": "陸", 
+      "descriptions": [
+        "<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>土</rb><rt>つち</rt></ruby>のある<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "撮影", 
+      "descriptions": [
+        "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や、<ruby><rb>映画</rb><rt>えいが</rt></ruby>を<ruby><rb>写</rb><rt>うつ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "電波", 
+      "descriptions": [
+        "<ruby><rb>光</rb><rt>ひかり</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>速</rb><rt>はや</rt></ruby>さで<ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>運動</rb><rt>うんどう</rt></ruby>している<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>波</rb><rt>なみ</rt></ruby>。<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>電磁波</rb><rt>でんじは</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ミサイル", 
+      "descriptions": [
+        "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "発射", 
+      "descriptions": [
+        "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "災害", 
+      "descriptions": [
+        "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "様子", 
+      "descriptions": [
+        "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。", 
+        "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。", 
+        "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。", 
+        "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。"
+      ]
+    }
+  ], 
+  "has_news_web_movie": true, 
+  "content_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は１７<ruby>日<rt>にち</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島宇宙<rt>たねがしまうちゅう</rt></ruby>センターから<span class=\"newWord\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span class=\"newWord\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。</p>\n<p>この<span class=\"newWord\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>は、<span class=\"newWord\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>飛<rt>と</rt></ruby>びながら、<span class=\"newWord\"><ruby>陸<rt>りく</rt></ruby></span>や<ruby>海<rt>うみ</rt></ruby>のいろいろな<ruby>場所<rt>ばしょ</rt></ruby>を<span class=\"newWord\"><ruby>撮影<rt>さつえい</rt></ruby></span>して<span class=\"newWord\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めます。<ruby>夜<rt>よる</rt></ruby>や<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときでも<span class=\"newWord\"><ruby>電波<rt>でんぱ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<span class=\"newWord\"><ruby>撮影<rt>さつえい</rt></ruby></span>することができます。</p>\n<p><span class=\"newWord\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の<span class=\"newWord\"><ruby>情報<rt>じょうほう</rt></ruby></span>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span class=\"newWord\">ミサイル</span>を<span class=\"newWord\"><ruby>発射<rt>はっしゃ</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>や、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>海<rt>うみ</rt></ruby>、<span class=\"newWord\"><ruby>災害<rt>さいがい</rt></ruby></span>の<span class=\"newWord\"><ruby>様子<rt>ようす</rt></ruby></span>などを<ruby>調<rt>しら</rt></ruby>べるために<ruby>使<rt>つか</rt></ruby>います。</p>\n<p><span class=\"newWord\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>める<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>は７つ<ruby>目<rt>め</rt></ruby>です。<span class=\"newWord\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>全部<rt>ぜんぶ</rt></ruby>を１<ruby>日<rt>にち</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>、<span class=\"newWord\"><ruby>撮影<rt>さつえい</rt></ruby></span>できるようになりました。</p>\n<p></p>\n<p></p>", 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は１７<ruby>日<rt>にち</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>種子島宇宙<rt>たねがしまうちゅう</rt></ruby>センターから<span class=\"newWord\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span class=\"newWord\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_easy_voice": true, 
+  "outline": "日本の政府は１７日、鹿児島県の種子島宇宙センターから人工衛星を打ち上げました。", 
+  "title": "情報を集める人工衛星を打ち上げる", 
+  "news_web_movie_uri": "k10010914911_201703171104_201703171105.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_image": true, 
+  "content": "日本の政府は１７日、鹿児島県の種子島宇宙センターから人工衛星を打ち上げました。\nこの人工衛星は、地球の周りを飛びながら、陸や海のいろいろな場所を撮影して情報を集めます。夜や天気が悪いときでも電波を使って撮影することができます。\n人工衛星の情報は、北朝鮮がミサイルを発射する場所や、日本の周りの海、災害の様子などを調べるために使います。\n情報を集める日本の人工衛星は７つ目です。地球の全部を１日に１回以上、撮影できるようになりました。", 
+  "news_easy_voice_uri": "k10010914911000.mp3", 
+  "title_with_ruby": "<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる", 
+  "news_id": "k10010914911000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170317/../20170317/K10010914911_1703171108_1703171120_01_03.jpg"
+}

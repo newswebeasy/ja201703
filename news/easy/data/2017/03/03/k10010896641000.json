@@ -1,0 +1,146 @@
+{
+  "has_news_easy_image": false, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170302/k10010896641000.html", 
+  "news_prearranged_time": "2017-03-03 16:25:00", 
+  "title_with_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>に３つの「<ruby>化粧<rt>けしょう</rt></ruby>まわし」を<ruby>贈<rt>おく</rt></ruby>る", 
+  "has_news_easy_voice": true, 
+  "has_news_web_image": true, 
+  "news_web_movie_uri": "k10010896641_201703022046_201703022047.mp4", 
+  "outline_with_ruby": "<p>３<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>から、<ruby>大阪<rt>おおさか</rt></ruby>で<span class=\"newWord\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まります。", 
+  "has_news_web_movie": true, 
+  "content": "３月１２日から、大阪で大相撲が始まります。２日、新しく横綱になった稀勢の里を応援する会があって、７００人が集まりました。\n稀勢の里を応援する会の人たちは、３つがセットになっている「化粧まわし」を横綱に贈りました。化粧まわしは、力士が試合の前に腰につけるきれいな帯のような物です。\n３つの化粧まわしは、赤い富士山と鶴のデザインです。会の人たちは「日本でいちばん高い富士山より高いところまで飛んでいくような横綱になってほしい」と願って作りました。\n稀勢の里は「この化粧まわしに恥ずかしくない成績を残して、みなさんに喜んでもらえるように頑張ります」と話しました。", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "''", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170302/../20170302/K10010896641_1703022046_1703022048_01_03.jpg", 
+  "news_id": "k10010896641000", 
+  "outline": "３月１２日から、大阪で大相撲が始まります。", 
+  "words": [
+    {
+      "word": "横綱", 
+      "descriptions": [
+        "すもうの<ruby><rb>番付</rb><rt>ばんづけ</rt></ruby>で、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。また、その<ruby><rb>力士</rb><rt>りきし</rt></ruby>。", 
+        "「<span class=\"dic_sansyogogi\">1)</span>」が<ruby><rb>土俵入</rb><rt>どひょうい</rt></ruby>りのときに、<ruby><rb>腰</rb><rt>こし</rt></ruby>にしめる<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。", 
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばんすぐれている<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "贈る", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。", 
+        "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。"
+      ]
+    }, 
+    {
+      "word": "大相撲", 
+      "descriptions": [
+        "<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。", 
+        "<ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "応援", 
+      "descriptions": [
+        "<ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。", 
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。"
+      ]
+    }, 
+    {
+      "word": "セット", 
+      "descriptions": [
+        "ひとそろい。", 
+        "テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。", 
+        "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。", 
+        "<ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。", 
+        "<ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。"
+      ]
+    }, 
+    {
+      "word": "贈る", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。", 
+        "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。"
+      ]
+    }, 
+    {
+      "word": "力士", 
+      "descriptions": [
+        "すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。"
+      ]
+    }, 
+    {
+      "word": "腰", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胴</rb><rt>どう</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。", 
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby><ruby><rb>辺</rb><rt>あた</rt></ruby>りより<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。", 
+        "<ruby><rb>粉</rb><rt>こな</rt></ruby>や、もちなどの、ねばり。"
+      ]
+    }, 
+    {
+      "word": "付ける", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。", 
+        "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。", 
+        "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。", 
+        "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。", 
+        "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。", 
+        "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。", 
+        "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。", 
+        "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。", 
+        "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。"
+      ]
+    }, 
+    {
+      "word": "帯", 
+      "descriptions": [
+        "<ruby><rb>着物</rb><rt>きもの</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>から、<ruby><rb>腰</rb><rt>こし</rt></ruby>の<ruby><rb>辺</rb><rt>あた</rt></ruby>りに<ruby><rb>巻</rb><rt>ま</rt></ruby>いて<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>布</rb><rt>ぬの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "富士山", 
+      "descriptions": [
+        "<ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは三七七六メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。"
+      ]
+    }, 
+    {
+      "word": "鶴", 
+      "descriptions": [
+        "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らす<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>渡</rb><rt>わた</rt></ruby>り<ruby><rb>鳥</rb><rt>どり</rt></ruby>。<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>とくちばしが<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、めでたい<ruby><rb>鳥</rb><rt>とり</rt></ruby>として<ruby><rb>知</rb><rt>し</rt></ruby>られている。"
+      ]
+    }, 
+    {
+      "word": "デザイン", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。", 
+        "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "願う", 
+      "descriptions": [
+        "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。"
+      ]
+    }, 
+    {
+      "word": "成績", 
+      "descriptions": [
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>結果</rb><rt>けっか</rt></ruby>。できばえ。", 
+        "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のできぐあい。"
+      ]
+    }, 
+    {
+      "word": "残す", 
+      "descriptions": [
+        "あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。", 
+        "<ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。", 
+        "あとにとどまらせる。", 
+        "のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。", 
+        "すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。"
+      ]
+    }
+  ], 
+  "title": "新しい横綱の稀勢の里に３つの「化粧まわし」を贈る", 
+  "content_with_ruby": "<p>３<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>から、<ruby>大阪<rt>おおさか</rt></ruby>で<span class=\"newWord\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まります。<ruby>２日<rt>ふつか</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しく<span class=\"newWord\"><ruby>横綱<rt>よこづな</rt></ruby></span>になった<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>を<span class=\"newWord\"><ruby>応援<rt>おうえん</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>があって、７００<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n<p><ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>を<span class=\"newWord\"><ruby>応援<rt>おうえん</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、３つが<span class=\"newWord\">セット</span>になっている「<ruby>化粧<rt>けしょう</rt></ruby>まわし」を<span class=\"newWord\"><ruby>横綱<rt>よこづな</rt></ruby></span>に<span class=\"newWord\"><ruby>贈<rt>おく</rt></ruby>り</span>ました。<ruby>化粧<rt>けしょう</rt></ruby>まわしは、<span class=\"newWord\"><ruby>力士<rt>りきし</rt></ruby></span>が<ruby>試合<rt>しあい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<span class=\"newWord\"><ruby>腰<rt>こし</rt></ruby></span>に<span class=\"newWord\">つける</span>きれいな<span class=\"newWord\"><ruby>帯<rt>おび</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>です。</p>\n<p>３つの<ruby>化粧<rt>けしょう</rt></ruby>まわしは、<ruby>赤<rt>あか</rt></ruby>い<span class=\"newWord\"><ruby>富士山<rt>ふじさん</rt></ruby></span>と<span class=\"newWord\"><ruby>鶴<rt>つる</rt></ruby></span>の<span class=\"newWord\">デザイン</span>です。<ruby>会<rt>かい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは「<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>い<span class=\"newWord\"><ruby>富士山<rt>ふじさん</rt></ruby></span>より<ruby>高<rt>たか</rt></ruby>いところまで<ruby>飛<rt>と</rt></ruby>んでいくような<span class=\"newWord\"><ruby>横綱<rt>よこづな</rt></ruby></span>になってほしい」と<span class=\"newWord\"><ruby>願<rt>ねが</rt></ruby>っ</span>て<ruby>作<rt>つく</rt></ruby>りました。</p>\n<p><ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>は「この<ruby>化粧<rt>けしょう</rt></ruby>まわしに<ruby>恥<rt>は</rt></ruby>ずかしくない<span class=\"newWord\"><ruby>成績<rt>せいせき</rt></ruby></span>を<span class=\"newWord\"><ruby>残<rt>のこ</rt></ruby>し</span>て、みなさんに<ruby>喜<rt>よろこ</rt></ruby>んでもらえるように<ruby>頑張<rt>がんば</rt></ruby>ります」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010896641000.mp3"
+}

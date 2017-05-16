@@ -1,0 +1,64 @@
+{
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170304/../20170304/K10010898841_1703041921_1703041945_01_02.jpg", 
+  "words": [
+    {
+      "descriptions": [
+        "おもに<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむけもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>毛</rb><rt>け</rt></ruby>でおおわれている。<ruby><rb>足</rb><rt>あし</rt></ruby>はひれのような<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎがうまい。"
+      ], 
+      "word": "あざらし"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。", 
+        "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。"
+      ], 
+      "word": "イベント"
+    }, 
+    {
+      "descriptions": [
+        "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。", 
+        "まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。", 
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。", 
+        "つける。", 
+        "やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。", 
+        "むだにする。", 
+        "<ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。"
+      ], 
+      "word": "振る"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。"
+      ], 
+      "word": "祝日"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>組</rb><rt>く</rt></ruby>むこと。また、<ruby><rb>組</rb><rt>く</rt></ruby>んだもの。", 
+        "ひとそろいになること。", 
+        "そろいになった<ruby><rb>物</rb><rt>もの</rt></ruby>。", 
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。", 
+        "<ruby><rb>学級</rb><rt>がっきゅう</rt></ruby>。クラス。"
+      ], 
+      "word": "組み・"
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_web_movie": true, 
+  "content_with_ruby": "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>紋別市<rt>もんべつし</rt></ruby>にある「アザラシシーパラダイス」では、<span class=\"newWord\">あざらし</span>の<ruby>隣<rt>となり</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>て<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることができる<span class=\"newWord\">イベント</span>を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n<p><span class=\"newWord\">あざらし</span>は、<ruby>泳<rt>およ</rt></ruby>いでいたプールから<ruby>出<rt>で</rt></ruby>ると<ruby>雪<rt>ゆき</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>て、<span class=\"newWord\">イベント</span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りました。<ruby>撮<rt>と</rt></ruby>り<ruby>終<rt>お</rt></ruby>わると、<span class=\"newWord\">あざらし</span>は「さようなら」のあいさつをするように<ruby>前<rt>まえ</rt></ruby>の<ruby>足<rt>あし</rt></ruby>を<span class=\"newWord\"><ruby>振<rt>ふ</rt></ruby>っ</span>ていました。</p>\n<p><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った<ruby>子<rt>こ</rt></ruby>どもは「さようならをしていたのが<ruby>特<rt>とく</rt></ruby>にかわいかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p>この<span class=\"newWord\">イベント</span>は３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまで<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>と<span class=\"newWord\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>に<ruby>行<rt>おこな</rt></ruby>っています。１<ruby>日<rt>にち</rt></ruby>に５<span class=\"newWord\"><ruby>組<rt>くみ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>撮<rt>と</rt></ruby>ることができます。</p>\n<p></p>\n<p></p>", 
+  "title_with_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>　あざらしの<ruby>隣<rt>となり</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>て<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることができる", 
+  "outline": "北海道紋別市にある「アザラシシーパラダイス」では、あざらしの隣に寝て一緒に写真を撮ることができるイベントを行っています。", 
+  "news_prearranged_time": "2017-03-07 11:30:00", 
+  "has_news_easy_voice": true, 
+  "news_easy_voice_uri": "k10010898841000.mp3", 
+  "news_web_movie_uri": "k10010898841_201703050011_201703050025.mp4", 
+  "news_id": "k10010898841000", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170304/k10010898841000.html", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>紋別市<rt>もんべつし</rt></ruby>にある「アザラシシーパラダイス」では、<span class=\"newWord\">あざらし</span>の<ruby>隣<rt>となり</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>て<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることができる<span class=\"newWord\">イベント</span>を<ruby>行<rt>おこな</rt></ruby>っています。", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "title": "北海道　あざらしの隣に寝て写真を撮ることができる", 
+  "content": "北海道紋別市にある「アザラシシーパラダイス」では、あざらしの隣に寝て一緒に写真を撮ることができるイベントを行っています。\nあざらしは、泳いでいたプールから出ると雪の上に寝て、イベントに来た人たちと一緒に写真を撮りました。撮り終わると、あざらしは「さようなら」のあいさつをするように前の足を振っていました。\n一緒に写真を撮った子どもは「さようならをしていたのが特にかわいかったです」と話していました。\nこのイベントは３月の終わりまで土曜日と日曜日と祝日に行っています。１日に５組の人が一緒に撮ることができます。"
+}

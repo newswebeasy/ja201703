@@ -1,0 +1,108 @@
+{
+  "has_news_easy_voice": true, 
+  "has_news_easy_image": false, 
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>、お<span class=\"newWord\"><ruby>年寄<rt>としよ</rt></ruby>り</span>を<span class=\"newWord\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>たりいじめたりする「<ruby>虐待<rt>ぎゃくたい</rt></ruby>」がどのくらいあったか<ruby>調<rt>しら</rt></ruby>べています。</p>\n<p>２０１５<span class=\"newWord\"><ruby>年度<rt>ねんど</rt></ruby></span>は、お<span class=\"newWord\"><ruby>年寄<rt>としよ</rt></ruby>り</span>を<span class=\"newWord\"><ruby>介護<rt>かいご</rt></ruby></span>する<span class=\"newWord\"><ruby>施設<rt>しせつ</rt></ruby></span>の<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>からの<ruby>虐待<rt>ぎゃくたい</rt></ruby>が４０８<span class=\"newWord\"><ruby>件<rt>けん</rt></ruby></span>ありました。<ruby>前<rt>まえ</rt></ruby>の<span class=\"newWord\"><ruby>年度<rt>ねんど</rt></ruby></span>より１０８<span class=\"newWord\"><ruby>件<rt>けん</rt></ruby></span><ruby>増<rt>ふ</rt></ruby>えて、<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。<span class=\"newWord\"><ruby>職員<rt>しょくいん</rt></ruby></span>の<span class=\"newWord\"><ruby>知識<rt>ちしき</rt></ruby></span>や<ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことや、<span class=\"newWord\">ストレス</span>が<ruby>多<rt>おお</rt></ruby>いことなどが<ruby>原因<rt>げんいん</rt></ruby>です。</p>\n<p><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>家族<rt>かぞく</rt></ruby>などからの<ruby>虐待<rt>ぎゃくたい</rt></ruby>は１<ruby>万<rt>まん</rt></ruby>５９７６<span class=\"newWord\"><ruby>件<rt>けん</rt></ruby></span>ありました。<ruby>体<rt>からだ</rt></ruby>を<span class=\"newWord\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>たりすることが<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くて、ひどいことを<ruby>言<rt>い</rt></ruby>って<ruby>心<rt>こころ</rt></ruby>に<span class=\"newWord\"><ruby>傷<rt>きず</rt></ruby></span>を<span class=\"newWord\">つけ</span>たり、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>世話<rt>せわ</rt></ruby>をしなかったりすることもありました。<ruby>息子<rt>むすこ</rt></ruby>からの<ruby>虐待<rt>ぎゃくたい</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くて、<ruby>次<rt>つぎ</rt></ruby>は<ruby>夫<rt>おっと</rt></ruby>と<ruby>娘<rt>むすめ</rt></ruby>からでした。</p>\n<p></p>\n<p></p>", 
+  "news_web_movie_uri": "k10010919331_201703211811_201703211811.mp4", 
+  "has_news_easy_movie": false, 
+  "words": [
+    {
+      "word": "年寄り", 
+      "descriptions": [
+        "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。", 
+        "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "介護", 
+      "descriptions": [
+        "<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。"
+      ]
+    }, 
+    {
+      "word": "施設", 
+      "descriptions": [
+        "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "職員", 
+      "descriptions": [
+        "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "厚生労働省", 
+      "descriptions": [
+        "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "殴る", 
+      "descriptions": [
+        "<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。"
+      ]
+    }, 
+    {
+      "word": "年度", 
+      "descriptions": [
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>四月</rb><rt>しがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>三月三十一日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。"
+      ]
+    }, 
+    {
+      "word": "件", 
+      "descriptions": [
+        "ことがら。できごと。", 
+        "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。"
+      ]
+    }, 
+    {
+      "word": "知識", 
+      "descriptions": [
+        "ものごとについて、<ruby><rb>正</rb><rt>ただ</rt></ruby>しくはっきり<ruby><rb>知</rb><rt>し</rt></ruby>っていること。また、<ruby><rb>知</rb><rt>し</rt></ruby>っている<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ストレス", 
+      "descriptions": [
+        "<ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。"
+      ]
+    }, 
+    {
+      "word": "傷", 
+      "descriptions": [
+        "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。", 
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。", 
+        "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "付ける", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。", 
+        "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。", 
+        "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。", 
+        "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。", 
+        "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。", 
+        "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。", 
+        "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。", 
+        "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。", 
+        "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。"
+      ]
+    }
+  ], 
+  "title_with_ruby": "お<ruby>年寄<rt>としよ</rt></ruby>りを<ruby>介護<rt>かいご</rt></ruby>する<ruby>施設<rt>しせつ</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>からの<ruby>虐待<rt>ぎゃくたい</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなる", 
+  "news_easy_voice_uri": "k10010919331000.mp3", 
+  "outline": "厚生労働省は毎年、お年寄りを殴ったりいじめたりする「虐待」がどのくらいあったか調べています。", 
+  "news_prearranged_time": "2017-03-23 11:30:00", 
+  "news_id": "k10010919331000", 
+  "title": "お年寄りを介護する施設の職員からの虐待が最も多くなる", 
+  "has_news_web_movie": true, 
+  "content": "厚生労働省は毎年、お年寄りを殴ったりいじめたりする「虐待」がどのくらいあったか調べています。\n２０１５年度は、お年寄りを介護する施設の職員からの虐待が４０８件ありました。前の年度より１０８件増えて、今までで最も多くなりました。職員の知識や技術が足りないことや、ストレスが多いことなどが原因です。\n一緒に住んでいる家族などからの虐待は１万５９７６件ありました。体を殴ったりすることが最も多くて、ひどいことを言って心に傷をつけたり、必要な世話をしなかったりすることもありました。息子からの虐待が最も多くて、次は夫と娘からでした。", 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>、お<span class=\"newWord\"><ruby>年寄<rt>としよ</rt></ruby>り</span>を<span class=\"newWord\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>たりいじめたりする「<ruby>虐待<rt>ぎゃくたい</rt></ruby>」がどのくらいあったか<ruby>調<rt>しら</rt></ruby>べています。", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170321/../20170321/K10010919331_1703211735_1703211739_01_02.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170321/k10010919331000.html"
+}

@@ -1,0 +1,80 @@
+{
+  "words": [
+    {
+      "word": "津波", 
+      "descriptions": [
+        "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。"
+      ]
+    }, 
+    {
+      "word": "マグニチュード", 
+      "descriptions": [
+        "<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "東北地方", 
+      "descriptions": [
+        "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。"
+      ]
+    }, 
+    {
+      "word": "関東地方", 
+      "descriptions": [
+        "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。"
+      ]
+    }, 
+    {
+      "word": "太平洋", 
+      "descriptions": [
+        "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "委員会", 
+      "descriptions": [
+        "<ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "地方", 
+      "descriptions": [
+        "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。", 
+        "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。"
+      ]
+    }, 
+    {
+      "word": "平均", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。", 
+        "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。"
+      ]
+    }
+  ], 
+  "news_easy_voice_uri": "k10010904951000.mp3", 
+  "has_news_web_movie": false, 
+  "news_id": "k10010904951000", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p><span class=\"newWord\">マグニチュード</span>９（Ｍ９）の<ruby>地震<rt>じしん</rt></ruby>があった<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>になりました。", 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010904951000.html", 
+  "title_with_ruby": "<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>　これからも<ruby>地震<rt>じしん</rt></ruby>や<ruby>津波<rt>つなみ</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "title": "東日本大震災から６年　これからも地震や津波に注意が必要", 
+  "content_with_ruby": "<p><span class=\"newWord\">マグニチュード</span>９（Ｍ９）の<ruby>地震<rt>じしん</rt></ruby>があった<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>になりました。しかし、<span class=\"newWord\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>と<span class=\"newWord\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>の<span class=\"newWord\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span><ruby>側<rt>がわ</rt></ruby>では、<ruby>今<rt>いま</rt></ruby>も<ruby>時々<rt>ときどき</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があります。</p>\n<p><ruby>地震<rt>じしん</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べている<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>の<span class=\"newWord\"><ruby>委員会<rt>いいんかい</rt></ruby></span>によると、この<span class=\"newWord\"><ruby>地方<rt>ちほう</rt></ruby></span>では、<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの１<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\">マグニチュード</span>４<ruby>以上<rt>いじょう</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>が３６８<ruby>回<rt>かい</rt></ruby>ありました。<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のあとの１<ruby>年<rt>ねん</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べると、７％<ruby>以下<rt>いか</rt></ruby>になりました。</p>\n<p>しかし、<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の１０<ruby>年<rt>ねん</rt></ruby>は<span class=\"newWord\"><ruby>平均<rt>へいきん</rt></ruby></span>で１<ruby>年<rt>ねん</rt></ruby>に１３６<ruby>回<rt>かい</rt></ruby>だったため、<ruby>今<rt>いま</rt></ruby>はまだ２<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>多<rt>おお</rt></ruby>いことがわかります。<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>には、<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<span class=\"newWord\">マグニチュード</span>７．４の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。そして、<ruby>仙台市<rt>せんだいし</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>に<ruby>高<rt>たか</rt></ruby>さ１ｍ４４ｃｍの<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>が<ruby>来<rt>き</rt></ruby>ました。</p>\n<p><span class=\"newWord\"><ruby>委員会<rt>いいんかい</rt></ruby></span>は「<span class=\"newWord\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>と<span class=\"newWord\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>の<span class=\"newWord\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span><ruby>側<rt>がわ</rt></ruby>では、これからも<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>や<ruby>高<rt>たか</rt></ruby>い<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>の<ruby>心配<rt>しんぱい</rt></ruby>があるので、<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "outline": "マグニチュード９（Ｍ９）の地震があった東日本大震災から６年になりました。", 
+  "content": "マグニチュード９（Ｍ９）の地震があった東日本大震災から６年になりました。しかし、東北地方と関東地方の太平洋側では、今も時々大きな地震があります。\n地震について調べている政府の委員会によると、この地方では、今年３月までの１年にマグニチュード４以上の地震が３６８回ありました。東日本大震災のあとの１年と比べると、７％以下になりました。\nしかし、東日本大震災の前の１０年は平均で１年に１３６回だったため、今はまだ２倍以上多いことがわかります。去年１１月には、福島県の海でマグニチュード７．４の大きな地震がありました。そして、仙台市の港に高さ１ｍ４４ｃｍの津波が来ました。\n委員会は「東北地方と関東地方の太平洋側では、これからも大きな地震や高い津波の心配があるので、注意が必要です」と言っています。", 
+  "news_web_movie_uri": "", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010904951_1703092040_1703092053_01_02.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_prearranged_time": "2017-03-13 11:30:00"
+}

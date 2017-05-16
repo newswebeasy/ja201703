@@ -1,0 +1,114 @@
+{
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ロンドンのテロ　<ruby>容疑者<rt>ようぎしゃ</rt></ruby>は５２<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>", 
+  "news_easy_image_uri": "k10010922611000.jpg", 
+  "news_easy_voice_uri": "k10010922611000.mp3", 
+  "news_prearranged_time": "2017-03-24 16:50:00", 
+  "outline": "イギリスのロンドンで２２日、テロ事件がありました。", 
+  "title": "ロンドンのテロ　容疑者は５２歳の男", 
+  "words": [
+    {
+      "word": "テロ", 
+      "descriptions": [
+        "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "容疑者", 
+      "descriptions": [
+        "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "事件", 
+      "descriptions": [
+        "ふだんないような、できごと。"
+      ]
+    }, 
+    {
+      "word": "撥ねる", 
+      "descriptions": [
+        "はじきとばす。", 
+        "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。", 
+        "<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。"
+      ]
+    }, 
+    {
+      "word": "刺す", 
+      "descriptions": [
+        "とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。", 
+        "<ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。", 
+        "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。"
+      ]
+    }, 
+    {
+      "word": "起こす", 
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ]
+    }, 
+    {
+      "word": "撃つ", 
+      "descriptions": [
+        "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。"
+      ]
+    }, 
+    {
+      "word": "発表", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。"
+      ]
+    }, 
+    {
+      "word": "暴力", 
+      "descriptions": [
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>でする、<ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>な<ruby><rb>行</rb><rt>おこな</rt></ruby>い。"
+      ]
+    }, 
+    {
+      "word": "捕まる", 
+      "descriptions": [
+        "とらえられる。つかまえられる。"
+      ]
+    }, 
+    {
+      "word": "イスラム教", 
+      "descriptions": [
+        "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "起こす", 
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }
+  ], 
+  "content": "イギリスのロンドンで２２日、テロ事件がありました。男が車で歩いていた人をはねたり、警官をナイフで刺したりしました。この事件で４人が亡くなって、２８人がけがをしました。事件を起こした男は、警察に撃たれて死にました。\n警察は２３日、事件を起こした男は５２歳のハリド・マスード容疑者だと発表しました。マスード容疑者はイギリスで生まれて、最近までバーミンガムの近くに住んでいました。警察によると、マスード容疑者は暴力事件などで警察に捕まったことがあります。\n警察は、イスラム教のためだと言ってテロを起こすグループとマスード容疑者の関係をロンドンやバーミンガムなどで調べています。", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p>イギリスのロンドンで２２<ruby>日<rt>にち</rt></ruby>、<span class=\"newWord\">テロ</span><span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。", 
+  "has_news_easy_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170324/k10010922611000.html?utm_int=news-international_contents_list-items_006", 
+  "content_with_ruby": "<p>イギリスのロンドンで２２<ruby>日<rt>にち</rt></ruby>、<span class=\"newWord\">テロ</span><span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。<ruby>男<rt>おとこ</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>を<span class=\"newWord\">はね</span>たり、<ruby>警官<rt>けいかん</rt></ruby>をナイフで<span class=\"newWord\"><ruby>刺<rt>さ</rt></ruby>し</span>たりしました。この<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>で４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、２８<ruby>人<rt>にん</rt></ruby>がけがをしました。<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こし</span>た<ruby>男<rt>おとこ</rt></ruby>は、<ruby>警察<rt>けいさつ</rt></ruby>に<span class=\"newWord\"><ruby>撃<rt>う</rt></ruby>た</span>れて<ruby>死<rt>し</rt></ruby>にました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>は２３<ruby>日<rt>にち</rt></ruby>、<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こし</span>た<ruby>男<rt>おとこ</rt></ruby>は５２<ruby>歳<rt>さい</rt></ruby>のハリド・マスード<span class=\"newWord\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>だと<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。マスード<span class=\"newWord\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>はイギリスで<ruby>生<rt>う</rt></ruby>まれて、<ruby>最近<rt>さいきん</rt></ruby>までバーミンガムの<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>警察<rt>けいさつ</rt></ruby>によると、マスード<span class=\"newWord\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>は<span class=\"newWord\"><ruby>暴力<rt>ぼうりょく</rt></ruby></span><span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>などで<ruby>警察<rt>けいさつ</rt></ruby>に<span class=\"newWord\"><ruby>捕<rt>つか</rt></ruby>まっ</span>たことがあります。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>は、<span class=\"newWord\">イスラム<ruby>教<rt>きょう</rt></ruby></span>のためだと<ruby>言<rt>い</rt></ruby>って<span class=\"newWord\">テロ</span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こす</span><span class=\"newWord\">グループ</span>とマスード<span class=\"newWord\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>の<ruby>関係<rt>かんけい</rt></ruby>をロンドンやバーミンガムなどで<ruby>調<rt>しら</rt></ruby>べています。</p>\n<p></p>\n<p></p>", 
+  "news_easy_movie_uri": "''", 
+  "news_id": "k10010922611000", 
+  "news_web_image_uri": "", 
+  "has_news_web_movie": false, 
+  "has_news_web_image": false
+}

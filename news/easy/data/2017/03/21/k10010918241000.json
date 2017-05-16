@@ -1,0 +1,64 @@
+{
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170320/../20170320/K10010918241_1703201823_1703201828_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170320/k10010918241000.html?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_voice_uri": "k10010918241000.mp3", 
+  "news_easy_image_uri": "''", 
+  "title": "東京オリンピックで使うゴルフ場「女性も正会員にする」", 
+  "has_news_web_movie": true, 
+  "news_id": "k10010918241000", 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックを<ruby>行<rt>おこな</rt></ruby>う<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>などは、<ruby>埼玉県<rt>さいたまけん</rt></ruby>の<ruby>霞ヶ関<rt>かすみがせき</rt></ruby>カンツリー<ruby>倶楽部<rt>くらぶ</rt></ruby>をゴルフの<ruby>会場<rt>かいじょう</rt></ruby>にしたいと<ruby>考<rt>かんが</rt></ruby>えています。", 
+  "content": "２０２０年の東京オリンピックを行う組織委員会などは、埼玉県の霞ヶ関カンツリー倶楽部をゴルフの会場にしたいと考えています。\nしかし、このゴルフ場では、女性が正会員になることができない規則がありました。このためＩＯＣは、男性と女性は平等だというオリンピックの考え方に合わないので規則を変えるように言っていました。\n霞ヶ関カンツリー倶楽部は２０日、会議を開いて、女性も正会員になることができるように規則を変えました。\n東京オリンピックのゴルフの会場は、霞ヶ関カンツリー倶楽部に決まりそうです。", 
+  "words": [
+    {
+      "descriptions": [
+        "ばしょ。"
+      ], 
+      "word": "場"
+    }, 
+    {
+      "descriptions": [
+        "ただしい。まっすぐ。", 
+        "ただしくする。まちがいを<ruby><rb>改</rb><rt>あらた</rt></ruby>める。", 
+        "ちょうど。ぴったり。まさに。", 
+        "<ruby><rb>本来</rb><rt>ほんらい</rt></ruby>のもの。おもなもの。", 
+        "<ruby><rb>0</rb><rt>ゼロ</rt></ruby>よりも<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>数</rb><rt>かず</rt></ruby>。プラス。", 
+        "<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>始</rb><rt>はじ</rt></ruby>め。"
+      ], 
+      "word": "正"
+    }, 
+    {
+      "descriptions": [
+        "その<ruby><rb>会</rb><rt>かい</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "会員"
+    }, 
+    {
+      "descriptions": [
+        "オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。"
+      ], 
+      "word": "IOC"
+    }, 
+    {
+      "descriptions": [
+        "すべて<ruby><rb>同</rb><rt>おな</rt></ruby>じであること。<ruby><rb>差別</rb><rt>さべつ</rt></ruby>のないこと。<ruby><rb>公平</rb><rt>こうへい</rt></ruby>。"
+      ], 
+      "word": "平等"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。"
+      ], 
+      "word": "オリンピック"
+    }
+  ], 
+  "outline": "２０２０年の東京オリンピックを行う組織委員会などは、埼玉県の霞ヶ関カンツリー倶楽部をゴルフの会場にしたいと考えています。", 
+  "news_prearranged_time": "2017-03-21 16:40:00", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>使<rt>つか</rt></ruby>うゴルフ<ruby>場<rt>じょう</rt></ruby>「<ruby>女性<rt>じょせい</rt></ruby>も<ruby>正<rt>せい</rt></ruby><ruby>会員<rt>かいいん</rt></ruby>にする」", 
+  "content_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックを<ruby>行<rt>おこな</rt></ruby>う<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>などは、<ruby>埼玉県<rt>さいたまけん</rt></ruby>の<ruby>霞ヶ関<rt>かすみがせき</rt></ruby>カンツリー<ruby>倶楽部<rt>くらぶ</rt></ruby>をゴルフの<ruby>会場<rt>かいじょう</rt></ruby>にしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p>しかし、このゴルフ<span class=\"newWord\"><ruby>場<rt>じょう</rt></ruby></span>では、<ruby>女性<rt>じょせい</rt></ruby>が<span class=\"newWord\"><ruby>正<rt>せい</rt></ruby></span><span class=\"newWord\"><ruby>会員<rt>かいいん</rt></ruby></span>になることができない<ruby>規則<rt>きそく</rt></ruby>がありました。このため<span class=\"newWord\">ＩＯＣ</span>は、<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>は<span class=\"newWord\"><ruby>平等<rt>びょうどう</rt></ruby></span>だという<span class=\"newWord\">オリンピック</span>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないので<ruby>規則<rt>きそく</rt></ruby>を<ruby>変<rt>か</rt></ruby>えるように<ruby>言<rt>い</rt></ruby>っていました。</p>\n<p><ruby>霞ヶ関<rt>かすみがせき</rt></ruby>カンツリー<ruby>倶楽部<rt>くらぶ</rt></ruby>は<ruby>２０日<rt>はつか</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、<ruby>女性<rt>じょせい</rt></ruby>も<span class=\"newWord\"><ruby>正<rt>せい</rt></ruby></span><span class=\"newWord\"><ruby>会員<rt>かいいん</rt></ruby></span>になることができるように<ruby>規則<rt>きそく</rt></ruby>を<ruby>変<rt>か</rt></ruby>えました。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>オリンピックのゴルフの<ruby>会場<rt>かいじょう</rt></ruby>は、<ruby>霞ヶ関<rt>かすみがせき</rt></ruby>カンツリー<ruby>倶楽部<rt>くらぶ</rt></ruby>に<ruby>決<rt>き</rt></ruby>まりそうです。</p>\n<p></p>\n<p></p>", 
+  "has_news_easy_voice": true, 
+  "has_news_easy_image": false, 
+  "news_easy_movie_uri": "''", 
+  "news_web_movie_uri": "k10010918241_201703201849_201703201851.mp4", 
+  "has_news_easy_movie": false
+}

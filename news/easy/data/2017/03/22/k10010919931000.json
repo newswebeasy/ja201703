@@ -1,0 +1,59 @@
+{
+  "content_with_ruby": "<p>２１<ruby>日<rt>にち</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>の<span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>は<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったパク・クネさんを<ruby>呼<rt>よ</rt></ruby>びました。</p>\n<p><span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>によると、パクさんは<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったときに、<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>のサムスングループから<span class=\"newWord\"><ruby>賄賂<rt>わいろ</rt></ruby></span>をもらうなど、<ruby>全部<rt>ぜんぶ</rt></ruby>で１３の<span class=\"newWord\"><ruby>容疑<rt>ようぎ</rt></ruby></span>があります。</p>\n<p><span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>るとき、パクさんは「<span class=\"newWord\"><ruby>国民<rt>こくみん</rt></ruby></span>の<ruby>皆<rt>みな</rt></ruby>さんに<span class=\"newWord\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>なく</span><ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。</p>\n<p><span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>は２１<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>パクさんから<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。パクさんが<ruby>自分<rt>じぶん</rt></ruby>の<span class=\"newWord\"><ruby>容疑<rt>ようぎ</rt></ruby></span>についてどのように<ruby>話<rt>はな</rt></ruby>したかはわかっていません。</p>\n<p></p>\n<p></p>", 
+  "news_easy_image_uri": "''", 
+  "title_with_ruby": "<ruby>韓国<rt>かんこく</rt></ruby>　<ruby>大統領<rt>だいとうりょう</rt></ruby>だったパクさんが<ruby>検察庁<rt>けんさつちょう</rt></ruby>に<ruby>呼<rt>よ</rt></ruby>ばれる", 
+  "has_news_easy_voice": true, 
+  "news_id": "k10010919931000", 
+  "outline_with_ruby": "<p>２１<ruby>日<rt>にち</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>の<span class=\"newWord\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>は<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったパク・クネさんを<ruby>呼<rt>よ</rt></ruby>びました。", 
+  "has_news_web_image": true, 
+  "news_easy_voice_uri": "k10010919931000.mp3", 
+  "news_web_movie_uri": "k10010919931_201703220801_201703220802.mp4", 
+  "has_news_easy_movie": false, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170322/../20170322/K10010919931_1703220708_1703220710_01_03.jpg", 
+  "news_easy_movie_uri": "''", 
+  "content": "２１日、韓国の検察庁は大統領だったパク・クネさんを呼びました。\n検察庁によると、パクさんは大統領だったときに、大きな会社のサムスングループから賄賂をもらうなど、全部で１３の容疑があります。\n検察庁に入るとき、パクさんは「国民の皆さんに申し訳なく思います」と言いました。\n検察庁は２１時間以上パクさんから話を聞きました。パクさんが自分の容疑についてどのように話したかはわかっていません。", 
+  "outline": "２１日、韓国の検察庁は大統領だったパク・クネさんを呼びました。", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170322/k10010919931000.html", 
+  "news_prearranged_time": "2017-03-22 16:00:00", 
+  "has_news_easy_image": false, 
+  "title": "韓国　大統領だったパクさんが検察庁に呼ばれる", 
+  "words": [
+    {
+      "word": "大統領", 
+      "descriptions": [
+        "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "検察庁", 
+      "descriptions": [
+        "<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。"
+      ]
+    }, 
+    {
+      "word": "賄賂", 
+      "descriptions": [
+        "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>だけ<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>有利</rb><rt>ゆうり</rt></ruby>にしてもらおうと、こっそり<ruby><rb>力</rb><rt>ちから</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたすおくり<ruby><rb>物</rb><rt>もの</rt></ruby>やお<ruby><rb>金</rb><rt>かね</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "容疑", 
+      "descriptions": [
+        "<ruby><rb>悪</rb><rt>わる</rt></ruby>いことをしたのではないかという<ruby><rb>疑</rb><rt>うたが</rt></ruby>い。"
+      ]
+    }, 
+    {
+      "word": "国民", 
+      "descriptions": [
+        "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "申し訳ない", 
+      "descriptions": [
+        "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。"
+      ]
+    }
+  ], 
+  "has_news_web_movie": true
+}

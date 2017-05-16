@@ -1,0 +1,81 @@
+{
+  "words": [
+    {
+      "word": "総理大臣", 
+      "descriptions": [
+        "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "残業", 
+      "descriptions": [
+        "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "経営", 
+      "descriptions": [
+        "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。"
+      ]
+    }, 
+    {
+      "word": "団体", 
+      "descriptions": [
+        "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。", 
+        "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。"
+      ]
+    }, 
+    {
+      "word": "話し合う", 
+      "descriptions": [
+        "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。", 
+        "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。"
+      ]
+    }, 
+    {
+      "word": "案", 
+      "descriptions": [
+        "<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。", 
+        "<ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。"
+      ]
+    }, 
+    {
+      "word": "賛成", 
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。"
+      ]
+    }, 
+    {
+      "word": "会長", 
+      "descriptions": [
+        "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }
+  ], 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170313/../20170313/K10010909711_1703131912_1703131913_01_02.jpg?utm_int=nsearch_contents_search-items_002", 
+  "has_news_web_movie": true, 
+  "content": "政府は新しい法律を作って、残業の規則を厳しくしようと考えています。\n会社を経営している人たちの団体の経団連と、働く人たちの団体の連合は、残業の規則を何時間までにするか話し合っていました。２つの団体は、忙しいときでも１年の残業を７２０時間までにする案などに賛成していました。しかし、忙しいときの１か月の残業を何時間までにするかについては違う意見でした。\n安倍総理大臣は１３日、経団連の榊原会長と、連合の神津会長と会いました。そして、忙しいときでも１か月の残業は１００時間より少なくしたいと言いました。経団連と連合は、安倍総理大臣の言うとおりにしようと考えています。", 
+  "has_news_web_image": true, 
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って、<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>の<ruby>規則<rt>きそく</rt></ruby>を<ruby>厳<rt>きび</rt></ruby>しくしようと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>を<span class=\"newWord\"><ruby>経営<rt>けいえい</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"newWord\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>経団連<rt>けいだんれん</rt></ruby>と、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"newWord\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>連合<rt>れんごう</rt></ruby>は、<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>の<ruby>規則<rt>きそく</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>までにするか<span class=\"newWord\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>っ</span>ていました。２つの<span class=\"newWord\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>忙<rt>いそが</rt></ruby>しいときでも１<ruby>年<rt>ねん</rt></ruby>の<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>を７２０<ruby>時間<rt>じかん</rt></ruby>までにする<span class=\"newWord\"><ruby>案<rt>あん</rt></ruby></span>などに<span class=\"newWord\"><ruby>賛成<rt>さんせい</rt></ruby></span>していました。しかし、<ruby>忙<rt>いそが</rt></ruby>しいときの１か<ruby>月<rt>げつ</rt></ruby>の<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>を<ruby>何<rt>なん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>までにするかについては<ruby>違<rt>ちが</rt></ruby>う<ruby>意見<rt>いけん</rt></ruby>でした。</p>\n<p><ruby>安倍<rt>あべ</rt></ruby><span class=\"newWord\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は１３<ruby>日<rt>にち</rt></ruby>、<ruby>経団連<rt>けいだんれん</rt></ruby>の<ruby>榊原<rt>さかきばら</rt></ruby><span class=\"newWord\"><ruby>会長<rt>かいちょう</rt></ruby></span>と、<ruby>連合<rt>れんごう</rt></ruby>の<ruby>神津<rt>こうづ</rt></ruby><span class=\"newWord\"><ruby>会長<rt>かいちょう</rt></ruby></span>と<ruby>会<rt>あ</rt></ruby>いました。そして、<ruby>忙<rt>いそが</rt></ruby>しいときでも１か<ruby>月<rt>げつ</rt></ruby>の<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>は１００<ruby>時間<rt>じかん</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なくしたいと<ruby>言<rt>い</rt></ruby>いました。<ruby>経団連<rt>けいだんれん</rt></ruby>と<ruby>連合<rt>れんごう</rt></ruby>は、<ruby>安倍<rt>あべ</rt></ruby><span class=\"newWord\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>の<ruby>言<rt>い</rt></ruby>うとおりにしようと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n<p></p>", 
+  "title_with_ruby": "<ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>「１か<ruby>月<rt>げつ</rt></ruby>の<ruby>残業<rt>ざんぎょう</rt></ruby>は１００<ruby>時間<rt>じかん</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なく」", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170313/k10010909711000.html?utm_int=nsearch_contents_search-items_002", 
+  "has_news_easy_voice": true, 
+  "news_prearranged_time": "2017-03-14 16:30:00", 
+  "news_web_movie_uri": "k10010909711_201703131923_201703131925.mp4", 
+  "outline": "政府は新しい法律を作って、残業の規則を厳しくしようと考えています。", 
+  "news_id": "k10010909711000", 
+  "news_easy_voice_uri": "k10010909711000.mp3", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "''", 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って、<span class=\"newWord\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>の<ruby>規則<rt>きそく</rt></ruby>を<ruby>厳<rt>きび</rt></ruby>しくしようと<ruby>考<rt>かんが</rt></ruby>えています。", 
+  "has_news_easy_image": false, 
+  "title": "安倍総理大臣「１か月の残業は１００時間より少なく」"
+}

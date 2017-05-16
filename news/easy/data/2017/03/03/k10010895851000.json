@@ -1,0 +1,61 @@
+{
+  "has_news_easy_image": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170302/k10010895851000.html?utm_int=lnews_contents_news-main_003", 
+  "news_prearranged_time": "2017-03-03 11:30:00", 
+  "title_with_ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>　<ruby>旅館<rt>りょかん</rt></ruby>やお<ruby>土産<rt>みやげ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>にたくさんのひな<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る", 
+  "has_news_easy_voice": true, 
+  "has_news_web_image": false, 
+  "news_web_movie_uri": "k10010895851_201703021227_201703021230.mp4", 
+  "outline_with_ruby": "<p>３<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>は<span class=\"newWord\">ひな<ruby>祭<rt>まつ</rt></ruby>り</span>です。", 
+  "has_news_web_movie": true, 
+  "content": "３月３日はひな祭りです。群馬県沼田市では、今「老神温泉ひな祭り」を行っていて、温泉の旅館やお土産の店など１５の会場にたくさんのひな人形が飾ってあります。沼田市のこのお祭りは今年で４回目です。\nいちばん大きい会場の利根観光会館では、ひな人形を飾るため、階段のようになった１５段の大きな台などを用意しました。全部で４０００の人形が飾ってあります。\n会場に来た人たちは、１つ１つ違う人形の着物や顔などを見て楽しんでいました。神奈川県から来た女性は「このようなお祭りがあることは知りませんでした。楽しむことができてよかったです」と話していました。\n「老神温泉ひな祭り」は４月２日までです。", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "k10010895851000.jpg", 
+  "news_web_image_uri": "", 
+  "news_id": "k10010895851000", 
+  "outline": "３月３日はひな祭りです。", 
+  "words": [
+    {
+      "word": "雛人形", 
+      "descriptions": [
+        "ひな<ruby><rb>祭</rb><rt>まつ</rt></ruby>りにかざる<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "雛祭り", 
+      "descriptions": [
+        "<ruby><rb>三月三日</rb><rt>さんがつみっか</rt></ruby>にする<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せをいのるお<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。ひな<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>をかざり、<ruby><rb>白酒</rb><rt>しろざけ</rt></ruby>や、あられ・ひしもち、<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>などを<ruby><rb>供</rb><rt>そな</rt></ruby>える。<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>節句</rb><rt>せっく</rt></ruby>。ひなの<ruby><rb>節句</rb><rt>せっく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "温泉", 
+      "descriptions": [
+        "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "段", 
+      "descriptions": [
+        "<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。", 
+        "かいだん。", 
+        "やり<ruby><rb>方</rb><rt>かた</rt></ruby>。", 
+        "<ruby><rb>剣道</rb><rt>けんどう</rt></ruby>、<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などの、<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>位</rb><rt>くらい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "台", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>をのせるもの。", 
+        "<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。", 
+        "<ruby><rb>高</rb><rt>たか</rt></ruby>くて<ruby><rb>平</rb><rt>たい</rt></ruby>らな<ruby><rb>所</rb><rt>ところ</rt></ruby>。", 
+        "<ruby><rb>元</rb><rt>もと</rt></ruby>になるもの。", 
+        "<ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。", 
+        "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>のだいたいの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>をいうことば。"
+      ]
+    }
+  ], 
+  "title": "群馬県　旅館やお土産の店にたくさんのひな人形を飾る", 
+  "content_with_ruby": "<p>３<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>は<span class=\"newWord\">ひな<ruby>祭<rt>まつ</rt></ruby>り</span>です。<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>沼田市<rt>ぬまたし</rt></ruby>では、<ruby>今<rt>いま</rt></ruby>「<ruby>老神温泉<rt>おいがみおんせん</rt></ruby>ひな<ruby>祭<rt>まつ</rt></ruby>り」を<ruby>行<rt>おこな</rt></ruby>っていて、<span class=\"newWord\"><ruby>温泉<rt>おんせん</rt></ruby></span>の<ruby>旅館<rt>りょかん</rt></ruby>やお<ruby>土産<rt>みやげ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>など１５の<ruby>会場<rt>かいじょう</rt></ruby>にたくさんの<span class=\"newWord\">ひな<ruby>人形<rt>にんぎょう</rt></ruby></span>が<ruby>飾<rt>かざ</rt></ruby>ってあります。<ruby>沼田市<rt>ぬまたし</rt></ruby>のこのお<ruby>祭<rt>まつ</rt></ruby>りは<ruby>今年<rt>ことし</rt></ruby>で４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。</p>\n<p>いちばん<ruby>大<rt>おお</rt></ruby>きい<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>利根観光会館<rt>とねかんこうかいかん</rt></ruby>では、<span class=\"newWord\">ひな<ruby>人形<rt>にんぎょう</rt></ruby></span>を<ruby>飾<rt>かざ</rt></ruby>るため、<ruby>階段<rt>かいだん</rt></ruby>のようになった１５<span class=\"newWord\"><ruby>段<rt>だん</rt></ruby></span>の<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>台<rt>だい</rt></ruby></span>などを<ruby>用意<rt>ようい</rt></ruby>しました。<ruby>全部<rt>ぜんぶ</rt></ruby>で４０００の<ruby>人形<rt>にんぎょう</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。</p>\n<p><ruby>会場<rt>かいじょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、１つ１つ<ruby>違<rt>ちが</rt></ruby>う<ruby>人形<rt>にんぎょう</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>や<ruby>顔<rt>かお</rt></ruby>などを<ruby>見<rt>み</rt></ruby>て<ruby>楽<rt>たの</rt></ruby>しんでいました。<ruby>神奈川県<rt>かながわけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「このようなお<ruby>祭<rt>まつ</rt></ruby>りがあることは<ruby>知<rt>し</rt></ruby>りませんでした。<ruby>楽<rt>たの</rt></ruby>しむことができてよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p>「<ruby>老神温泉<rt>おいがみおんせん</rt></ruby>ひな<ruby>祭<rt>まつ</rt></ruby>り」は４<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>までです。</p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010895851000.mp3"
+}

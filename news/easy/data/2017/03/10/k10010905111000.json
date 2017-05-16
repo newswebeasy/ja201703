@@ -1,0 +1,60 @@
+{
+  "outline": "２０１１年３月１１日の東日本大震災から６年になります。", 
+  "title": "ＴＳＵＮＡＭＩバイオリン　５００人目が弾くコンサート", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010905111000.html", 
+  "outline_with_ruby": "<p>２０１１<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>になります。", 
+  "news_web_movie_uri": "k10010905111_201703092203_201703092204.mp4", 
+  "news_id": "k10010905111000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "ＴＳＵＮＡＭＩバイオリン　５００<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>が<ruby>弾<rt>ひ</rt></ruby>くコンサート", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010905111_1703092203_1703092204_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "content_with_ruby": "<p>２０１１<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>になります。<span class=\"newWord\">バイオリン</span>を<ruby>作<rt>つく</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>中澤<rt>なかざわ</rt></ruby><ruby>宗幸<rt>むねゆき</rt></ruby>さんは、<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>で<span class=\"newWord\"><ruby>流<rt>なが</rt></ruby>さ</span>れた<ruby>木<rt>き</rt></ruby>で「ＴＳＵＮＡＭＩバイオリン」を<ruby>作<rt>つく</rt></ruby>りました。<ruby>中澤<rt>なかざわ</rt></ruby>さんは、この<span class=\"newWord\">バイオリン</span>を１０００<ruby>人<rt>にん</rt></ruby>の<span class=\"newWord\"><ruby>音楽家<rt>おんがくか</rt></ruby></span>に<ruby>弾<rt>ひ</rt></ruby>いてほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p><ruby>岩手県<rt>いわてけん</rt></ruby><ruby>陸前高田市<rt>りくぜんたかたし</rt></ruby>には、<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>が<ruby>来<rt>き</rt></ruby>たとき、<span class=\"newWord\"><ruby>流<rt>なが</rt></ruby>さ</span>れないで１<ruby>本<rt>ぽん</rt></ruby>だけ<ruby>残<rt>のこ</rt></ruby>った「<ruby>奇跡<rt>きせき</rt></ruby>の<ruby>一本松<rt>いっぽんまつ</rt></ruby>」という<ruby>木<rt>き</rt></ruby>があります。<ruby>９日<rt>ここのか</rt></ruby>、「<ruby>奇跡<rt>きせき</rt></ruby>の<ruby>一本松<rt>いっぽんまつ</rt></ruby>」の<ruby>前<rt>まえ</rt></ruby>で、コンサートがありました。<ruby>盛岡市<rt>もりおかし</rt></ruby>の<ruby>工藤崇<rt>くどうたかし</rt></ruby>さんが、バッハの「<ruby>無伴奏<rt>むばんそう</rt></ruby>バイオリンのためのソナタ<ruby>第一番<rt>だいいちばん</rt></ruby>」という<span class=\"newWord\"><ruby>曲<rt>きょく</rt></ruby></span>を<ruby>弾<rt>ひ</rt></ruby>きました。<ruby>工藤<rt>くどう</rt></ruby>さんは「ＴＳＵＮＡＭＩバイオリン」を<ruby>弾<rt>ひ</rt></ruby>く５００<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<span class=\"newWord\"><ruby>音楽家<rt>おんがくか</rt></ruby></span>です。</p>\n<p>コンサートに<ruby>来<rt>き</rt></ruby>た６９<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「とても<ruby>美<rt>うつく</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>で、<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>たちにも<ruby>聞<rt>き</rt></ruby>こえていると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010905111000.mp3", 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-10 16:05:00", 
+  "has_news_easy_image": false, 
+  "words": [
+    {
+      "word": "バイオリン", 
+      "descriptions": [
+        "<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>木</rb><rt>き</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>胴</rb><rt>どう</rt></ruby>に<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>糸</rb><rt>いと</rt></ruby>が<ruby><rb>張</rb><rt>は</rt></ruby>ってあり、<ruby><rb>弓</rb><rt>ゆみ</rt></ruby>でひいて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。"
+      ]
+    }, 
+    {
+      "word": "津波", 
+      "descriptions": [
+        "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。"
+      ]
+    }, 
+    {
+      "word": "流す", 
+      "descriptions": [
+        "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。", 
+        "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。", 
+        "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。", 
+        "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。", 
+        "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。", 
+        "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。"
+      ]
+    }, 
+    {
+      "word": "音楽家", 
+      "descriptions": [
+        "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことや、<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>すること、<ruby><rb>曲</rb><rt>きょく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることなどを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "曲", 
+      "descriptions": [
+        "まげる。まがる。", 
+        "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>のメロディー。", 
+        "<ruby><rb>軽</rb><rt>かる</rt></ruby>わざ。"
+      ]
+    }
+  ], 
+  "content": "２０１１年３月１１日の東日本大震災から６年になります。バイオリンを作る仕事をしている中澤宗幸さんは、津波で流された木で「ＴＳＵＮＡＭＩバイオリン」を作りました。中澤さんは、このバイオリンを１０００人の音楽家に弾いてほしいと考えています。\n岩手県陸前高田市には、津波が来たとき、流されないで１本だけ残った「奇跡の一本松」という木があります。９日、「奇跡の一本松」の前で、コンサートがありました。盛岡市の工藤崇さんが、バッハの「無伴奏バイオリンのためのソナタ第一番」という曲を弾きました。工藤さんは「ＴＳＵＮＡＭＩバイオリン」を弾く５００人目の音楽家です。\nコンサートに来た６９歳の女性は「とても美しい音で、東日本大震災で亡くなった人たちにも聞こえていると思います」と話していました。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_image": true
+}

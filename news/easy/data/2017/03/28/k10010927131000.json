@@ -1,0 +1,80 @@
+{
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p>ドイツのベルリンにある<span class=\"newWord\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>からとても<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>金貨<rt>きんか</rt></ruby></span>が<ruby>盗<rt>ぬす</rt></ruby>まれました。", 
+  "title": "ドイツの博物館から重さ１００ｋｇの金貨が盗まれる", 
+  "outline": "ドイツのベルリンにある博物館からとても大きな金貨が盗まれました。", 
+  "has_news_web_movie": true, 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "博物館", 
+      "descriptions": [
+        "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "金貨", 
+      "descriptions": [
+        "<ruby><rb>金</rb><rt>きん</rt></ruby>をおもな<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>として<ruby><rb>作</rb><rt>つく</rt></ruby>ったお<ruby><rb>金</rb><rt>かね</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ドル", 
+      "descriptions": [
+        "アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>一</rb><rt>いち</rt></ruby>ドルは一〇〇セント。", 
+        "お<ruby><rb>金</rb><rt>かね</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "直径", 
+      "descriptions": [
+        "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。"
+      ]
+    }, 
+    {
+      "word": "硬貨", 
+      "descriptions": [
+        "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られたお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>金貨</rb><rt>きんか</rt></ruby>・<ruby><rb>銀貨</rb><rt>ぎんか</rt></ruby>・<ruby><rb>銅貨</rb><rt>どうか</rt></ruby>など。"
+      ]
+    }, 
+    {
+      "word": "約", 
+      "descriptions": [
+        "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。", 
+        "おおよそ。ほぼ。だいたい。"
+      ]
+    }, 
+    {
+      "word": "線路", 
+      "descriptions": [
+        "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。"
+      ]
+    }, 
+    {
+      "word": "はしご", 
+      "descriptions": [
+        "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>登</rb><rt>のぼ</rt></ruby>るときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "犯人", 
+      "descriptions": [
+        "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }
+  ], 
+  "news_easy_image_uri": "''", 
+  "title_with_ruby": "ドイツの<ruby>博物館<rt>はくぶつかん</rt></ruby>から<ruby>重<rt>おも</rt></ruby>さ１００ｋｇの<ruby>金貨<rt>きんか</rt></ruby>が<ruby>盗<rt>ぬす</rt></ruby>まれる", 
+  "news_easy_voice_uri": "k10010927131000.mp3", 
+  "content": "ドイツのベルリンにある博物館からとても大きな金貨が盗まれました。盗まれた金貨は、カナダが２００７年につくった１００万カナダドルの金貨で、直径は５３ｃｍ、重さは１００ｋｇあります。\nこの博物館はたくさんの硬貨を集めていて、世界でも有名です。盗まれた金貨を売ると、日本のお金で約４億５０００万円になると言っています。\n警察が調べると、博物館の建物のすぐ下にある線路の上で、はしごが見つかりました。警察は、犯人は２７日の朝、明るくなる前にはしごで壁を登って、窓を開けて中に入ったと考えています。", 
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170328/../20170328/K10010927131_1703280941_1703280959_01_02.jpg", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170328/k10010927131000.html", 
+  "has_news_easy_image": false, 
+  "news_prearranged_time": "2017-03-28 15:35:00", 
+  "has_news_easy_movie": false, 
+  "news_id": "k10010927131000", 
+  "news_web_movie_uri": "k10010927131_201703281211_201703281211.mp4", 
+  "content_with_ruby": "<p>ドイツのベルリンにある<span class=\"newWord\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>からとても<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>金貨<rt>きんか</rt></ruby></span>が<ruby>盗<rt>ぬす</rt></ruby>まれました。<ruby>盗<rt>ぬす</rt></ruby>まれた<span class=\"newWord\"><ruby>金貨<rt>きんか</rt></ruby></span>は、カナダが２００７<ruby>年<rt>ねん</rt></ruby>につくった１００<ruby>万<rt>まん</rt></ruby>カナダ<span class=\"newWord\">ドル</span>の<span class=\"newWord\"><ruby>金貨<rt>きんか</rt></ruby></span>で、<span class=\"newWord\"><ruby>直径<rt>ちょっけい</rt></ruby></span>は５３ｃｍ、<ruby>重<rt>おも</rt></ruby>さは１００ｋｇあります。</p>\n<p>この<span class=\"newWord\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>はたくさんの<span class=\"newWord\"><ruby>硬貨<rt>こうか</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めていて、<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有名<rt>ゆうめい</rt></ruby>です。<ruby>盗<rt>ぬす</rt></ruby>まれた<span class=\"newWord\"><ruby>金貨<rt>きんか</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>ると、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>４<ruby>億<rt>おく</rt></ruby>５０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<span class=\"newWord\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>のすぐ<ruby>下<rt>した</rt></ruby>にある<span class=\"newWord\"><ruby>線路<rt>せんろ</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>で、<span class=\"newWord\">はしご</span>が<ruby>見<rt>み</rt></ruby>つかりました。<ruby>警察<rt>けいさつ</rt></ruby>は、<span class=\"newWord\"><ruby>犯人<rt>はんにん</rt></ruby></span>は２７<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>明<rt>あか</rt></ruby>るくなる<ruby>前<rt>まえ</rt></ruby>に<span class=\"newWord\">はしご</span>で<ruby>壁<rt>かべ</rt></ruby>を<ruby>登<rt>のぼ</rt></ruby>って、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n<p></p>"
+}

@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。",
+          "hyouki": [
+            "女優"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。",
+          "hyouki": [
+            "応援"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "応援"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・テレビなどで、<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>演</rb><rt>えん</rt></ruby>じる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。",
+          "hyouki": [
+            "俳優"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>。",
+          "hyouki": [
+            "ドラマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>脚本</rb><rt>きゃくほん</rt></ruby>。",
+          "hyouki": [
+            "ドラマ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>などの、<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>。",
+          "hyouki": [
+            "主人公"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>などで、ある<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>務</rb><rt>つと</rt></ruby>める。",
+          "hyouki": [
+            "演じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人前</rb><rt>ひとまえ</rt></ruby>で<ruby><rb>目立</rb><rt>めだ</rt></ruby>つことをする。",
+          "hyouki": [
+            "演じる"
+          ]
+        }
+      ]
+    }
+  }
+}

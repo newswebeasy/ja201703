@@ -1,0 +1,80 @@
+{
+  "outline_with_ruby": "<p>マレーシアで<span class=\"newWord\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れた<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ジョンナムさんの<ruby>息子<rt>むすこ</rt></ruby>だという<ruby>男性<rt>だんせい</rt></ruby>の<span class=\"newWord\">ビデオ</span>がインターネットに<ruby>出<rt>で</rt></ruby>ました。", 
+  "title": "北朝鮮のジョンナムさんの息子だという男性のビデオ", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170308/k10010902681000.html", 
+  "has_news_easy_image": false, 
+  "news_web_movie_uri": "k10010902681_201703081208_201703081212.mp4", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170308/../20170308/K10010902681_1703081027_1703081042_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "ビデオ", 
+      "descriptions": [
+        "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。", 
+        "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。", 
+        "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "殺す", 
+      "descriptions": [
+        "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。", 
+        "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。", 
+        "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。", 
+        "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。"
+      ]
+    }, 
+    {
+      "word": "パスポート", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>発行</rb><rt>はっこう</rt></ruby>する<ruby><rb>外国</rb><rt>がいこく</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>に<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>身分証明書</rb><rt>みぶんしょうめいしょ</rt></ruby>。<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "秒", 
+      "descriptions": [
+        "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一<ruby><rb>分</rb><rt>ぷん</rt></ruby>の六〇<ruby><rb>分</rb><rt>ぶん</rt></ruby>の一。", 
+        "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一<ruby><rb>分</rb><rt>ぷん</rt></ruby>の六〇<ruby><rb>分</rb><rt>ぶん</rt></ruby>の一。"
+      ]
+    }, 
+    {
+      "word": "団体", 
+      "descriptions": [
+        "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。", 
+        "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。"
+      ]
+    }, 
+    {
+      "word": "助ける", 
+      "descriptions": [
+        "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。", 
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。"
+      ]
+    }, 
+    {
+      "word": "活動", 
+      "descriptions": [
+        "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。"
+      ]
+    }, 
+    {
+      "word": "助ける", 
+      "descriptions": [
+        "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。", 
+        "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。"
+      ]
+    }
+  ], 
+  "news_prearranged_time": "2017-03-09 16:40:00", 
+  "has_news_web_image": true, 
+  "news_easy_voice_uri": "k10010902681000.mp3", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_movie": true, 
+  "content": "マレーシアで殺された北朝鮮のキム・ジョンナムさんの息子だという男性のビデオがインターネットに出ました。\nビデオの中で男性は「私は北朝鮮のキム・ハンソルです。私の父は殺されました。私は今、母と妹と一緒にいます」と英語で話しています。男性はビデオの途中で自分のパスポートをカメラに向かって見せていますが、名前などは黒く塗られていて見えなくなっています。ビデオの長さは４０秒ぐらいです。\nこのビデオを出した団体は、北朝鮮から逃げてきた人を助ける活動をしていると言っています。そして、「キム・ジョンナムさんの家族が助けてほしいと言ってきたため、安全な場所に連れて行きました」と言っています。\n誰が、いつ、どこでこのビデオを撮ったかわかっていません。ＮＨＫが韓国の国家情報院の人に聞くと、ビデオの男性はキム・ジョンナムさんの息子のキム・ハンソルさんだと思うと話しました。", 
+  "title_with_ruby": "<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のジョンナムさんの<ruby>息子<rt>むすこ</rt></ruby>だという<ruby>男性<rt>だんせい</rt></ruby>のビデオ", 
+  "news_id": "k10010902681000", 
+  "outline": "マレーシアで殺された北朝鮮のキム・ジョンナムさんの息子だという男性のビデオがインターネットに出ました。", 
+  "content_with_ruby": "<p>マレーシアで<span class=\"newWord\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れた<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ジョンナムさんの<ruby>息子<rt>むすこ</rt></ruby>だという<ruby>男性<rt>だんせい</rt></ruby>の<span class=\"newWord\">ビデオ</span>がインターネットに<ruby>出<rt>で</rt></ruby>ました。</p>\n<p><span class=\"newWord\">ビデオ</span>の<ruby>中<rt>なか</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>は<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ハンソルです。<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>は<span class=\"newWord\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れました。<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>母<rt>はは</rt></ruby>と<ruby>妹<rt>いもうと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にいます」と<ruby>英語<rt>えいご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>しています。<ruby>男性<rt>だんせい</rt></ruby>は<span class=\"newWord\">ビデオ</span>の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<span class=\"newWord\">パスポート</span>をカメラに<ruby>向<rt>む</rt></ruby>かって<ruby>見<rt>み</rt></ruby>せていますが、<ruby>名前<rt>なまえ</rt></ruby>などは<ruby>黒<rt>くろ</rt></ruby>く<ruby>塗<rt>ぬ</rt></ruby>られていて<ruby>見<rt>み</rt></ruby>えなくなっています。<span class=\"newWord\">ビデオ</span>の<ruby>長<rt>なが</rt></ruby>さは４０<span class=\"newWord\"><ruby>秒<rt>びょう</rt></ruby></span>ぐらいです。</p>\n<p>この<span class=\"newWord\">ビデオ</span>を<ruby>出<rt>だ</rt></ruby>した<span class=\"newWord\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げてきた<ruby>人<rt>ひと</rt></ruby>を<span class=\"newWord\"><ruby>助<rt>たす</rt></ruby>ける</span><span class=\"newWord\"><ruby>活動<rt>かつどう</rt></ruby></span>をしていると<ruby>言<rt>い</rt></ruby>っています。そして、「キム・ジョンナムさんの<ruby>家族<rt>かぞく</rt></ruby>が<span class=\"newWord\"><ruby>助<rt>たす</rt></ruby>け</span>てほしいと<ruby>言<rt>い</rt></ruby>ってきたため、<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p><ruby>誰<rt>だれ</rt></ruby>が、いつ、どこでこの<span class=\"newWord\">ビデオ</span>を<ruby>撮<rt>と</rt></ruby>ったかわかっていません。ＮＨＫが<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国家情報院<rt>こっかじょうほういん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>聞<rt>き</rt></ruby>くと、<span class=\"newWord\">ビデオ</span>の<ruby>男性<rt>だんせい</rt></ruby>はキム・ジョンナムさんの<ruby>息子<rt>むすこ</rt></ruby>のキム・ハンソルさんだと<ruby>思<rt>おも</rt></ruby>うと<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p></p>\n<p></p>\n<p></p>", 
+  "has_news_easy_movie": false
+}

@@ -1,0 +1,69 @@
+{
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-17 15:45:00", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170317/k10010914751000.html", 
+  "words": [
+    {
+      "word": "噴火", 
+      "descriptions": [
+        "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "ビデオ", 
+      "descriptions": [
+        "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。", 
+        "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。", 
+        "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "火山", 
+      "descriptions": [
+        "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "頂", 
+      "descriptions": [
+        "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "煙", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。", 
+        "けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。"
+      ]
+    }, 
+    {
+      "word": "写る", 
+      "descriptions": [
+        "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。", 
+        "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。"
+      ]
+    }, 
+    {
+      "word": "観光", 
+      "descriptions": [
+        "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。"
+      ]
+    }
+  ], 
+  "has_news_web_movie": true, 
+  "content_with_ruby": "<p>イタリアのシチリア<ruby>島<rt>とう</rt></ruby>にあるエトナ<ruby>山<rt>さん</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さ３３００mの<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>です。エトナ<ruby>山<rt>さん</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>から<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>しています。１６<ruby>日<rt>にち</rt></ruby>、イギリスのテレビ<ruby>局<rt>きょく</rt></ruby>のＢＢＣが<span class=\"newWord\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くにいたときも<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>しました。</p>\n<p>テレビ<ruby>局<rt>きょく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>専門家<rt>せんもんか</rt></ruby>が<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べているところを<span class=\"newWord\">ビデオ</span>に<ruby>撮<rt>と</rt></ruby>っていました。<span class=\"newWord\">ビデオ</span>には<ruby>白<rt>しろ</rt></ruby>い<span class=\"newWord\"><ruby>煙<rt>けむり</rt></ruby></span>が<ruby>空<rt>そら</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がっていくところや<ruby>石<rt>いし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでくるところなどが<span class=\"newWord\"><ruby>写<rt>うつ</rt></ruby>っ</span>ています。</p>\n<p><span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>したときエトナ<ruby>山<rt>さん</rt></ruby>には<span class=\"newWord\"><ruby>観光<rt>かんこう</rt></ruby></span><ruby>客<rt>きゃく</rt></ruby>もいました。<ruby>飛<rt>と</rt></ruby>んできた<ruby>石<rt>いし</rt></ruby>などで１０<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n<p>テレビ<ruby>局<rt>きょく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>が<ruby>危険<rt>きけん</rt></ruby>なことがよくわかりました。こんな<ruby>経験<rt>けいけん</rt></ruby>はもうしたくありません」とインターネットのツイッターに<ruby>書<rt>か</rt></ruby>きました。</p>\n<p></p>\n<p></p>", 
+  "outline_with_ruby": "<p>イタリアのシチリア<ruby>島<rt>とう</rt></ruby>にあるエトナ<ruby>山<rt>さん</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さ３３００mの<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>です。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_easy_voice": true, 
+  "outline": "イタリアのシチリア島にあるエトナ山は、高さ３３００mの大きな火山です。", 
+  "title": "イタリアのエトナ山が噴火　テレビ局がビデオに撮る", 
+  "news_web_movie_uri": "k10010914751_201703170909_201703170910.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_image": true, 
+  "content": "イタリアのシチリア島にあるエトナ山は、高さ３３００mの大きな火山です。エトナ山は今年の２月から何度も噴火しています。１６日、イギリスのテレビ局のＢＢＣが頂上の近くにいたときも噴火しました。\nテレビ局の人たちは専門家が火山を調べているところをビデオに撮っていました。ビデオには白い煙が空に上がっていくところや石が飛んでくるところなどが写っています。\n噴火したときエトナ山には観光客もいました。飛んできた石などで１０人がけがをしました。\nテレビ局の人は「火山が危険なことがよくわかりました。こんな経験はもうしたくありません」とインターネットのツイッターに書きました。", 
+  "news_easy_voice_uri": "k10010914751000.mp3", 
+  "title_with_ruby": "イタリアのエトナ<ruby>山<rt>さん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　テレビ<ruby>局<rt>きょく</rt></ruby>がビデオに<ruby>撮<rt>と</rt></ruby>る", 
+  "news_id": "k10010914751000", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170317/../20170317/K10010914751_1703170909_1703170911_01_03.jpg"
+}

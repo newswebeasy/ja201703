@@ -1,0 +1,84 @@
+{
+  "outline": "海や湖にあるプラスチックのごみは、とても細かくなって水の中にずっと残ります。", 
+  "title": "湖にいる魚から細かいプラスチックのごみが見つかる", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010903911000.html", 
+  "outline_with_ruby": "<p><ruby>海<rt>うみ</rt></ruby>や<ruby>湖<rt>みずうみ</rt></ruby>にある<span class=\"newWord\">プラスチック</span>のごみは、とても<ruby>細<rt>こま</rt></ruby>かくなって<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にずっと<ruby>残<rt>のこ</rt></ruby>ります。", 
+  "news_web_movie_uri": "k10010903911_201703090619_201703090620.mp4", 
+  "news_id": "k10010903911000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "title_with_ruby": "<ruby>湖<rt>みずうみ</rt></ruby>にいる<ruby>魚<rt>さかな</rt></ruby>から<ruby>細<rt>こま</rt></ruby>かいプラスチックのごみが<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010903911_1703090619_1703090620_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "content_with_ruby": "<p><ruby>海<rt>うみ</rt></ruby>や<ruby>湖<rt>みずうみ</rt></ruby>にある<span class=\"newWord\">プラスチック</span>のごみは、とても<ruby>細<rt>こま</rt></ruby>かくなって<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にずっと<ruby>残<rt>のこ</rt></ruby>ります。<span class=\"newWord\">プラスチック</span>には<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<span class=\"newWord\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>が<span class=\"newWord\"><ruby>付<rt>つ</rt></ruby>き</span>やすいため、<ruby>魚<rt>さかな</rt></ruby>などが<span class=\"newWord\">プラスチック</span>を<ruby>食<rt>た</rt></ruby>べると、その<ruby>魚<rt>さかな</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>動物<rt>どうぶつ</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>にも<ruby>悪<rt>わる</rt></ruby>い<span class=\"newWord\"><ruby>影響<rt>えいきょう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>る<ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n<p><ruby>京都大学大学院<rt>きょうとだいがくだいがくいん</rt></ruby>の<span class=\"newWord\">グループ</span>は、<ruby>滋賀県<rt>しがけん</rt></ruby>の<span class=\"newWord\">びわ<ruby>湖<rt>こ</rt></ruby></span>にいる<span class=\"newWord\">わかさぎ</span>という<ruby>魚<rt>さかな</rt></ruby>３１<ruby>匹<rt>ぴき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。その<span class=\"newWord\"><ruby>結果<rt>けっか</rt></ruby></span>、９<ruby>匹<rt>ひき</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きさが５ｍｍ<ruby>以下<rt>いか</rt></ruby>の<span class=\"newWord\">プラスチック</span>が<span class=\"newWord\"><ruby>平均<rt>へいきん</rt></ruby></span>で１．１<ruby>個<rt>こ</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。</p>\n<p><span class=\"newWord\">グループ</span>によると、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>から<span class=\"newWord\">プラスチック</span>が<ruby>見<rt>み</rt></ruby>つかったのは<ruby>初<rt>はじ</rt></ruby>めてです。<span class=\"newWord\">グループ</span>は「<ruby>見<rt>み</rt></ruby>つかった<span class=\"newWord\">プラスチック</span>はとても<ruby>少<rt>すく</rt></ruby>ないので、<ruby>人<rt>ひと</rt></ruby>が<ruby>食<rt>た</rt></ruby>べても<ruby>問題<rt>もんだい</rt></ruby>はありません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>しかし、<ruby>細<rt>こま</rt></ruby>かい<span class=\"newWord\">プラスチック</span>が<ruby>増<rt>ふ</rt></ruby>える<ruby>心配<rt>しんぱい</rt></ruby>があるため、<span class=\"newWord\">グループ</span>は<ruby>人<rt>ひと</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>に<span class=\"newWord\"><ruby>影響<rt>えいきょう</rt></ruby></span>がないか、<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>市<rt>し</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にこれからも<ruby>調<rt>しら</rt></ruby>べることにしています。</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>", 
+  "news_easy_voice_uri": "k10010903911000.mp3", 
+  "news_easy_image_uri": "''", 
+  "news_prearranged_time": "2017-03-10 11:30:00", 
+  "has_news_easy_image": false, 
+  "words": [
+    {
+      "word": "プラスチック", 
+      "descriptions": [
+        "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。"
+      ]
+    }, 
+    {
+      "word": "物質", 
+      "descriptions": [
+        "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "付く", 
+      "descriptions": [
+        "ものがくっつく。", 
+        "つきそう。", 
+        "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。", 
+        "<ruby><rb>決</rb><rt>き</rt></ruby>まる。", 
+        "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。", 
+        "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。", 
+        "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。"
+      ]
+    }, 
+    {
+      "word": "影響", 
+      "descriptions": [
+        "あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "琵琶湖", 
+      "descriptions": [
+        "<ruby><rb>滋賀県</rb><rt>しがけん</rt></ruby>にある、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でいちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>。<ruby><rb>面積</rb><rt>めんせき</rt></ruby>は六七四<ruby><rb>平方</rb><rt>へいほう</rt></ruby>キロメートル。その<ruby><rb>水</rb><rt>みず</rt></ruby>は、<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>て<ruby><rb>淀川</rb><rt>よどがわ</rt></ruby>となる。"
+      ]
+    }, 
+    {
+      "word": "わかさぎ", 
+      "descriptions": [
+        "<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>などにいる<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>は<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>に<ruby><rb>張</rb><rt>は</rt></ruby>った<ruby><rb>氷</rb><rt>こおり</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>を<ruby><rb>空</rb><rt>あ</rt></ruby>けてつる。"
+      ]
+    }, 
+    {
+      "word": "結果", 
+      "descriptions": [
+        "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。"
+      ]
+    }, 
+    {
+      "word": "平均", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。", 
+        "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。"
+      ]
+    }
+  ], 
+  "content": "海や湖にあるプラスチックのごみは、とても細かくなって水の中にずっと残ります。プラスチックには体に悪い物質が付きやすいため、魚などがプラスチックを食べると、その魚を食べる動物や人にも悪い影響が出る心配があります。\n京都大学大学院のグループは、滋賀県のびわ湖にいるわかさぎという魚３１匹を調べました。その結果、９匹の体の中から大きさが５ｍｍ以下のプラスチックが平均で１．１個見つかりました。\nグループによると、日本の湖の魚からプラスチックが見つかったのは初めてです。グループは「見つかったプラスチックはとても少ないので、人が食べても問題はありません」と言っています。\nしかし、細かいプラスチックが増える心配があるため、グループは人や魚に影響がないか、湖の周りの市と一緒にこれからも調べることにしています。", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_image": true
+}

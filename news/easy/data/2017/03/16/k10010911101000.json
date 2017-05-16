@@ -1,0 +1,110 @@
+{
+  "has_news_easy_movie": false, 
+  "news_id": "k10010911101000", 
+  "has_news_web_movie": true, 
+  "news_easy_voice_uri": "k10010911101000.mp3", 
+  "content": "国立情報学研究所のグループは、外国人が日本へ旅行に来て、どこからどこへ行ったかすぐにわかるシステムを作りました。\n旅行に来た外国人が無料で利用できる無線のＬＡＮのデータを使うと、外国人がいた場所が地図に出ます。そして、外国人がどこからどこへ行ったかわかります。\nこのシステムを使って、先月東京であったマラソンの大会のコースの近くにいた外国人２３５人について調べました。その結果、ゴールがあった東京駅の近くなどから、夜は新宿や上野へ行ったことがわかりました。\nグループは、外国人がどんな順番で人気がある場所などを回ったかを調べて、新しいサービスを考えてほしいと言っています。", 
+  "has_news_easy_voice": true, 
+  "outline_with_ruby": "<p><ruby>国立情報学研究所<rt>こくりつじょうほうがくけんきゅうじょ</rt></ruby>の<span class=\"newWord\">グループ</span>は、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、どこからどこへ<ruby>行<rt>い</rt></ruby>ったかすぐにわかる<span class=\"newWord\">システム</span>を<ruby>作<rt>つく</rt></ruby>りました。", 
+  "title_with_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>がどこからどこへ<ruby>行<rt>い</rt></ruby>ったかわかるシステム", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170314/k10010911101000.html", 
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "outline": "国立情報学研究所のグループは、外国人が日本へ旅行に来て、どこからどこへ行ったかすぐにわかるシステムを作りました。", 
+  "content_with_ruby": "<p><ruby>国立情報学研究所<rt>こくりつじょうほうがくけんきゅうじょ</rt></ruby>の<span class=\"newWord\">グループ</span>は、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、どこからどこへ<ruby>行<rt>い</rt></ruby>ったかすぐにわかる<span class=\"newWord\">システム</span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n<p><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<span class=\"newWord\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>利用<rt>りよう</rt></ruby>できる<span class=\"newWord\"><ruby>無線<rt>むせん</rt></ruby></span>のＬＡＮの<span class=\"newWord\">データ</span>を<ruby>使<rt>つか</rt></ruby>うと、<ruby>外国人<rt>がいこくじん</rt></ruby>がいた<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>地図<rt>ちず</rt></ruby>に<ruby>出<rt>で</rt></ruby>ます。そして、<ruby>外国人<rt>がいこくじん</rt></ruby>がどこからどこへ<ruby>行<rt>い</rt></ruby>ったかわかります。</p>\n<p>この<span class=\"newWord\">システム</span>を<ruby>使<rt>つか</rt></ruby>って、<ruby>先月<rt>せんげつ</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>であった<span class=\"newWord\">マラソン</span>の<span class=\"newWord\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span class=\"newWord\">コース</span>の<ruby>近<rt>ちか</rt></ruby>くにいた<ruby>外国人<rt>がいこくじん</rt></ruby>２３５<ruby>人<rt>にん</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。その<span class=\"newWord\"><ruby>結果<rt>けっか</rt></ruby></span>、<span class=\"newWord\">ゴール</span>があった<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くなどから、<ruby>夜<rt>よる</rt></ruby>は<ruby>新宿<rt>しんじゅく</rt></ruby>や<ruby>上野<rt>うえの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがわかりました。</p>\n<p><span class=\"newWord\">グループ</span>は、<ruby>外国人<rt>がいこくじん</rt></ruby>がどんな<span class=\"newWord\"><ruby>順番<rt>じゅんばん</rt></ruby></span>で<span class=\"newWord\"><ruby>人気<rt>にんき</rt></ruby></span>がある<ruby>場所<rt>ばしょ</rt></ruby>などを<ruby>回<rt>まわ</rt></ruby>ったかを<ruby>調<rt>しら</rt></ruby>べて、<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\">サービス</span>を<ruby>考<rt>かんが</rt></ruby>えてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "title": "旅行に来た外国人がどこからどこへ行ったかわかるシステム", 
+  "has_news_web_image": true, 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。", 
+        "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。"
+      ], 
+      "word": "システム"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ], 
+      "word": "グループ"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。"
+      ], 
+      "word": "無料"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>で、<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>い、<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わないこと。", 
+        "「<ruby><rb>無線電信</rb><rt>むせんでんしん</rt></ruby>」や「<ruby><rb>無線電話</rb><rt>むせんでんわ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。"
+      ], 
+      "word": "無線"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。", 
+        "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。"
+      ], 
+      "word": "データ"
+    }, 
+    {
+      "descriptions": [
+        "四二・一九五キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。"
+      ], 
+      "word": "マラソン"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。", 
+        "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。"
+      ], 
+      "word": "大会"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>進路</rb><rt>しんろ</rt></ruby>。", 
+        "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、そこを<ruby><rb>通</rb><rt>とお</rt></ruby>るように<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>道</rb><rt>みち</rt></ruby>。", 
+        "<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。<ruby><rb>課程</rb><rt>かてい</rt></ruby>。"
+      ], 
+      "word": "コース"
+    }, 
+    {
+      "descriptions": [
+        "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。"
+      ], 
+      "word": "結果"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>決勝点</rb><rt>けっしょうてん</rt></ruby>。", 
+        "バスケットボール・サッカーなどで、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れると<ruby><rb>点</rb><rt>てん</rt></ruby>になる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そこにボールを<ruby><rb>入</rb><rt>い</rt></ruby>れること。", 
+        "<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>の<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>点</rb><rt>てん</rt></ruby>。"
+      ], 
+      "word": "ゴール"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。"
+      ], 
+      "word": "順番"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。"
+      ], 
+      "word": "人気"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。", 
+        "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。"
+      ], 
+      "word": "サービス"
+    }
+  ], 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170314/../20170314/K10010911101_1703141940_1703142020_01_02.jpg", 
+  "news_web_movie_uri": "k10010911101_201703142102_201703142104.mp4", 
+  "news_prearranged_time": "2017-03-16 11:30:00", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,41 @@
+{
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170307/../20170307/K10010901161_1703070616_1703070617_01_03.jpg", 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。"
+      ], 
+      "word": "宅配便"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。"
+      ], 
+      "word": "話し合い"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。"
+      ], 
+      "word": "コンビニ"
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_web_movie": true, 
+  "content_with_ruby": "<p>インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>では<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>では、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>仕事<rt>しごと</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>にも<ruby>頼<rt>たの</rt></ruby>んでいて、このためにかかるお<ruby>金<rt>かね</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えています。</p>\n<p>ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げたいと<ruby>考<rt>かんが</rt></ruby>えて、インターネットで<ruby>品物<rt>しなもの</rt></ruby>を<ruby>売<rt>う</rt></ruby>っている<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>と<span class=\"newWord\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>を<ruby>始<rt>はじ</rt></ruby>めました。ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は、<ruby>会社<rt>かいしゃ</rt></ruby>だけではなくて、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span class=\"newWord\">コンビニ</span>などで<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>を<ruby>送<rt>おく</rt></ruby>るときの<ruby>値段<rt>ねだん</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n<p>どのくらい<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるかはまだ<ruby>決<rt>き</rt></ruby>まっていませんが、ことしの<ruby>秋<rt>あき</rt></ruby>ごろに<ruby>上<rt>あ</rt></ruby>げたいと<ruby>考<rt>かんが</rt></ruby>えています。ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は２７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げていませんでした。</p>\n<p></p>\n<p></p>", 
+  "title_with_ruby": "<ruby>宅配便<rt>たくはいびん</rt></ruby>のヤマト<ruby>運輸<rt>うんゆ</rt></ruby>「<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>から<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げたい」", 
+  "outline": "インターネットで買い物する人が増えているため、宅配便の会社では荷物を運ぶ人が足りなくなっています。", 
+  "news_prearranged_time": "2017-03-07 16:10:00", 
+  "has_news_easy_voice": true, 
+  "news_easy_voice_uri": "k10010901161000.mp3", 
+  "news_web_movie_uri": "k10010901161_201703070616_201703070617.mp4", 
+  "news_id": "k10010901161000", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170307/k10010901161000.html", 
+  "has_news_easy_movie": false, 
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p>インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>では<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "title": "宅配便のヤマト運輸「今年の秋から値段を上げたい」", 
+  "content": "インターネットで買い物する人が増えているため、宅配便の会社では荷物を運ぶ人が足りなくなっています。ヤマト運輸では、荷物を運ぶ仕事を別の会社にも頼んでいて、このためにかかるお金も増えています。\nヤマト運輸は荷物を送る値段を上げたいと考えて、インターネットで品物を売っている大きな会社と話し合いを始めました。ヤマト運輸は、会社だけではなくて、普通の人がコンビニなどで宅配便を送るときの値段も上げる予定です。\nどのくらい値段を上げるかはまだ決まっていませんが、ことしの秋ごろに上げたいと考えています。ヤマト運輸は２７年前から値段を上げていませんでした。"
+}

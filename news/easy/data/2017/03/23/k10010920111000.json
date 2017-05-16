@@ -1,0 +1,68 @@
+{
+  "has_news_easy_voice": true, 
+  "has_news_easy_image": false, 
+  "content_with_ruby": "<p>ブラジルで３<ruby>月<rt>がつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>、２１の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>国<rt>くに</rt></ruby>の<span class=\"newWord\"><ruby>決<rt>き</rt></ruby>まり</span>に<span class=\"newWord\"><ruby>違反<rt>いはん</rt></ruby></span>した<ruby>肉<rt>にく</rt></ruby>を<ruby>売<rt>う</rt></ruby>っていたことがわかりました。２１の<ruby>会社<rt>かいしゃ</rt></ruby>は<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>して、<ruby>肉<rt>にく</rt></ruby>を<ruby>切<rt>き</rt></ruby>ったり<span class=\"newWord\"><ruby>袋<rt>ふくろ</rt></ruby></span>に<ruby>入<rt>い</rt></ruby>れたりする<ruby>工場<rt>こうじょう</rt></ruby>の<span class=\"newWord\"><ruby>検査<rt>けんさ</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>けていませんでした。</p>\n<p>ブラジルは<ruby>世界中<rt>せかいじゅう</rt></ruby>に<ruby>肉<rt>にく</rt></ruby>を<ruby>輸出<rt>ゆしゅつ</rt></ruby>しています。<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>はブラジルの<ruby>肉<rt>にく</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かどうか<ruby>心配<rt>しんぱい</rt></ruby>していて、<ruby>中国<rt>ちゅうごく</rt></ruby>やチリなどは<ruby>輸入<rt>ゆにゅう</rt></ruby>を<ruby>止<rt>と</rt></ruby>めました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>もブラジルから<ruby>鶏肉<rt>とりにく</rt></ruby>をたくさん<ruby>輸入<rt>ゆにゅう</rt></ruby>しています。<ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>によると、２０１５<span class=\"newWord\"><ruby>年度<rt>ねんど</rt></ruby></span>に<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>鶏肉<rt>とりにく</rt></ruby>の８０%ぐらいがブラジルの<ruby>鶏肉<rt>とりにく</rt></ruby>でした。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は「２１の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>肉<rt>にく</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないようにしました。２１の<ruby>会社<rt>かいしゃ</rt></ruby>のうち、<ruby>今<rt>いま</rt></ruby>までに<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>輸入<rt>ゆにゅう</rt></ruby>したことがあるのは１つだけです。<ruby>日本<rt>にっぽん</rt></ruby>では<span class=\"newWord\"><ruby>影響<rt>えいきょう</rt></ruby></span>がないと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はなし</rt></ruby>ました。</p>\n<p></p>\n<p></p>", 
+  "news_web_movie_uri": "k10010920111_201703221208_201703221210.mp4", 
+  "has_news_easy_movie": false, 
+  "words": [
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "決まり", 
+      "descriptions": [
+        "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。", 
+        "しめくくり。おさまり。"
+      ]
+    }, 
+    {
+      "word": "違反", 
+      "descriptions": [
+        "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "袋", 
+      "descriptions": [
+        "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。", 
+        "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。"
+      ]
+    }, 
+    {
+      "word": "検査", 
+      "descriptions": [
+        "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。"
+      ]
+    }, 
+    {
+      "word": "年度", 
+      "descriptions": [
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>四月</rb><rt>しがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>三月三十一日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。"
+      ]
+    }, 
+    {
+      "word": "影響", 
+      "descriptions": [
+        "あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。"
+      ]
+    }
+  ], 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>「ブラジルで<ruby>問題<rt>もんだい</rt></ruby>になった<ruby>肉<rt>にく</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らない」", 
+  "news_easy_voice_uri": "k10010920111000.mp3", 
+  "outline": "ブラジルで３月１７日、２１の会社が国の決まりに違反した肉を売っていたことがわかりました。", 
+  "news_prearranged_time": "2017-03-23 16:25:00", 
+  "news_id": "k10010920111000", 
+  "title": "日本の政府「ブラジルで問題になった肉は日本に入らない」", 
+  "has_news_web_movie": true, 
+  "content": "ブラジルで３月１７日、２１の会社が国の決まりに違反した肉を売っていたことがわかりました。２１の会社は政府の人にお金を渡して、肉を切ったり袋に入れたりする工場の検査を受けていませんでした。\nブラジルは世界中に肉を輸出しています。世界の国はブラジルの肉が安全かどうか心配していて、中国やチリなどは輸入を止めました。\n日本もブラジルから鶏肉をたくさん輸入しています。農林水産省によると、２０１５年度に輸入した鶏肉の８０%ぐらいがブラジルの鶏肉でした。\n日本の政府は「２１の会社の肉が日本に入らないようにしました。２１の会社のうち、今までに日本が輸入したことがあるのは１つだけです。日本では影響がないと考えています」と話ました。", 
+  "outline_with_ruby": "<p>ブラジルで３<ruby>月<rt>がつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>、２１の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>国<rt>くに</rt></ruby>の<span class=\"newWord\"><ruby>決<rt>き</rt></ruby>まり</span>に<span class=\"newWord\"><ruby>違反<rt>いはん</rt></ruby></span>した<ruby>肉<rt>にく</rt></ruby>を<ruby>売<rt>う</rt></ruby>っていたことがわかりました。", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170322/../20170322/K10010920111_1703221208_1703221236_01_03.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170322/k10010920111000.html"
+}

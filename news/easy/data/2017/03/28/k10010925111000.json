@@ -1,0 +1,67 @@
+{
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p>アメリカのワシントンには、１９１２<ruby>年<rt>ねん</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>東京市<rt>とうきょうし</rt></ruby>だったときに<span class=\"newWord\"><ruby>贈<rt>おく</rt></ruby>っ</span>た<span class=\"newWord\"><ruby>桜<rt>さくら</rt></ruby></span>があります。", 
+  "title": "アメリカのワシントンで「桜祭り」が始まる", 
+  "outline": "アメリカのワシントンには、１９１２年、東京都が東京市だったときに贈った桜があります。", 
+  "has_news_web_movie": true, 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "贈る", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。", 
+        "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。"
+      ]
+    }, 
+    {
+      "word": "桜", 
+      "descriptions": [
+        "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。"
+      ]
+    }, 
+    {
+      "word": "歌手", 
+      "descriptions": [
+        "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "市長", 
+      "descriptions": [
+        "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "感謝", 
+      "descriptions": [
+        "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "大使", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "イベント", 
+      "descriptions": [
+        "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。", 
+        "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。"
+      ]
+    }
+  ], 
+  "news_easy_image_uri": "''", 
+  "title_with_ruby": "アメリカのワシントンで「<ruby>桜祭<rt>さくらまつ</rt></ruby>り」が<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_easy_voice_uri": "k10010925111000.mp3", 
+  "content": "アメリカのワシントンには、１９１２年、東京都が東京市だったときに贈った桜があります。今年はとても寒い日があって、花が咲かない木もありますが、大勢の人が桜を見にきています。\n今年も「桜祭り」が始まって、３月２５日に式がありました。日本の歌手のＭａｙＪ．さんが、映画「アナと雪の女王」の歌を英語で歌いました。\nワシントンのバウザー市長は「１０５年前にすばらしい贈り物をもらったことに感謝して、日本の人たちと桜をお祝いしたいです」とあいさつしました。日本の佐々江大使は「桜祭りは、日本とアメリカのいい関係をお祝いする大きなイベントです」と言いました。\n「桜祭り」は４月１６日までで、日本の文化を紹介するイベントなども行う予定です。", 
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170326/../20170326/K10010925111_1703261235_1703261236_01_02.jpg", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170326/k10010925111000.html", 
+  "has_news_easy_image": false, 
+  "news_prearranged_time": "2017-03-28 11:30:00", 
+  "has_news_easy_movie": false, 
+  "news_id": "k10010925111000", 
+  "news_web_movie_uri": "k10010925111_201703261309_201703261310.mp4", 
+  "content_with_ruby": "<p>アメリカのワシントンには、１９１２<ruby>年<rt>ねん</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>東京市<rt>とうきょうし</rt></ruby>だったときに<span class=\"newWord\"><ruby>贈<rt>おく</rt></ruby>っ</span>た<span class=\"newWord\"><ruby>桜<rt>さくら</rt></ruby></span>があります。<ruby>今年<rt>ことし</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>があって、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>かない<ruby>木<rt>き</rt></ruby>もありますが、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span class=\"newWord\"><ruby>桜<rt>さくら</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>にきています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>も「<ruby>桜祭<rt>さくらまつ</rt></ruby>り」が<ruby>始<rt>はじ</rt></ruby>まって、３<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>に<ruby>式<rt>しき</rt></ruby>がありました。<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>歌手<rt>かしゅ</rt></ruby></span>のＭａｙＪ．さんが、<ruby>映画<rt>えいが</rt></ruby>「アナと<ruby>雪<rt>ゆき</rt></ruby>の<ruby>女王<rt>じょおう</rt></ruby>」の<ruby>歌<rt>うた</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>いました。</p>\n<p>ワシントンのバウザー<span class=\"newWord\"><ruby>市長<rt>しちょう</rt></ruby></span>は「１０５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にすばらしい<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>をもらったことに<span class=\"newWord\"><ruby>感謝<rt>かんしゃ</rt></ruby></span>して、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちと<span class=\"newWord\"><ruby>桜<rt>さくら</rt></ruby></span>をお<ruby>祝<rt>いわ</rt></ruby>いしたいです」とあいさつしました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>佐々江<rt>ささえ</rt></ruby><span class=\"newWord\"><ruby>大使<rt>たいし</rt></ruby></span>は「<ruby>桜祭<rt>さくらまつ</rt></ruby>りは、<ruby>日本<rt>にっぽん</rt></ruby>とアメリカのいい<ruby>関係<rt>かんけい</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>大<rt>おお</rt></ruby>きなイベントです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n<p>「<ruby>桜祭<rt>さくらまつ</rt></ruby>り」は４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>までで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span class=\"newWord\">イベント</span>なども<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。</p>\n<p></p>\n<p></p>"
+}

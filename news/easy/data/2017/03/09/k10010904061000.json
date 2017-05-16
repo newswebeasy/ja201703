@@ -1,0 +1,55 @@
+{
+  "outline_with_ruby": "<p><ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、ニューヨークのグランドセントラル<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>をつくって、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>観光地<rt>かんこうち</rt></ruby></span>などを<ruby>紹介<rt>しょうかい</rt></ruby>する<span class=\"newWord\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>きました。", 
+  "title": "アメリカのニューヨークの駅の中に日本の庭ができる", 
+  "news_easy_image_uri": "''", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170309/k10010904061000.html", 
+  "has_news_easy_image": false, 
+  "news_web_movie_uri": "k10010904061_201703091007_201703091009.mp4", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170309/../20170309/K10010904061_1703091007_1703091009_01_03.jpg", 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "観光地", 
+      "descriptions": [
+        "<ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "イベント", 
+      "descriptions": [
+        "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。", 
+        "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "観光", 
+      "descriptions": [
+        "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "増やす", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。"
+      ]
+    }
+  ], 
+  "news_prearranged_time": "2017-03-09 16:40:00", 
+  "has_news_web_image": true, 
+  "news_easy_voice_uri": "k10010904061000.mp3", 
+  "news_easy_movie_uri": "''", 
+  "has_news_web_movie": true, 
+  "content": "日本政府観光局は８日、ニューヨークのグランドセントラル駅の中に日本の庭をつくって、日本の観光地などを紹介するイベントを開きました。\n庭の大きさは縦が１５ｍ、横が７mです。京都にある龍安寺の有名な石の庭をニューヨークの近くの石や木を使ってつくりました。駅に来た人たちは庭の周りに集まって、珍しそうに見たり、写真を撮ったりしていました。\nイベントは１０日までで、日本の食べ物も売っています。アメリカ人の女性は「日本の歴史や文化、食べ物についてもっと知りたいと思いました。すぐに行ってみたくなりました」と話していました。\n日本の政府は、２０２０年に外国から観光に来る人を去年の１．７倍に増やしたいと考えています。", 
+  "title_with_ruby": "アメリカのニューヨークの<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>ができる", 
+  "news_id": "k10010904061000", 
+  "outline": "日本政府観光局は８日、ニューヨークのグランドセントラル駅の中に日本の庭をつくって、日本の観光地などを紹介するイベントを開きました。", 
+  "content_with_ruby": "<p><ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、ニューヨークのグランドセントラル<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>をつくって、<ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>観光地<rt>かんこうち</rt></ruby></span>などを<ruby>紹介<rt>しょうかい</rt></ruby>する<span class=\"newWord\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>きました。</p>\n<p><ruby>庭<rt>にわ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさは<ruby>縦<rt>たて</rt></ruby>が１５ｍ、<ruby>横<rt>よこ</rt></ruby>が７mです。<ruby>京都<rt>きょうと</rt></ruby>にある<ruby>龍安寺<rt>りょうあんじ</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>石<rt>いし</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>をニューヨークの<ruby>近<rt>ちか</rt></ruby>くの<ruby>石<rt>いし</rt></ruby>や<ruby>木<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってつくりました。<ruby>駅<rt>えき</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは<ruby>庭<rt>にわ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>集<rt>あつ</rt></ruby>まって、<ruby>珍<rt>めずら</rt></ruby>しそうに<ruby>見<rt>み</rt></ruby>たり、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりしていました。</p>\n<p><span class=\"newWord\">イベント</span>は<ruby>１０日<rt>とおか</rt></ruby>までで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>も<ruby>売<rt>う</rt></ruby>っています。アメリカ<ruby>人<rt>じん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>についてもっと<ruby>知<rt>し</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>いました。すぐに<ruby>行<rt>い</rt></ruby>ってみたくなりました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>の<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は、２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>外国<rt>がいこく</rt></ruby>から<span class=\"newWord\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<ruby>去年<rt>きょねん</rt></ruby>の１．７<ruby>倍<rt>ばい</rt></ruby>に<span class=\"newWord\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n<p></p>\n<p></p>", 
+  "has_news_easy_movie": false
+}

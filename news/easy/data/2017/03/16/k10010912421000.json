@@ -1,0 +1,68 @@
+{
+  "has_news_easy_movie": false, 
+  "news_id": "k10010912421000", 
+  "has_news_web_movie": true, 
+  "news_easy_voice_uri": "k10010912421000.mp3", 
+  "content": "２０２０年にオリンピックとパラリンピックがあるため、東京の近くには新しいホテルがたくさんできています。千葉県浦安市に、ロボットが人の代わりに働くホテルができました。\nホテルのフロントでは、恐竜の形をしたロボットが日本語や英語、中国語、韓国語で客と話します。客が泊まる部屋にもロボットが置いてあります。このロボットに話すと、テレビやエアコンをつけたり消したりすることができます。\nこのホテルを経営している会社は、長崎県にあるテーマパークのハウステンボスでも、ロボットを使ったホテルを経営しています。ホテルの社長は「日本に来た外国人に、ロボットがいるホテルを楽しんでほしいです」と話していました。", 
+  "has_news_easy_voice": true, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\">オリンピック</span>と<span class=\"newWord\">パラリンピック</span>があるため、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには<ruby>新<rt>あたら</rt></ruby>しいホテルがたくさんできています。", 
+  "title_with_ruby": "ロボットが<ruby>人<rt>ひと</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに<ruby>働<rt>はたら</rt></ruby>くホテルが<ruby>千葉県<rt>ちばけん</rt></ruby>にできる", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170315/k10010912421000.html?utm_int=nsearch_contents_search-items_001", 
+  "has_news_easy_image": false, 
+  "news_easy_image_uri": "''", 
+  "outline": "２０２０年にオリンピックとパラリンピックがあるため、東京の近くには新しいホテルがたくさんできています。", 
+  "content_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\">オリンピック</span>と<span class=\"newWord\">パラリンピック</span>があるため、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには<ruby>新<rt>あたら</rt></ruby>しいホテルがたくさんできています。<ruby>千葉県<rt>ちばけん</rt></ruby><ruby>浦安<rt>うらやす</rt></ruby><ruby>市<rt>し</rt></ruby>に、<span class=\"newWord\">ロボット</span>が<ruby>人<rt>ひと</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに<ruby>働<rt>はたら</rt></ruby>くホテルができました。</p>\n<p>ホテルの<span class=\"newWord\">フロント</span>では、<span class=\"newWord\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>をした<span class=\"newWord\">ロボット</span>が<ruby>日本語<rt>にほんご</rt></ruby>や<ruby>英語<rt>えいご</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>で<ruby>客<rt>きゃく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。<ruby>客<rt>きゃく</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まる<ruby>部屋<rt>へや</rt></ruby>にも<span class=\"newWord\">ロボット</span>が<ruby>置<rt>お</rt></ruby>いてあります。この<span class=\"newWord\">ロボット</span>に<ruby>話<rt>はな</rt></ruby>すと、テレビやエアコンをつけたり<ruby>消<rt>け</rt></ruby>したりすることができます。</p>\n<p>このホテルを<span class=\"newWord\"><ruby>経営<rt>けいえい</rt></ruby></span>している<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>長崎県<rt>ながさきけん</rt></ruby>にある<span class=\"newWord\">テーマパーク</span>のハウステンボスでも、<span class=\"newWord\">ロボット</span>を<ruby>使<rt>つか</rt></ruby>ったホテルを<span class=\"newWord\"><ruby>経営<rt>けいえい</rt></ruby></span>しています。ホテルの<ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>に、<span class=\"newWord\">ロボット</span>がいるホテルを<ruby>楽<rt>たの</rt></ruby>しんでほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p></p>\n<p></p>", 
+  "title": "ロボットが人の代わりに働くホテルが千葉県にできる", 
+  "has_news_web_image": true, 
+  "words": [
+    {
+      "descriptions": [
+        "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。", 
+        "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。", 
+        "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ], 
+      "word": "ロボット"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。"
+      ], 
+      "word": "オリンピック"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。"
+      ], 
+      "word": "パラリンピック"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>正面</rb><rt>しょうめん</rt></ruby>。", 
+        "<ruby><rb>受付</rb><rt>うけつけ</rt></ruby>。"
+      ], 
+      "word": "フロント"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>中生代</rb><rt>ちゅうせいだい</rt></ruby>に<ruby><rb>栄</rb><rt>さか</rt></ruby>えた<ruby><rb>巨大</rb><rt>きょだい</rt></ruby>なは<ruby><rb>虫類</rb><rt>ちゅうるい</rt></ruby>のなかま。<ruby><rb>大</rb><rt>おお</rt></ruby>きなものは<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ三〇メートル、<ruby><rb>重</rb><rt>おも</rt></ruby>さ五〇トンぐらいあった。<ruby><rb>化石</rb><rt>かせき</rt></ruby>として<ruby><rb>発見</rb><rt>はっけん</rt></ruby>される。"
+      ], 
+      "word": "恐竜"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。"
+      ], 
+      "word": "経営"
+    }, 
+    {
+      "descriptions": [
+        "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。"
+      ], 
+      "word": "テーマパーク"
+    }
+  ], 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170315/../20170315/K10010912421_1703151941_1703151947_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_web_movie_uri": "k10010912421_201703152055_201703152121.mp4", 
+  "news_prearranged_time": "2017-03-16 16:00:00", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,92 @@
+{
+  "words": [
+    {
+      "word": "火山", 
+      "descriptions": [
+        "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "約", 
+      "descriptions": [
+        "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。", 
+        "おおよそ。ほぼ。だいたい。"
+      ]
+    }, 
+    {
+      "word": "噴火", 
+      "descriptions": [
+        "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "頂", 
+      "descriptions": [
+        "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "噴火口", 
+      "descriptions": [
+        "<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>のときに、とけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>やガスなどのふき<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>火口</rb><rt>かこう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "灰", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>燃</rb><rt>も</rt></ruby>えたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>粉</rb><rt>こな</rt></ruby>のようなもの。"
+      ]
+    }, 
+    {
+      "word": "積もる", 
+      "descriptions": [
+        "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。", 
+        "<ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。"
+      ]
+    }, 
+    {
+      "word": "炭", 
+      "descriptions": [
+        "<ruby><rb>木</rb><rt>き</rt></ruby>をむし<ruby><rb>焼</rb><rt>や</rt></ruby>きにしたもの。<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>木炭</rb><rt>もくたん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "論文", 
+      "descriptions": [
+        "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "状態", 
+      "descriptions": [
+        "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。"
+      ]
+    }
+  ], 
+  "news_easy_voice_uri": "k10010908721000.mp3", 
+  "has_news_web_movie": false, 
+  "news_id": "k10010908721000", 
+  "has_news_easy_movie": false, 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>専門家<rt>せんもんか</rt></ruby>などの<span class=\"newWord\">グループ</span>の<ruby>火山噴火予知連絡会<rt>かざんふんかよちれんらくかい</rt></ruby>は、<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>今<rt>いま</rt></ruby>までに<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>した<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>を「<ruby>活火山<rt>かつかざん</rt></ruby>」と<ruby>決<rt>き</rt></ruby>めています。", 
+  "has_news_easy_voice": true, 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170313/k10010908721000.html", 
+  "title_with_ruby": "<ruby>栃木県<rt>とちぎけん</rt></ruby>にある<ruby>男体山<rt>なんたいさん</rt></ruby>が「<ruby>活火山<rt>かつかざん</rt></ruby>」になる<ruby>予定<rt>よてい</rt></ruby>", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "title": "栃木県にある男体山が「活火山」になる予定", 
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>専門家<rt>せんもんか</rt></ruby>などの<span class=\"newWord\">グループ</span>の<ruby>火山噴火予知連絡会<rt>かざんふんかよちれんらくかい</rt></ruby>は、<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>今<rt>いま</rt></ruby>までに<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>した<span class=\"newWord\"><ruby>火山<rt>かざん</rt></ruby></span>を「<ruby>活火山<rt>かつかざん</rt></ruby>」と<ruby>決<rt>き</rt></ruby>めています。</p>\n<p><ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光<rt>にっこう</rt></ruby><ruby>市<rt>し</rt></ruby>にある<ruby>高<rt>たか</rt></ruby>さ２４８６ｍの<ruby>男体山<rt>なんたいさん</rt></ruby>は、１<ruby>万<rt>まん</rt></ruby>７０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>最後<rt>さいご</rt></ruby>に<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>したと<ruby>考<rt>かんが</rt></ruby>えられていたため、<ruby>活火山<rt>かつかざん</rt></ruby>ではありませんでした。</p>\n<p><ruby>富山大学大学院<rt>とやまだいがくだいがくいん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span class=\"newWord\">グループ</span>が<ruby>男体山<rt>なんたいさん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べると、<span class=\"newWord\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>の<span class=\"newWord\"><ruby>火口<rt>かこう</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りに<span class=\"newWord\"><ruby>灰<rt>はい</rt></ruby></span>などが<span class=\"newWord\"><ruby>積<rt>つ</rt></ruby>もっ</span>ている<ruby>所<rt>ところ</rt></ruby>がありました。その<ruby>中<rt>なか</rt></ruby>で<span class=\"newWord\"><ruby>炭<rt>すみ</rt></ruby></span>になった<ruby>木<rt>き</rt></ruby>が、７０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>だとわかりました。</p>\n<p><ruby>研究<rt>けんきゅう</rt></ruby><span class=\"newWord\">グループ</span>は、７０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<span class=\"newWord\"><ruby>噴火<rt>ふんか</rt></ruby></span>したと<ruby>考<rt>かんが</rt></ruby>えることができるという<span class=\"newWord\"><ruby>論文<rt>ろんぶん</rt></ruby></span>を<ruby>書<rt>か</rt></ruby>きました。このため<ruby>火山噴火予知連絡会<rt>かざんふんかよちれんらくかい</rt></ruby>は、<ruby>男体山<rt>なんたいさん</rt></ruby>は<ruby>活火山<rt>かつかざん</rt></ruby>だと<ruby>新<rt>あたら</rt></ruby>しく６<ruby>月<rt>がつ</rt></ruby>に<ruby>決<rt>き</rt></ruby>めることにしました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>活火山<rt>かつかざん</rt></ruby>は１１１になります。</p>\n<p><ruby>研究<rt>けんきゅう</rt></ruby><span class=\"newWord\">グループ</span>によると、<ruby>男体山<rt>なんたいさん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かな<span class=\"newWord\"><ruby>状態<rt>じょうたい</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いています。</p>\n<p></p>", 
+  "outline": "火山の専門家などのグループの火山噴火予知連絡会は、約１万年前から今までに噴火した火山を「活火山」と決めています。", 
+  "content": "火山の専門家などのグループの火山噴火予知連絡会は、約１万年前から今までに噴火した火山を「活火山」と決めています。\n栃木県日光市にある高さ２４８６ｍの男体山は、１万７０００年ぐらい前に最後に噴火したと考えられていたため、活火山ではありませんでした。\n富山大学大学院の研究グループが男体山を調べると、頂上の火口の周りに灰などが積もっている所がありました。その中で炭になった木が、７０００年ぐらい前の物だとわかりました。\n研究グループは、７０００年ぐらい前に噴火したと考えることができるという論文を書きました。このため火山噴火予知連絡会は、男体山は活火山だと新しく６月に決めることにしました。日本の活火山は１１１になります。\n研究グループによると、男体山は今は静かな状態が続いています。", 
+  "news_web_movie_uri": "", 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170313/../20170313/K10010908721_1703130633_1703130633_01_03.jpg", 
+  "has_news_web_image": true, 
+  "news_easy_movie_uri": "''", 
+  "news_prearranged_time": "2017-03-14 11:30:00"
+}

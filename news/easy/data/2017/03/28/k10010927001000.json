@@ -1,0 +1,85 @@
+{
+  "news_easy_movie_uri": "''", 
+  "outline_with_ruby": "<p>２６<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby><ruby>我孫子市<rt>あびこし</rt></ruby>にある<span class=\"newWord\"><ruby>水路<rt>すいろ</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くで、<ruby>小学校<rt>しょうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<span class=\"newWord\"><ruby>遺体<rt>いたい</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかりました。", 
+  "title": "遺体で見つかった女の子「１月ごろに変な人に会った」", 
+  "outline": "２６日の朝、千葉県我孫子市にある水路の近くで、小学校３年生の女の子の遺体が見つかりました。", 
+  "has_news_web_movie": true, 
+  "has_news_easy_voice": true, 
+  "words": [
+    {
+      "word": "遺体", 
+      "descriptions": [
+        "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "水路", 
+      "descriptions": [
+        "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>るみち。", 
+        "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>通</rb><rt>とお</rt></ruby>るみち。<ruby><rb>航路</rb><rt>こうろ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "離れる", 
+      "descriptions": [
+        "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。", 
+        "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。", 
+        "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。", 
+        "やめる。"
+      ]
+    }, 
+    {
+      "word": "絞める", 
+      "descriptions": [
+        "（<ruby><rb>首</rb><rt>くび</rt></ruby>などの<ruby><rb>周</rb><rt>まわ</rt></ruby>りに）<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>える。"
+      ]
+    }, 
+    {
+      "word": "痕", 
+      "descriptions": [
+        "（<ruby><rb>傷</rb><rt>きず</rt></ruby>などを<ruby><rb>受</rb><rt>う</rt></ruby>けて）<ruby><rb>残</rb><rt>のこ</rt></ruby>っているしるし。"
+      ]
+    }, 
+    {
+      "word": "殺す", 
+      "descriptions": [
+        "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。", 
+        "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。", 
+        "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。", 
+        "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。"
+      ]
+    }, 
+    {
+      "word": "可能性", 
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ]
+    }, 
+    {
+      "word": "誘拐", 
+      "descriptions": [
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>をだまして、<ruby><rb>連</rb><rt>つ</rt></ruby>れて<ruby><rb>行</rb><rt>い</rt></ruby>ってしまうこと。"
+      ]
+    }, 
+    {
+      "word": "詳しい", 
+      "descriptions": [
+        "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。", 
+        "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。"
+      ]
+    }
+  ], 
+  "news_easy_image_uri": "''", 
+  "title_with_ruby": "<ruby>遺体<rt>いたい</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>「１<ruby>月<rt>がつ</rt></ruby>ごろに<ruby>変<rt>へん</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>に<ruby>会<rt>あ</rt></ruby>った」", 
+  "news_easy_voice_uri": "k10010927001000.mp3", 
+  "content": "２６日の朝、千葉県我孫子市にある水路の近くで、小学校３年生の女の子の遺体が見つかりました。女の子は、１０ｋｍぐらい離れた松戸市に住んでいるベトナム人で、９歳のレェ・ティ・ニャット・リンさんです。\n警察が調べると、リンさんの首を絞めたような痕がありました。警察は、リンさんは殺された可能性があると考えています。リンさんは２４日の朝、学校に行くため家を出ましたが、そのあとすぐ誰かが誘拐した可能性があると言っています。\nリンさんは学校の友だちに「１月ごろに学校から家までの道で、変な人に会って怖かった」と話していたこともわかりました。警察は詳しく調べています。", 
+  "has_news_web_image": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170328/../20170328/K10010927001_1703280611_1703280616_01_03.jpg", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170328/k10010927001000.html", 
+  "has_news_easy_image": false, 
+  "news_prearranged_time": "2017-03-28 15:35:00", 
+  "has_news_easy_movie": false, 
+  "news_id": "k10010927001000", 
+  "news_web_movie_uri": "k10010927001_201703280612_201703280616.mp4", 
+  "content_with_ruby": "<p>２６<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>千葉県<rt>ちばけん</rt></ruby><ruby>我孫子市<rt>あびこし</rt></ruby>にある<span class=\"newWord\"><ruby>水路<rt>すいろ</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くで、<ruby>小学校<rt>しょうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<span class=\"newWord\"><ruby>遺体<rt>いたい</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかりました。<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は、１０ｋｍぐらい<span class=\"newWord\"><ruby>離<rt>はな</rt></ruby>れ</span>た<ruby>松戸市<rt>まつどし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいるベトナム<ruby>人<rt>じん</rt></ruby>で、９<ruby>歳<rt>さい</rt></ruby>のレェ・ティ・ニャット・リンさんです。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、リンさんの<ruby>首<rt>くび</rt></ruby>を<span class=\"newWord\"><ruby>絞<rt>し</rt></ruby>め</span>たような<span class=\"newWord\"><ruby>痕<rt>あと</rt></ruby></span>がありました。<ruby>警察<rt>けいさつ</rt></ruby>は、リンさんは<span class=\"newWord\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れた<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えています。リンさんは<ruby>２４日<rt>にじゅうよっか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くため<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ましたが、そのあとすぐ<ruby>誰<rt>だれ</rt></ruby>かが<span class=\"newWord\"><ruby>誘拐<rt>ゆうかい</rt></ruby></span>した<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>リンさんは<ruby>学校<rt>がっこう</rt></ruby>の<ruby>友<rt>とも</rt></ruby>だちに「１<ruby>月<rt>がつ</rt></ruby>ごろに<ruby>学校<rt>がっこう</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>までの<ruby>道<rt>みち</rt></ruby>で、<ruby>変<rt>へん</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>に<ruby>会<rt>あ</rt></ruby>って<ruby>怖<rt>こわ</rt></ruby>かった」と<ruby>話<rt>はな</rt></ruby>していたこともわかりました。<ruby>警察<rt>けいさつ</rt></ruby>は<span class=\"newWord\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べています。</p>\n<p></p>\n<p></p>"
+}
