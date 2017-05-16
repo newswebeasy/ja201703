@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "庁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>役目</rb><rt>やくめ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>次官</rb><rt>じかん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "長官"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "おもなものの<ruby><rb>次</rb><rt>つぎ</rt></ruby>の。ひかえの。",
+          "hyouki": [
+            "副"
+          ]
+        },
+        {
+          "def": "そえるもの。つきもの。",
+          "hyouki": [
+            "副"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>持</rb><rt>も</rt></ruby>たないこと。<ruby><rb>手</rb><rt>て</rt></ruby>ぶら。",
+          "hyouki": [
+            "空手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>武器</rb><rt>ぶき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>たず、<ruby><rb>手足</rb><rt>てあし</rt></ruby>だけで<ruby><rb>戦</rb><rt>たたか</rt></ruby>う<ruby><rb>武術</rb><rt>ぶじゅつ</rt></ruby>。",
+          "hyouki": [
+            "空手"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。",
+          "hyouki": [
+            "留学"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "天井"
+          ]
+        },
+        {
+          "def": "ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。",
+          "hyouki": [
+            "天井"
+          ]
+        }
+      ]
+    }
+  }
+}

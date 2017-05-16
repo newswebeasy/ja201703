@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>歩</rb><rt>ある</rt></ruby>きやすいように<ruby><rb>持</rb><rt>も</rt></ruby>つ、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。ステッキ。",
+          "hyouki": [
+            "杖"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ]
+    }
+  }
+}
